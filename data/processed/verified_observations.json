@@ -12,7 +12,7 @@
     "status": "PENDING",
     "analyst_name": null,
     "review_notes": null,
-    "created_at": "2026-11-13T11:13:11.106221+00:00",
+    "created_at": "2026-11-13T11:40:10.845787+00:00",
     "verified_at": null
   },
   "OBS_CLIP_SMAT_P_102": {
@@ -28,7 +28,7 @@
     "status": "PENDING",
     "analyst_name": null,
     "review_notes": null,
-    "created_at": "2026-11-13T11:13:11.109634+00:00",
+    "created_at": "2026-11-13T11:40:10.849394+00:00",
     "verified_at": null
   },
   "OBS_CLIP_VERIFY_FLOW_01": {
@@ -44,8 +44,8 @@
     "status": "CONFIRMED",
     "analyst_name": "Giles Lindsay",
     "review_notes": null,
-    "created_at": "2026-11-13T11:13:11.115590+00:00",
-    "verified_at": "2026-11-13T11:13:11.118672+00:00"
+    "created_at": "2026-11-13T11:40:10.855427+00:00",
+    "verified_at": "2026-11-13T11:40:10.858525+00:00"
   },
   "OBS_CLIP_VERIFY_CORRECT_02": {
     "obs_id": "OBS_CLIP_VERIFY_CORRECT_02",
@@ -60,8 +60,8 @@
     "status": "CORRECTED",
     "analyst_name": "Kumar Sangakkara",
     "review_notes": "Verified against 145kph delivery trajectory.",
-    "created_at": "2026-11-13T11:13:11.120957+00:00",
-    "verified_at": "2026-11-13T11:13:11.123421+00:00"
+    "created_at": "2026-11-13T11:40:10.860808+00:00",
+    "verified_at": "2026-11-13T11:40:10.863144+00:00"
   },
   "OBS_CLIP_VERIFY_REJECT_03": {
     "obs_id": "OBS_CLIP_VERIFY_REJECT_03",
@@ -76,8 +76,8 @@
     "status": "REJECTED",
     "analyst_name": "Analyst Team",
     "review_notes": "Camera parallax angle obscured back-lift plane.",
-    "created_at": "2026-11-13T11:13:11.128298+00:00",
-    "verified_at": "2026-11-13T11:13:11.131095+00:00"
+    "created_at": "2026-11-13T11:40:10.865816+00:00",
+    "verified_at": "2026-11-13T11:40:10.867688+00:00"
   },
   "OBS_TEST_DB_01": {
     "obs_id": "OBS_TEST_DB_01",

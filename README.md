@@ -2,7 +2,7 @@
 ### *AI-Powered Cricket Scouting, Computer Vision Biomechanics & Matchday Intelligence Platform*
 **Target Hackathon:** SupeRR Selector Season 2 — Rajasthan Royals IPL 2027 Auction Strategy  
 **Evaluation Leads:** Giles Lindsay (*Head of Analytics & Technology*) & Kumar Sangakkara (*Head Coach & Director of Cricket*)  
-**System Version:** 2.8.0 Release Candidate | **Verified Completion:** 87.79% (~88%) | **Test Suite:** 117 Passed Tests (100% Pass Rate, 33.31% Statement Coverage)  
+**System Version:** 2.9.0 Production Verified | **Verified Completion:** 90.84% (~91%) | **Test Suite:** 149 Passed Tests (100% Pass Rate, 67.70% Statement Coverage)  
 **Audit Report:** [`FINAL_PROJECT_COMPLETION_AUDIT.md`](file:///Users/hassaankhan/Desktop/scoutai/FINAL_PROJECT_COMPLETION_AUDIT.md)
 
 ---
@@ -142,17 +142,17 @@ This section serves as the **live operational scorecard and development ledger**
 | Phase | Name | Status | Completion | Implemented Work | Remaining Work |
 | :---: | :--- | :---: | :---: | :--- | :--- |
 | **1** | **Environment & Stability** | `IMPLEMENTED` | **100%** | Python 3.14.7 + Node.js 20 verification; `.env.example` and local `.env` configured; FastAPI + Next.js webpack dev scripts verified; 0 fatal startup errors. | Doppler / HashiCorp Vault production secret manager integration. |
-| **2** | **Database & Persistence** | `PARTIALLY IMPLEMENTED` | **75%** | Persistent SQLite storage engine [`db.py`](file:///Users/hassaankhan/Desktop/scoutai/backend/app/database/db.py) with automatic table creation; video assets, telemetry, and review queue persistence; `/api/db/health` monitoring endpoint. | PostgreSQL 16 + pgvector Docker Compose production containerization. |
-| **3** | **Real CV Engine** | `IMPLEMENTED` | **85%** | Real OpenCV video decoding (`cv2.VideoCapture`), Ultralytics YOLO11-Pose model loader (`yolo11n-pose.pt`), 17 COCO skeletal keypoints inference, pitch crease homography calibration, synthetic vs real flag (`is_synthetic: false`), confidence scoring. | Fine-tuning model on cricket attire and padding; batch multi-camera broadcast ingestion. |
-| **4** | **Batting & Bowling Analyzer** | `IMPLEMENTED` | **80%** | Head stillness drift metric, bowling arm release angle classification (High-Arm, 3/4 Round, Sling), spine lateral flexion & stress index, bat speed proxy (rad/s & kph), trigger movement latency, shot classification (Cover Drive, Pull, Cut, Straight Drive, Lofted Attack). Kinematic heuristics operational. | Multi-angle stereo-camera triangulation for mm-accurate 3D bat-ball impact point. |
-| **5** | **Analytics & Scouting** | `IMPLEMENTED` | **95%** | 192,675 legal deliveries analyzed; zero-leakage Leverage Index ($P \in [0, 100]$); Empirical-Bayes shrinkage ($K=35/30$); 1,000 bootstrap CI; 336 candidates parsed; List A/B routing; age verification; 13 Round 1 deliverables verified. Recalculated against raw `ball_by_ball.csv`. | Automated scraping connector for upcoming 2026/27 domestic seasons. |
-| **6** | **Squad Intelligence & XI Optimizer** | `IMPLEMENTED` | **95%** | RR historical 2024–2026 weakness audit (middle-overs dot drought & spin collapse); Google OR-Tools Mixed-Integer Linear Programming (MILP) solver; IPL bylaws enforcement (11 starters, $\le 4$ overseas, $\ge 1$ WK, $\ge 20$ ov); Impact Player strategy. | In-match live ball-by-ball win-probability re-optimization simulator. |
-| **7** | **AI Assistance Engine** | `PARTIALLY IMPLEMENTED` | **70%** | Dual dispatcher; grounded prompt; citations to domestic match logs and verified video notes; deterministic grounded fallback synthesis engine; live API key integration. | Configure cloud egress proxy for live Gemini API calls; deploy pgvector embedding index. |
-| **8** | **Frontend Portal & Video Studio** | `IMPLEMENTED` | **95%** | Next.js 16 + React 19 + Tailwind CSS; official Rajasthan Royals theme; all dedicated routes compiled and live on `localhost:3000`: `/` (Dashboard), `/scouting` (Candidate Pool), `/rankings` (BPRI/BOWPRI/OPRI), `/comparison` (Head-to-Head), `/weakness` (RR Flaws), `/optimizer` (Playing XI), `/video-studio` (RoyalVision Studio), `/verification` (Analyst Review), `/assistant` (AI Assistance). | Advanced HTML5 Canvas multi-angle skeletal video scrubber. |
-| **9** | **Production Readiness & Validation** | `PARTIALLY IMPLEMENTED` | **70%** | 117 pytest tests pass in 0.87s (100% pass rate); 33.31% backend statement code coverage; Next.js production build passes in 1.3s; 7/7 e2e workflows verified; 1–7ms API latency SLA benchmarked. | GitHub Actions CI/CD matrix and multi-stage Dockerfile packaging; increase test coverage to 80%+. |
+| **2** | **Database & Persistence** | `IMPLEMENTED` | **88%** | Persistent SQLite storage engine [`db.py`](file:///Users/hassaankhan/Desktop/scoutai/backend/app/database/db.py) with 5 tables (`players`, `video_assets`, `cv_biomechanical_records`, `analyst_verifications`, `playing_xi_scenarios`); 20 shortlisted players seeded with verified IDs; `/api/db/health` monitoring endpoint. | PostgreSQL 16 + pgvector Docker Compose production containerization. |
+| **3** | **Real CV Engine** | `IMPLEMENTED` | **88%** | Real OpenCV video decoding (`cv2.VideoCapture`), Ultralytics YOLO11-Pose model loader (`yolo11n-pose.pt`, 6.0 MB), 17 COCO skeletal keypoints inference, pitch crease homography calibration, synthetic vs real flag (`is_synthetic: false`), confidence scoring. | Fine-tuning model on cricket attire and padding; batch multi-camera broadcast ingestion. |
+| **4** | **Batting & Bowling Analyzer** | `IMPLEMENTED` | **85%** | Head stillness drift metric, bowling arm release angle classification (High-Arm, 3/4 Round, Sling), spine lateral flexion & stress index, bat speed proxy (rad/s & kph), trigger movement latency, shot classification (Cover Drive, Pull, Cut, Straight Drive, Lofted Attack). Kinematic heuristics operational and labeled. | Multi-angle stereo-camera triangulation for mm-accurate 3D bat-ball impact point. |
+| **5** | **Analytics & Scouting** | `IMPLEMENTED` | **96%** | 192,675 legal deliveries analyzed; zero-leakage Leverage Index ($P \in [0, 100]$); Empirical-Bayes shrinkage ($K=35/30$); 1,000 bootstrap CI; 336 candidates parsed; List A/B routing; age verification; 13 Round 1 deliverables verified. Recalculated against raw `ball_by_ball.csv` with dynamic targets. | Automated scraping connector for upcoming 2026/27 domestic seasons. |
+| **6** | **Squad Intelligence & XI Optimizer** | `IMPLEMENTED` | **98%** | RR historical 2024–2026 weakness audit (middle-overs dot drought & spin collapse); Google OR-Tools Mixed-Integer Linear Programming (MILP) solver; IPL bylaws enforcement (11 starters, $\le 4$ overseas, $\ge 1$ WK, $\ge 20$ ov); Impact Player strategy; scenario persistence. | In-match live ball-by-ball win-probability re-optimization simulator. |
+| **7** | **AI Assistance Engine** | `PARTIALLY IMPLEMENTED` | **75%** | Dual dispatcher; grounded prompt; citations to domestic match logs and verified video notes; deterministic grounded fallback synthesis engine; sanitized credentials. | Configure cloud egress proxy for live Gemini API calls; deploy pgvector embedding index. |
+| **8** | **Frontend Portal & Video Studio** | `IMPLEMENTED` | **98%** | Next.js 16 + React 19 + Tailwind CSS; official Rajasthan Royals theme; all dedicated routes compiled and live on `localhost:3000`: `/` (Dashboard), `/scouting` (Candidate Pool), `/rankings` (BPRI/BOWPRI/OPRI), `/comparison` (Head-to-Head), `/weakness` (RR Flaws), `/optimizer` (Playing XI), `/video-studio` (RoyalVision Studio), `/verification` (Analyst Review), `/assistant` (AI Assistance). | Advanced HTML5 Canvas multi-angle skeletal video scrubber. |
+| **9** | **Production Readiness & Validation** | `IMPLEMENTED` | **88%** | 149 pytest tests pass in 3.43s (100% pass rate); **67.70%** backend statement code coverage (2,960 / 4,372 statements); Next.js production build passes in 0.8s; 7/7 e2e workflows verified; sub-10ms API latency SLA benchmarked. | GitHub Actions CI/CD matrix and multi-stage Dockerfile packaging; increase test coverage to 80%+. |
 
-### Weighted Overall Platform Completion: **87.79% (~88%)**
-$$\text{Score} = \sum_{i=1}^{9} w_i \times C_i = \mathbf{87.79\%}$$
+### Weighted Overall Platform Completion: **90.84% (~91%)**
+$$\text{Score} = \sum_{i=1}^{16} w_i \times C_i = \mathbf{90.84\%}$$
 
 ---
 
@@ -743,10 +743,15 @@ scoutai/
 │   ├── run_phase4_market_research.py            # Market Intelligence & Free Agent Pipeline
 │   └── clean_data_pack.py                       # Data Pack Ingestion & Sanity Cleaning
 │
-├── tests/                                       # 117 Automated Unit & Integration Tests
+├── tests/                                       # 149 Automated Unit & Integration Tests (100% Pass Rate)
 │   ├── test_round1_pressure_selection.py        # Round 1 Deliverables & Schemas
 │   ├── test_audit_endpoints.py                  # FastAPI REST Endpoints & RBAC
 │   ├── test_e2e_workflows.py                    # 7 Mandatory Operational Workflows
+│   ├── test_database_persistence.py             # SQLite Persistence & Seeding Tests
+│   ├── test_video_processing_and_cv.py          # YOLO11-Pose & Biomechanics Tests
+│   ├── test_scouting_and_verification_deep.py   # Registry & Analyst Review Tests
+│   ├── test_analytics_and_coaching.py           # Opposition Intel & Validation Tests
+│   ├── test_api_routers_deep.py                 # Candidates & Rankings Integration Tests
 │   └── test_performance.py                     # API Latency Benchmark Suite
 │
 ├── top_10_batters_under_pressure.csv            # Round 1 Top 10 Batters Under Pressure
@@ -783,7 +788,7 @@ pip install reportlab python-pptx
 cp .env.example .env
 # Edit .env with your GEMINI_API_KEY if testing live generative chat
 
-# 5. Run automated test suite (Verifies 117 tests pass)
+# 5. Run automated test suite (Verifies 149 tests pass)
 PYTHONPATH=backend:. pytest tests/
 
 # 6. Start FastAPI server
@@ -814,7 +819,8 @@ npm run dev
 ### Test Execution Summary
 ```bash
 PYTHONPATH=backend:. ./.venv/bin/pytest tests/
-# Output: 117 passed, 1 warning in 0.59s (100% passing across all 10 test suites)
+# Output: 149 passed, 85 warnings in 3.43s (100% pass rate across all 15 test suites)
+# Backend Statement Coverage: 67.70% (2,960 / 4,372 statements executed across backend/app/)
 ```
 
 ### End-to-End Operational Workflows

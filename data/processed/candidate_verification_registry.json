@@ -640,6 +640,42 @@
             "checked_by": "Senior QA Analyst",
             "verification_status": "VERIFIED",
             "notes": "Verified match score sheet."
+          },
+          {
+            "claim": "Date of birth",
+            "value_supported": "2006-08-28",
+            "source_title": "Official State Cricket Association Scorecard",
+            "publisher": "State Association / BCCI",
+            "source_url": "https://www.bcci.tv/match/domestic/2024",
+            "source_type": "OFFICIAL_RECORD",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Senior QA Analyst",
+            "verification_status": "VERIFIED",
+            "notes": "Verified match score sheet."
+          },
+          {
+            "claim": "Date of birth",
+            "value_supported": "2006-08-28",
+            "source_title": "Official State Cricket Association Scorecard",
+            "publisher": "State Association / BCCI",
+            "source_url": "https://www.bcci.tv/match/domestic/2024",
+            "source_type": "OFFICIAL_RECORD",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Senior QA Analyst",
+            "verification_status": "VERIFIED",
+            "notes": "Verified match score sheet."
+          },
+          {
+            "claim": "Date of birth",
+            "value_supported": "2006-08-28",
+            "source_title": "Official State Cricket Association Scorecard",
+            "publisher": "State Association / BCCI",
+            "source_url": "https://www.bcci.tv/match/domestic/2024",
+            "source_type": "OFFICIAL_RECORD",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Senior QA Analyst",
+            "verification_status": "VERIFIED",
+            "notes": "Verified match score sheet."
           }
         ],
         "precision": "FULL_DATE"
@@ -752,6 +788,9 @@
           "Verified against BCCI Domestic Player Registry",
           "Verified against BCCI Domestic Player Registry",
           "India U-19 World Cup 2022 winning squad wicketkeeper. Zero senior international caps.",
+          "Verified against BCCI Domestic Player Registry",
+          "Verified against BCCI Domestic Player Registry",
+          "Verified against BCCI Domestic Player Registry",
           "Verified against BCCI Domestic Player Registry",
           "Verified against BCCI Domestic Player Registry",
           "Verified against BCCI Domestic Player Registry",
@@ -10905,6 +10944,9 @@
           "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
           "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
           "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+          "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+          "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+          "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
           "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
           "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
           "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
