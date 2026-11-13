@@ -1,0 +1,11 @@
+player_id,name,dob,age,role,state_team,specialization,projected_inr_crores,acpi_potential_index,tactical_fit
+RR_CAND_01,Andre Siddharth,2006-08-28,20,Right-Hand Batter,Tamil Nadu,High-Impact Middle-Order Aggressor (T20 SR 165+),0.8,9.8,Long-term replacement for domestic middle-order hitting
+RR_CAND_02,Swastik Chikara,2005-04-03,21,Right-Hand Batter,Uttar Pradesh,Explosive Powerplay / Death Boundary Striker (UP T20 MVP),0.6,9.5,Elite power finisher depth alongside Hetmyer / Parag
+RR_CAND_03,Aradhya Shukla,2004-12-06,21,Right-Arm Fast Medium,Punjab,"India U-19 Seam Bowler, Tall Hit-the-Deck Release",0.4,9.2,Hit-the-deck pace depth for Sawai Mansingh Stadium
+RR_CAND_04,Uday Saharan,2004-09-08,22,Right-Hand Batter,Punjab / Rajasthan (Ganganagar Native),"India U-19 World Cup Captain, High-Temperament Middle-Order Anchor",0.9,9.4,Local Rajasthan native captaincy-grade anchor for spin-collapse recovery
+RR_CAND_05,Aaradhya Yadav,2004-06-03,22,Wicketkeeper-Batter,Uttar Pradesh,"India U-19 World Cup Wicketkeeper, High Bat Speed Finisher",0.4,9.0,Backup Indian wicketkeeper for Sanju Samson
+RR_CAND_06,Aaqib Khan,2003-12-25,22,Right-Arm Fast,Uttar Pradesh,142+ kph Express Outswing & Death Yorker Accuracy,0.75,9.4,High-pace Indian death bowler to complement foreign pacers
+RR_CAND_07,Aarya Desai,2003-04-03,23,Left-Hand Batter,Gujarat,Compact Left-Handed Top-Order Accumulator,0.5,8.8,Top-order left-hand stability for powerplay matchups
+RR_CAND_08,Himanshu Chauhan,2002-09-15,24,Right-Arm Fast Medium,Delhi,"Frontline Ranji/SMAT Wicket-Taker, Seam-Movement Specialist",0.65,9.1,Powerplay swing bowler taking wickets in overs 1-6
+RR_CAND_09,Kunal Ajay Rathore,2002-10-09,24,Wicketkeeper-Batter (Left-Hand),Rajasthan,Homegrown Rajasthan Keeper-Finisher (Strike Rate 155+ in Death),0.55,9.0,Local Rajasthan talent familiar with SMS Stadium pitch dynamics
+RR_CAND_10,Vicky Ostwal,2002-09-01,24,Slow Left-Arm Orthodox,Maharashtra,"India U-19 Leading Wicket-Taker, Exceptional Economy Rate (<6.4 rpo)",0.7,9.3,T20 middle-overs control spinner to choke left-handers

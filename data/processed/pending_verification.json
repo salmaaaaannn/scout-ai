@@ -1,0 +1,190 @@
+{
+  "total_pending": 2,
+  "pending_candidates": [
+    {
+      "candidate_id": "UNSTOP_0106",
+      "name": "Himanshu Singh",
+      "pending_reason": "Initial unresearched state from raw Unstop pool",
+      "details": {
+        "candidate_id": "UNSTOP_0106",
+        "identity": {
+          "unstop_name": "Himanshu Singh",
+          "verified_name": "Himanshu Singh (Mumbai Off-Spinner)",
+          "name_status": "VERIFIED",
+          "original_entry_indices": [
+            105,
+            106
+          ]
+        },
+        "dob": {
+          "value": null,
+          "status": "PENDING",
+          "evidence": []
+        },
+        "nationality_and_status": {
+          "country": null,
+          "is_indian_domestic_player": null,
+          "is_overseas": null,
+          "status": "PENDING",
+          "evidence": []
+        },
+        "international_and_contract_record": {
+          "senior_india_international_appearances": null,
+          "bcci_senior_central_contract_status": "PENDING",
+          "senior_capped_status": "PENDING",
+          "status": "PENDING",
+          "evidence": []
+        },
+        "playing_profile": {
+          "role": null,
+          "batting_hand": null,
+          "bowling_style": null,
+          "state_team": null,
+          "status": "PENDING",
+          "evidence": []
+        },
+        "performance_data": {
+          "source_status": "N/A — insufficient verified sample",
+          "statistics": {},
+          "evidence": []
+        },
+        "age_calculations": {
+          "as_of_2026_11_08": {
+            "years": null,
+            "months": null,
+            "days": null,
+            "total_days": null,
+            "status": "NOT_CALCULATED"
+          },
+          "as_of_2027_04_01": {
+            "years": null,
+            "months": null,
+            "days": null,
+            "total_days": null,
+            "status": "NOT_CALCULATED"
+          }
+        },
+        "eligibility": {
+          "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+          "status": "PENDING_VERIFICATION",
+          "reason": "Initial unresearched state from raw Unstop pool",
+          "evidence": []
+        },
+        "verification": {
+          "overall_status": "PENDING_VERIFICATION",
+          "checked_by": "Giles Lindsay (Director of Strategy)",
+          "checked_on": "2026-11-08",
+          "review_notes": [
+            "Duplicate entry in Unstop raw pool at dropdown indices [105, 106]. Preserved under single verified identity.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17.",
+            "Disambiguation resolved by Royals Lead Scout: Holding both index 105 and 106 as pending until official state association rosters clarify whether this is the Mumbai off-spinner or a separate state cricketer.",
+            "Disambiguation resolved by Giles Lindsay (Director of Strategy): Corroborated as Mumbai CA Ranji off-spinner born 2003-09-17."
+          ]
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0271",
+      "name": "Shivam Gupta",
+      "pending_reason": "No Cricinfo profile found in initial search. DOB unverified; requires manual state registry check.",
+      "details": {
+        "candidate_id": "UNSTOP_0271",
+        "identity": {
+          "unstop_name": "Shivam Gupta",
+          "verified_name": null,
+          "name_status": "PENDING",
+          "original_entry_indices": [
+            271
+          ]
+        },
+        "dob": {
+          "value": null,
+          "status": "PENDING",
+          "evidence": []
+        },
+        "nationality_and_status": {
+          "country": null,
+          "is_indian_domestic_player": null,
+          "is_overseas": null,
+          "status": "PENDING",
+          "evidence": []
+        },
+        "international_and_contract_record": {
+          "senior_india_international_appearances": null,
+          "bcci_senior_central_contract_status": "PENDING",
+          "senior_capped_status": "PENDING",
+          "status": "PENDING",
+          "evidence": []
+        },
+        "playing_profile": {
+          "role": null,
+          "batting_hand": null,
+          "bowling_style": null,
+          "state_team": null,
+          "status": "PENDING",
+          "evidence": []
+        },
+        "performance_data": {
+          "source_status": "N/A — insufficient verified sample",
+          "statistics": {},
+          "evidence": []
+        },
+        "age_calculations": {
+          "as_of_2026_11_08": {
+            "years": null,
+            "months": null,
+            "days": null,
+            "total_days": null,
+            "status": "NOT_CALCULATED"
+          },
+          "as_of_2027_04_01": {
+            "years": null,
+            "months": null,
+            "days": null,
+            "total_days": null,
+            "status": "NOT_CALCULATED"
+          }
+        },
+        "eligibility": {
+          "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+          "status": "PENDING_VERIFICATION",
+          "reason": "No Cricinfo profile found in initial search. DOB unverified; requires manual state registry check.",
+          "evidence": []
+        },
+        "verification": {
+          "overall_status": "PENDING_VERIFICATION",
+          "checked_by": null,
+          "checked_on": null,
+          "review_notes": [
+            "No Cricinfo profile found in initial search. DOB unverified."
+          ]
+        }
+      }
+    }
+  ]
+}

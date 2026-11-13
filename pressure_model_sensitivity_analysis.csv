@@ -1,0 +1,21 @@
+player_id,player_name,role_type,rank_p75_baseline,rank_p65,rank_p85,rank_sr_econ_heavy,rank_bound_heavy,rank_avg_wkt_heavy,max_rank_shift,ranking_stability_rating
+838,Glenn Maxwell,Batter,1,1,2,1,1,1,1,HIGH_STABILITY
+37052,Naman Dhir,Batter,2,2,1,1,2,2,1,HIGH_STABILITY
+2101,Quinton de Kock,Batter,3,4,4,3,3,3,1,HIGH_STABILITY
+2877,Vijay Shankar,Batter,4,3,3,4,4,4,1,HIGH_STABILITY
+3916,Jitesh Sharma,Batter,5,5,6,5,5,5,1,HIGH_STABILITY
+6396,Tim David,Batter,6,7,5,6,7,6,1,HIGH_STABILITY
+20702,Tristan Stubbs,Batter,7,7,8,7,8,7,1,HIGH_STABILITY
+4369,Shai Hope,Batter,8,7,7,8,8,8,1,HIGH_STABILITY
+768,Reeza Hendricks,Batter,9,10,10,9,9,9,1,HIGH_STABILITY
+7216,Prabhsimran Singh,Batter,10,10,9,10,10,10,1,HIGH_STABILITY
+22471,Matthew Humphreys,Bowler,1,1,1,1,1,1,0,HIGH_STABILITY
+28756,Haider Ali,Bowler,2,3,2,2,2,2,1,HIGH_STABILITY
+781,Sunil Narine,Bowler,3,3,2,3,3,2,1,HIGH_STABILITY
+6643,Hasan Mahmud,Bowler,4,5,4,4,4,3,1,HIGH_STABILITY
+3697,Kyle Jamieson,Bowler,5,5,5,5,6,5,1,HIGH_STABILITY
+2985,Mark Wood,Bowler,6,7,5,6,6,6,1,HIGH_STABILITY
+6628,Gerald Coetzee,Bowler,7,7,7,7,7,7,0,HIGH_STABILITY
+4101,Mitchell Santner,Bowler,8,9,8,8,8,8,1,HIGH_STABILITY
+8661,Matheesha Pathirana,Bowler,9,9,8,9,9,9,1,HIGH_STABILITY
+4237,Tabraiz Shamsi,Bowler,10,10,10,10,10,10,0,HIGH_STABILITY

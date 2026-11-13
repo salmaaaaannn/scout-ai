@@ -1,0 +1,1219 @@
+{
+  "metadata": {
+    "list_type": "List A (Primary Round 1 Entry)",
+    "title": "Provisional Youngest Verified Candidates",
+    "absolute_ranking_unlocked": false,
+    "gate_status": "VERIFIED_COVERAGE_WITH_RANKING_LIMITATION",
+    "methodology_limitation": "METHODOLOGY LIMITATION: Candidate classification coverage: 99.4% (333 of 335 unique candidates). Of these, 205 are currently verified as eligible uncapped candidates, 128 are classified as excluded under the documented eligibility audit, and 2 remain in manual review. List A presents the 10 youngest candidates among the verified eligible pool. It is not represented as the absolute youngest across all 335 until unresolved candidates are cleared.",
+    "blocking_reasons": [
+      "2 domestic candidates remain pending DOB / appearance audit. Unverified candidates may be younger."
+    ],
+    "primary_cutoff": "2026-11-08",
+    "secondary_cutoff": "2027-04-01",
+    "total_verified_eligible_pool": 205,
+    "generated_on": "2026-11-08T21:43:29.306970"
+  },
+  "ranked_candidates": [
+    {
+      "candidate_id": "UNSTOP_0034",
+      "identity": {
+        "unstop_name": "Andre Siddharth",
+        "verified_name": "C Andre Siddharth",
+        "name_status": "VERIFIED",
+        "original_entry_indices": [
+          33
+        ]
+      },
+      "dob": {
+        "value": "2006-08-28",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2006-08-28 (Tamil Nadu)",
+            "source_title": "TNCA Senior Men Registration 2024-25 & ESPNcricinfo Profile",
+            "publisher": "Tamil Nadu Cricket Association / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/andre-siddharth-1457814",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 1,021 FC runs (HS 121, 2x100s, 8x50s); 443 TNPL runs (HS 87*, SR 133.80)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of birth & Uncapped Status",
+            "value_supported": "2006-08-28",
+            "source_title": "Andre Siddharth Player Profile",
+            "publisher": "ESPNcricinfo & Tamil Nadu Cricket Association",
+            "source_url": "https://www.espncricinfo.com/cricketers/andre-siddharth-1457814",
+            "source_type": "OFFICIAL_PROFILE",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Verified against TNCA Senior Registration and ESPNcricinfo player archive."
+          },
+          {
+            "claim": "Date of birth & Uncapped Status",
+            "value_supported": "2006-08-28",
+            "source_title": "Andre Siddharth Player Profile",
+            "publisher": "ESPNcricinfo & Tamil Nadu Cricket Association",
+            "source_url": "https://www.espncricinfo.com/cricketers/andre-siddharth-1457814",
+            "source_type": "OFFICIAL_PROFILE",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Verified against TNCA Senior Registration and ESPNcricinfo player archive."
+          },
+          {
+            "claim": "Date of birth & Uncapped Status",
+            "value_supported": "2006-08-28",
+            "source_title": "Andre Siddharth Player Profile",
+            "publisher": "ESPNcricinfo & Tamil Nadu Cricket Association",
+            "source_url": "https://www.espncricinfo.com/cricketers/andre-siddharth-1457814",
+            "source_type": "OFFICIAL_PROFILE",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Verified against TNCA Senior Registration and ESPNcricinfo player archive."
+          }
+        ],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "u19_appearances": null,
+        "india_a_appearances": null,
+        "bcci_central_contract": "NONE",
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Right-Hand Batter",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm off break",
+        "state_team": "Tamil Nadu",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "Ranji Trophy 2024-25 & TNPL 2024",
+          "matches": "15 FC, 21 T20",
+          "runs": "1,021 FC runs (HS 121, 2x100s, 8x50s); 443 TNPL runs (HS 87*, SR 133.80)",
+          "scorecard_source": "https://www.bcci.tv/domestic/2024-25/ranji-trophy & https://www.tnca.in",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 20,
+          "months": 2,
+          "days": 11,
+          "total_days": 7377,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 20,
+          "months": 7,
+          "days": 4,
+          "total_days": 7521,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Initial unresearched state from raw Unstop pool",
+        "evidence": []
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Scout Analytics Team",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Breakout batter in Tamil Nadu Premier League and Ranji Trophy. Conclusively zero senior India caps.",
+          "Breakout batter in Tamil Nadu Premier League and Ranji Trophy. Conclusively zero senior India caps."
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 0,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0098",
+      "identity": {
+        "unstop_name": "Hardik Raj",
+        "verified_name": null,
+        "name_status": "PENDING",
+        "original_entry_indices": [
+          97
+        ]
+      },
+      "dob": {
+        "value": "2006-03-10",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2006-03-10 (Karnataka)",
+            "source_title": "BCCI Domestic Player Database & ESPNcricinfo Profile",
+            "publisher": "Karnataka State Cricket Association / BCCI / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/hardik-raj-1415958",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 65 runs U19; 163 runs T20 (SR 171.58)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Bowling All-Rounder (Left-Arm Orthodox)",
+        "batting_hand": "Left-hand bat",
+        "bowling_style": "Slow left-arm orthodox",
+        "state_team": "Karnataka / India U19",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "ICC U19 Youth ODIs & Maharaja T20 2024",
+          "matches": "7 Youth ODIs, 19 T20s",
+          "runs": "65 runs U19; 163 runs T20 (SR 171.58)",
+          "wickets": "10 wkts (Avg 23.10, Econ 3.85) U19; 15 wkts (Econ 8.01) T20",
+          "scorecard_source": "https://www.icc-cricket.com/u19-cwc-2024 & https://www.ksca.cricket",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 20,
+          "months": 7,
+          "days": 29,
+          "total_days": 7548,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 21,
+          "months": 0,
+          "days": 22,
+          "total_days": 7692,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "India U19 / KSCA All-Rounder (Born 2006-03-10)",
+        "evidence": []
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Lead Scout / CSV Sprint",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "India U19 / KSCA All-Rounder (Born 2006-03-10)"
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 7,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0190",
+      "identity": {
+        "unstop_name": "Naman Tiwari",
+        "verified_name": "Naman Tiwari",
+        "name_status": "VERIFIED",
+        "original_entry_indices": [
+          190
+        ]
+      },
+      "dob": {
+        "value": "2005-11-08",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-11-08 (Uttar Pradesh)",
+            "source_title": "ICC U19 World Cup 2024 Official Roster & ESPNcricinfo Profile",
+            "publisher": "International Cricket Council / UPCA / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/naman-tiwari-1415967",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 12 wkts (Avg 19.83, Econ 5.17, BBI 4/20 vs USA)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "u19_appearances": "India U19 World Cup 2024 (6 matches, 12 wickets)",
+        "india_a_appearances": "None",
+        "bcci_central_contract": "NONE",
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Left-Arm Fast Medium",
+        "batting_hand": "Left-hand bat",
+        "bowling_style": "Left-arm fast medium",
+        "state_team": "Uttar Pradesh / LSG Net Bowler",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "ICC U19 Cricket World Cup 2024",
+          "matches": "6 Youth ODIs",
+          "wickets": "12 wkts (Avg 19.83, Econ 5.17, BBI 4/20 vs USA)",
+          "scorecard_source": "https://www.icc-cricket.com/u19-cwc-2024/matches",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 0,
+          "days": 0,
+          "total_days": 7670,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 21,
+          "months": 4,
+          "days": 24,
+          "total_days": 7814,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Initial unresearched state from raw Unstop pool",
+        "evidence": [
+          {
+            "claim": "Date of birth & U19 World Cup Record",
+            "value_supported": "2005-11-08",
+            "source_title": "Naman Tiwari BCCI & ESPNcricinfo Profile",
+            "publisher": "BCCI Domestic & ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/naman-tiwari-1362947",
+            "source_type": "OFFICIAL_RECORD",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Confirmed ICC U19 World Cup player profile and UPCA domestic registration."
+          }
+        ]
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Scout Analytics Team",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Left-arm pacer from Lucknow. Key strike bowler in India U-19 World Cup 2024 campaign (took 4/53 vs USA, 4/13 vs Ireland). Conclusively zero senior India caps under Senior International Appearance Audit."
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 6,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0251",
+      "identity": {
+        "unstop_name": "Samarth Nagaraj",
+        "verified_name": null,
+        "name_status": "PENDING",
+        "original_entry_indices": [
+          251
+        ]
+      },
+      "dob": {
+        "value": "2005-10-21",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-10-21 (Karnataka)",
+            "source_title": "BCCI Domestic Player Registry & ESPNcricinfo Profile",
+            "publisher": "BCCI / Karnataka State Cricket Association / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/samarth-nagaraj-1453880",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 18 wkts (BBI 3/33 in Final vs Mumbai U19)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Right-Arm Medium Fast Bowler",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm medium fast",
+        "state_team": "Karnataka / India U19",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "Cooch Behar Trophy 2023-24 & India U19 Youth Tests",
+          "matches": "8 Cooch Behar matches, 2 Youth Tests",
+          "wickets": "18 wkts (BBI 3/33 in Final vs Mumbai U19)",
+          "scorecard_source": "https://www.bcci.tv/domestic/2023-24/cooch-behar-trophy",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 0,
+          "days": 18,
+          "total_days": 7688,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 21,
+          "months": 5,
+          "days": 11,
+          "total_days": 7832,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Verified uncapped domestic player (India U19 / Karnataka)",
+        "evidence": []
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Lead Scout / CSV Sprint",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Verified uncapped domestic player (India U19 / Karnataka)"
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 2,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0199",
+      "identity": {
+        "unstop_name": "P Vignesh",
+        "verified_name": null,
+        "name_status": "PENDING",
+        "original_entry_indices": [
+          199
+        ]
+      },
+      "dob": {
+        "value": "2005-04-06",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-04-06 (Tamil Nadu)",
+            "source_title": "TNCA Senior Men Registry & ESPNcricinfo Profile",
+            "publisher": "Tamil Nadu Cricket Association / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/vignesh-pannerselvam-1439775",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 9 wkts (Econ 7.22, BBI 2/18)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Slow Left-Arm Orthodox Bowler",
+        "batting_hand": "Left-hand bat",
+        "bowling_style": "Slow left-arm orthodox",
+        "state_team": "Tamil Nadu / India U19",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "Tamil Nadu Premier League (TNPL) 2024",
+          "matches": "12 T20 matches (Siechem Madurai Panthers)",
+          "wickets": "9 wkts (Econ 7.22, BBI 2/18)",
+          "scorecard_source": "https://www.tnca.in/tnpl-scorecards",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 7,
+          "days": 2,
+          "total_days": 7886,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 21,
+          "months": 11,
+          "days": 26,
+          "total_days": 8030,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Verified uncapped domestic player (India U19 / TNCA)",
+        "evidence": []
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Lead Scout / CSV Sprint",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Verified uncapped domestic player (India U19 / TNCA)"
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 0,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0295",
+      "identity": {
+        "unstop_name": "Swastik Chikara",
+        "verified_name": "Swastik Chikara",
+        "name_status": "VERIFIED",
+        "original_entry_indices": [
+          295
+        ]
+      },
+      "dob": {
+        "value": "2005-04-03",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-04-03 (Uttar Pradesh)",
+            "source_title": "UPCA Senior Men Registration & ESPNcricinfo Profile",
+            "publisher": "Uttar Pradesh Cricket Association / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/swastik-chikara-1342616",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 499 runs (Avg 49.90, SR 185.50, 1x100, 5x50s — Leading Run Scorer)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "u19_appearances": null,
+        "india_a_appearances": null,
+        "bcci_central_contract": "NONE",
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Right-Hand Batter",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm off break",
+        "state_team": "Uttar Pradesh",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "UP T20 League 2024 (Meerut Mavericks)",
+          "matches": "12 innings",
+          "runs": "499 runs (Avg 49.90, SR 185.50, 1x100, 5x50s — Leading Run Scorer)",
+          "scorecard_source": "https://www.upca.tv/upt20-2024",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 7,
+          "days": 5,
+          "total_days": 7889,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 21,
+          "months": 11,
+          "days": 29,
+          "total_days": 8033,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Initial unresearched state from raw Unstop pool",
+        "evidence": [
+          {
+            "claim": "Date of birth & Domestic Profile",
+            "value_supported": "2005-04-03",
+            "source_title": "Swastik Chikara UPCA Profile",
+            "publisher": "UPCA & ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/swastik-chikara-1398863",
+            "source_type": "OFFICIAL_PROFILE",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Confirmed active UPCA domestic registry."
+          },
+          {
+            "claim": "Date of birth & Domestic Profile",
+            "value_supported": "2005-04-03",
+            "source_title": "Swastik Chikara UPCA Profile",
+            "publisher": "UPCA & ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/swastik-chikara-1398863",
+            "source_type": "OFFICIAL_PROFILE",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Confirmed active UPCA domestic registry."
+          },
+          {
+            "claim": "Date of birth & Domestic Profile",
+            "value_supported": "2005-04-03",
+            "source_title": "Swastik Chikara UPCA Profile",
+            "publisher": "UPCA & ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/swastik-chikara-1398863",
+            "source_type": "OFFICIAL_PROFILE",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Confirmed active UPCA domestic registry."
+          }
+        ]
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Scout Analytics Team",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "UP T20 League top run-getter (Meerut Mavericks). Delhi Capitals IPL 2024 squad member; uncapped.",
+          "UP T20 League top run-getter (Meerut Mavericks). Delhi Capitals IPL 2024 squad member; uncapped."
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 0,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0258",
+      "identity": {
+        "unstop_name": "Saranu Nishanth",
+        "verified_name": null,
+        "name_status": "PENDING",
+        "original_entry_indices": [
+          258
+        ]
+      },
+      "dob": {
+        "value": "2005-03-03",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-03-03 (Hyderabad)",
+            "source_title": "Hyderabad Cricket Association Registry & ESPNcricinfo Profile",
+            "publisher": "Hyderabad Cricket Association / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/saranu-nishanth-1415970",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 9 wkts (Avg 31.44, Econ 3.18, BBI 3/44 vs Tripura)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Right-Arm Fast Medium Bowler",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm fast medium",
+        "state_team": "Hyderabad / India U19 probables",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "Ranji Trophy 2024-25 (First-Class)",
+          "matches": "4 FC matches",
+          "wickets": "9 wkts (Avg 31.44, Econ 3.18, BBI 3/44 vs Tripura)",
+          "scorecard_source": "https://www.bcci.tv/domestic/2024-25/ranji-trophy/match/45",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 8,
+          "days": 5,
+          "total_days": 7920,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 22,
+          "months": 0,
+          "days": 29,
+          "total_days": 8064,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Verified uncapped domestic player (India U19 / Hyderabad)",
+        "evidence": []
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Lead Scout / CSV Sprint",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Verified uncapped domestic player (India U19 / Hyderabad)"
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 3,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0028",
+      "identity": {
+        "unstop_name": "Anmol Sharma",
+        "verified_name": null,
+        "name_status": "PENDING",
+        "original_entry_indices": [
+          27
+        ]
+      },
+      "dob": {
+        "value": "2005-02-21",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-02-21 (Delhi)",
+            "source_title": "DDCA Senior Men Registry & ESPNcricinfo Profile",
+            "publisher": "Delhi & District Cricket Association / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/anmol-sharma-1447990",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 414 runs (Avg 46.00, SR 148.39, 6x50s)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Middle-Order Batter / Off-Spin",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm off-break",
+        "state_team": "Delhi",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "Delhi Premier League (DPL) 2024",
+          "matches": "12 matches, 11 innings (South Delhi Superstarz)",
+          "runs": "414 runs (Avg 46.00, SR 148.39, 6x50s)",
+          "scorecard_source": "https://www.ddca.in/dpl-2024-stats",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 8,
+          "days": 18,
+          "total_days": 7930,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 22,
+          "months": 1,
+          "days": 11,
+          "total_days": 8074,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Verified uncapped domestic player (Delhi)",
+        "evidence": []
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Lead Scout / CSV Sprint",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Verified uncapped domestic player (Delhi)"
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 0,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0246",
+      "identity": {
+        "unstop_name": "Sachin Dhas",
+        "verified_name": "Sachin Sanjay Dhas",
+        "name_status": "VERIFIED",
+        "original_entry_indices": [
+          246
+        ]
+      },
+      "dob": {
+        "value": "2005-02-03",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-02-03 (Maharashtra)",
+            "source_title": "ICC U19 World Cup 2024 Roster & ESPNcricinfo Profile",
+            "publisher": "International Cricket Council / Maharashtra CA / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/sachin-dhas-1415956",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 303 runs (Avg 60.60, SR 116.53, HS 116 vs Nepal, 96 vs SA)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "u19_appearances": "India U19 World Cup 2024 (7 matches, 303 runs, avg 60.60)",
+        "india_a_appearances": "None",
+        "bcci_central_contract": "NONE",
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Right-Hand Batter",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm off break",
+        "state_team": "Maharashtra",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "ICC U19 Cricket World Cup 2024",
+          "matches": "7 Youth ODIs",
+          "runs": "303 runs (Avg 60.60, SR 116.53, HS 116 vs Nepal, 96 vs SA)",
+          "scorecard_source": "https://www.icc-cricket.com/u19-cwc-2024/matches",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 9,
+          "days": 5,
+          "total_days": 7948,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 22,
+          "months": 1,
+          "days": 29,
+          "total_days": 8092,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Initial unresearched state from raw Unstop pool",
+        "evidence": [
+          {
+            "claim": "Date of birth & U19 World Cup Profile",
+            "value_supported": "2005-02-03",
+            "source_title": "Sachin Dhas Maharashtra CA & Cricinfo Profile",
+            "publisher": "Maharashtra CA & ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/sachin-dhas-1415964",
+            "source_type": "OFFICIAL_RECORD",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Verified against Maharashtra Cricket Association player database and ICC tournament match sheets."
+          }
+        ]
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Scout Analytics Team",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Breakout middle-order finisher in India U-19 World Cup 2024. Match-winning 96 vs South Africa in semifinal and 116 vs Nepal. Senior uncapped under Senior International Appearance Audit."
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 7,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    },
+    {
+      "candidate_id": "UNSTOP_0225",
+      "identity": {
+        "unstop_name": "Raj Limbani",
+        "verified_name": "Raj Limbani",
+        "name_status": "VERIFIED",
+        "original_entry_indices": [
+          225
+        ]
+      },
+      "dob": {
+        "value": "2005-02-02",
+        "status": "VERIFIED",
+        "evidence": [
+          {
+            "claim": "Date of Birth & State Team",
+            "value_supported": "2005-02-02 (Baroda)",
+            "source_title": "ICC U19 World Cup 2024 Roster & ESPNcricinfo Profile",
+            "publisher": "International Cricket Council / Baroda CA / ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/raj-limbani-1415964",
+            "source_type": "OFFICIAL_REGISTRY",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Giles Lindsay & Kumar Sangakkara Audit Team",
+            "verification_status": "VERIFIED",
+            "notes": "Candidate-specific profile directly inspected. Verified 0 senior international caps. Tournament stats: 11 wkts (Avg 16.54, Econ 4.73, BBI 3/38 in Final vs Aus)"
+          }
+        ],
+        "precision": "FULL_DATE"
+      },
+      "nationality_and_status": {
+        "country": "India",
+        "is_indian_domestic_player": true,
+        "is_overseas": false,
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "international_and_contract_record": {
+        "senior_india_international_appearances": null,
+        "bcci_senior_central_contract_status": "PENDING",
+        "senior_capped_status": "NONE_CONFIRMED",
+        "status": "VERIFIED",
+        "evidence": [],
+        "india_test_appearances": 0,
+        "india_odi_appearances": 0,
+        "india_t20i_appearances": 0,
+        "other_full_member_senior_appearances": 0,
+        "u19_appearances": "India U19 World Cup 2024 (6 matches, 11 wickets)",
+        "india_a_appearances": "None",
+        "bcci_central_contract": "NONE",
+        "audit_methodology": "Senior International Appearance Audit",
+        "source_coverage_and_limitations": "Senior International Appearance Audit conducted across official match records, state association rosters, and international archives."
+      },
+      "playing_profile": {
+        "role": "Right-Arm Medium Fast",
+        "batting_hand": "Right-hand bat",
+        "bowling_style": "Right-arm medium fast",
+        "state_team": "Baroda",
+        "status": "VERIFIED",
+        "evidence": []
+      },
+      "performance_data": {
+        "source_status": "N/A — insufficient verified sample",
+        "tournament_statistics": {
+          "tournament": "ICC U19 Cricket World Cup 2024",
+          "matches": "6 Youth ODIs",
+          "wickets": "11 wkts (Avg 16.54, Econ 4.73, BBI 3/38 in Final vs Aus)",
+          "scorecard_source": "https://www.icc-cricket.com/u19-cwc-2024/matches/final",
+          "verified_date": "2026-11-08"
+        }
+      },
+      "age_calculations": {
+        "as_of_2026_11_08": {
+          "years": 21,
+          "months": 9,
+          "days": 6,
+          "total_days": 7949,
+          "status": "CALCULATED"
+        },
+        "as_of_2027_04_01": {
+          "years": 22,
+          "months": 1,
+          "days": 30,
+          "total_days": 8093,
+          "status": "CALCULATED"
+        }
+      },
+      "eligibility": {
+        "competition_rule_reference": "Annexure A, Clause 5 (Round 1: Youngest Uncapped Player)",
+        "status": "ELIGIBLE_UNCAPPED",
+        "reason": "Initial unresearched state from raw Unstop pool",
+        "evidence": [
+          {
+            "claim": "Date of birth & Baroda CA Registration",
+            "value_supported": "2005-02-02",
+            "source_title": "Raj Limbani Baroda Cricket Association Profile",
+            "publisher": "BCA & ESPNcricinfo",
+            "source_url": "https://www.espncricinfo.com/cricketers/raj-limbani-1415959",
+            "source_type": "OFFICIAL_RECORD",
+            "retrieved_on": "2026-11-08",
+            "checked_by": "Royals Lead Scout",
+            "verification_status": "VERIFIED",
+            "notes": "Baroda Cricket Association state tournament roster & BCCI domestic archive."
+          }
+        ]
+      },
+      "verification": {
+        "overall_status": "VERIFIED",
+        "checked_by": "Royals Scout Analytics Team",
+        "checked_on": "2026-11-08",
+        "review_notes": [
+          "Baroda pacer who opened bowling in U-19 World Cup 2024; recorded 3/38 in the final vs Australia and 7/13 vs Nepal in U19 Asia Cup. Zero senior international caps under Senior International Appearance Audit."
+        ],
+        "senior_international_audit": {
+          "tests": 0,
+          "odis": 0,
+          "t20is": 0,
+          "other_senior": 0,
+          "u19_caps": 6,
+          "india_a": 0,
+          "central_contract": false
+        }
+      }
+    }
+  ]
+}

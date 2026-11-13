@@ -1,0 +1,12 @@
+player_id,player_name,team,contract_status,retirement_status,as_of_date,source_url,access_date,verification_status
+6464,Arshdeep Singh,Punjab Kings,RETAINED_RTM_18CR,ACTIVE,2026-11-11,https://www.iplt20.com/auction/2025,2026-11-11,VERIFIED
+8,MS Dhoni,Chennai Super Kings,UNCAPPED_RETENTION_4CR,RETIRED_INTERNATIONAL_ACTIVE_IPL,2026-11-11,https://www.iplt20.com/teams/chennai-super-kings,2026-11-11,VERIFIED
+6922,Abdul Samad,Pakistan,NO_IPL_CONTRACT,ACTIVE,2026-11-11,https://www.espncricinfo.com/cricketers/abdul-samad-1188612,2026-11-11,VERIFIED
+7446,Abdul Samad,Lucknow Super Giants,AUCTION_ACQUIRED_4.2CR,ACTIVE,2026-11-11,https://www.iplt20.com/auction/2025,2026-11-11,VERIFIED
+4722,Rashid Khan,Gujarat Titans,RETAINED_18CR,ACTIVE,2026-11-11,https://www.iplt20.com/teams/gujarat-titans,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,Rajasthan Royals,RETAINED_18CR,ACTIVE,2026-11-11,https://www.rajasthanroyals.com,2026-11-11,VERIFIED
+2258,Sanju Samson,Rajasthan Royals,RETAINED_18CR,ACTIVE,2026-11-11,https://www.rajasthanroyals.com,2026-11-11,VERIFIED
+6423,Riyan Parag,Rajasthan Royals,RETAINED_14CR,ACTIVE,2026-11-11,https://www.rajasthanroyals.com,2026-11-11,VERIFIED
+7260,Dhruv Jurel,Rajasthan Royals,RETAINED_14CR,ACTIVE,2026-11-11,https://www.rajasthanroyals.com,2026-11-11,VERIFIED
+2411,Sandeep Sharma,Rajasthan Royals,RETAINED_UNCAPPED_4CR,ACTIVE,2026-11-11,https://www.rajasthanroyals.com,2026-11-11,VERIFIED
+3297,Shimron Hetmyer,Rajasthan Royals,RETAINED_11CR,ACTIVE,2026-11-11,https://www.rajasthanroyals.com,2026-11-11,VERIFIED

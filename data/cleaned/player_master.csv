@@ -1,0 +1,1218 @@
+player_id,canonical_name,original_name,primary_role,primary_team,batting_style,bowling_style,total_matches,total_balls_faced,total_runs_scored,total_balls_bowled,total_runs_conceded,total_wickets,is_ipl_player,is_international_player
+8,MS Dhoni,Mahendra Singh Dhoni,Batter,Chennai Super Kings,RHB,Unknown,72,463,693,0,0,0,True,False
+23,Piyush Chawla,Piyush Chawla,All-Rounder,Mumbai Indians,LHB,Right-arm Leg-Break,30,37,40,576,807,35,True,False
+28,Ishant Sharma,Ishant Sharma,Bowler,Delhi Capitals,RHB,Right-arm fast-medium,54,8,2,423,675,24,True,False
+35,Nathan Bracken,Nathan Bracken,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+47,Virat Kohli,Virat Kohli,Batter,India,RHB,Right-arm medium,93,2456,3567,6,6,0,True,True
+88,Faf du Plessis,Faf du Plessis,Batter,Delhi Capitals,RHB,Unknown,60,1276,1838,0,0,0,True,False
+109,Wriddhiman Saha,Wriddhiman Saha,Batter,Gujarat Titans,RHB,Unknown,42,661,824,0,0,0,True,False
+126,Rohit Sharma,Rohit Sharma,Batter,India,RHB,Unknown,97,1619,2329,0,0,0,True,True
+142,Shikhar Dhawan,Shikhar Dhawan,Batter,Punjab Kings,LHB,Unknown,39,757,985,0,0,0,True,False
+143,Dinesh Karthik,Dinesh Karthik,Batter,India,RHB,Right-arm offbreak,68,639,1069,6,18,0,True,True
+147,Pradeep Sangwan,Pradeep Sangwan,Bowler,Gujarat Titans,RHB,Left-arm medium-fast,3,5,2,54,65,3,True,False
+152,Ravindra Jadeja,Ravindra Jadeja,All-Rounder,Chennai Super Kings,LHB,Slow left-arm orthodox,78,958,1294,1396,1837,58,True,True
+158,Amit Mishra,Amit Mishra,All-Rounder,Lucknow Super Giants,RHB,Right-arm Leg-Break,21,30,19,126,169,8,True,False
+161,Dwayne Bravo,Dwayne Bravo,Bowler,Chennai Super Kings,RHB,Right-arm medium-fast,10,24,23,209,296,16,True,False
+167,Ajinkya Rahane,Ajinkya Rahane,Batter,Chennai Super Kings,RHB,Unknown,63,1025,1426,0,0,0,True,False
+169,Robin Uthappa,Robin Uthappa,Batter,Chennai Super Kings,RHB,Unknown,12,171,230,0,0,0,True,False
+198,Manish Pandey,Manish Pandey,Batter,Delhi Capitals,RHB,Unknown,60,371,452,0,0,0,True,False
+220,David Warner,David Warner,Batter,Australia,LHB,Unknown,51,1117,1617,0,0,0,True,True
+223,Steven Smith,Steven Smith,Batter,Australia,RHB,Unknown,17,184,227,0,0,0,False,True
+224,Moises Henriques,Moises Henriques,Prospect / Reserve,Australia,RHB,Unknown,0,0,0,0,0,0,False,True
+232,Tom Cooper,Tom Cooper,Bowler,Netherlands,RHB,Right-arm offbreak,2,22,28,12,13,0,False,True
+250,Aaron Finch,Aaron Finch,Batter,Australia,RHB,Unknown,21,346,436,0,0,0,True,True
+274,Martin Guptill,Martin Guptill,Batter,New Zealand,RHB,Unknown,9,158,192,0,0,0,False,True
+278,Tim Southee,Tim Southee,All-Rounder,Kolkata Knight Riders,RHB,Right-arm medium-fast,37,51,51,827,1145,55,True,True
+286,Kane Richardson,Kane Richardson,Bowler,Australia,RHB,Right-arm fast-medium,9,1,0,198,306,15,False,True
+295,Wayne Parnell,Wayne Parnell,All-Rounder,Royal Challengers Bengaluru,LHB,Left-arm medium-fast,18,76,57,402,607,22,True,True
+305,Ravichandran Ashwin,Ravichandran Ashwin,All-Rounder,Chennai Super Kings,RHB,Right-arm offbreak,68,317,417,1404,1840,47,True,True
+332,Angelo Mathews,Angelo Mathews,All-Rounder,Sri Lanka,RHB,Right-arm fast-medium,9,150,206,110,153,7,False,True
+344,Sheldon Jackson,Sheldon Jackson,Batter,Kolkata Knight Riders,RHB,Unknown,5,26,23,0,0,0,True,False
+360,Bhuvneshwar Kumar,Bhuvneshwar Kumar,All-Rounder,India,RHB,Right-arm medium,107,169,149,2222,3068,115,True,True
+393,Kedar Jadhav,Kedar Jadhav,Batter,Royal Challengers Bengaluru,RHB,Unknown,2,10,12,0,0,0,True,False
+395,Karn Sharma,Karn Sharma,Bowler,Mumbai Indians,LHB,Right-arm Leg-Break,38,21,35,363,605,24,True,False
+403,Umesh Yadav,Umesh Yadav,All-Rounder,Gujarat Titans,RHB,Right-arm fast-medium,36,90,106,558,799,28,True,True
+418,Richard Berrington,Richard Berrington,Batter,Scotland,RHB,Unknown,7,80,88,0,0,0,False,True
+443,Paul Stirling,Paul Stirling,Batter,Ireland,RHB,Unknown,44,527,740,0,0,0,False,True
+456,Pieter Seelaar,Pieter Seelaar,Prospect / Reserve,Netherlands,RHB,Unknown,0,0,0,0,0,0,False,True
+470,Mohammad Amir,Mohammad Amir,Bowler,Pakistan,LHB,Left-arm Fast,10,4,6,146,223,5,False,True
+478,Eoin Morgan,Eoin Morgan,Batter,England,LHB,Unknown,2,41,30,0,0,0,False,True
+479,Adil Rashid,Adil Rashid,All-Rounder,England,RHB,Right-arm Leg-Break,71,119,122,1324,1754,72,True,True
+492,Andre Fletcher,Andre Fletcher,Batter,West Indies,RHB,Unknown,9,39,34,0,0,0,False,True
+494,Kieron Pollard,Kieron Pollard,All-Rounder,Mumbai Indians,RHB,Right-arm medium-fast,19,212,245,185,250,8,True,True
+499,Shakib Al Hasan,Shakib Al Hasan,All-Rounder,Bangladesh,LHB,Slow left-arm orthodox,18,327,452,340,380,20,True,True
+505,Mushfiqur Rahim,Mushfiqur Rahim,Batter,Bangladesh,RHB,Unknown,2,9,5,0,0,0,False,True
+507,Mohammad Mahmudullah,Mohammad Mahmudullah,All-Rounder,Bangladesh,RHB,Right-arm offbreak,16,262,313,39,56,3,False,True
+535,Ambati Rayudu,Ambati Rayudu,Batter,Chennai Super Kings,RHB,Unknown,29,337,432,0,0,0,True,False
+722,Liam Dawson,Liam Dawson,All-Rounder,England,RHB,Slow left-arm orthodox,27,48,54,415,548,25,False,True
+728,Dawid Malan,Dawid Malan,Batter,England,LHB,Unknown,22,457,597,0,0,0,False,True
+741,Garry Park,Garry Park,Prospect / Reserve,England,RHB,Unknown,0,0,0,0,0,0,False,True
+757,Sybrand Engelbrecht,Sybrand Engelbrecht,Batter,Netherlands,RHB,Unknown,4,10,10,0,0,0,False,True
+768,Reeza Hendricks,Reeza Hendricks,Batter,South Africa,RHB,Right-arm offbreak,39,835,1224,23,37,0,False,True
+772,Rilee Rossouw,Rilee Rossouw,Batter,Delhi Capitals,LHB,Unknown,32,417,719,0,0,0,True,True
+773,Shadley van Schalkwyk,Shadley Van Schalkwyk,Bowler,United States Of America,LHB,Right-arm medium,4,14,20,90,141,7,False,True
+778,Darren Bravo,Darren Bravo,Batter,West Indies,LHB,Unknown,4,28,26,0,0,0,False,True
+781,Sunil Narine,Sunil Narine,All-Rounder,Kolkata Knight Riders,LHB,Right-arm offbreak,72,511,866,1533,1754,66,True,False
+786,Chris Jordan,Chris Jordan,All-Rounder,Chennai Super Kings,RHB,Right-arm fast-medium,29,129,158,552,899,19,True,True
+796,Matthew Wade,Matthew Wade,Batter,Australia,LHB,Unknown,50,427,592,0,0,0,True,True
+813,Jos Buttler,Jos Buttler,Batter,England,RHB,Unknown,131,2829,4396,0,0,0,True,True
+818,Mitchell Marsh,Mitchell Marsh,All-Rounder,Australia,RHB,Right-arm medium-fast,95,1724,2709,295,442,19,True,True
+820,Nathan Coulter-Nile,Nathan Coulter Nile,Bowler,Rajasthan Royals,RHB,Right-arm fast-medium,1,2,1,19,47,0,True,False
+829,Mitchell Starc,Mitchell Starc,All-Rounder,Australia,LHB,Left-arm Fast,57,30,22,810,1334,53,True,True
+830,Josh Hazlewood,Josh Hazlewood,All-Rounder,Australia,LHB,Right-arm fast-medium,75,39,23,1477,2036,98,True,True
+838,Glenn Maxwell,Glenn Maxwell,All-Rounder,Australia,RHB,Right-arm offbreak,94,958,1542,639,936,29,True,True
+914,Krishnappa Gowtham,Krishnappa Gowtham,All-Rounder,Lucknow Super Giants,RHB,Right-arm offbreak,25,38,61,180,246,8,True,False
+930,Karun Nair,Karun Nair,Batter,Delhi Capitals,RHB,Unknown,32,151,232,0,0,0,True,False
+953,Lokesh Rahul,Lokesh Rahul,Batter,Delhi Capitals,RHB,Unknown,77,2018,2854,0,0,0,True,True
+985,Brendan Taylor,Brendan Taylor,Batter,Zimbabwe,RHB,Unknown,10,59,54,0,0,0,False,True
+988,Graeme Cremer,Graeme Cremer,Bowler,Zimbabwe,RHB,Right-arm Leg-Break,7,4,3,42,44,2,False,True
+992,Mayank Agarwal,Mayank Agarwal,Batter,Punjab Kings,RHB,Unknown,45,491,625,0,0,0,True,False
+1028,Varun Aaron,Varun Aaron,Bowler,Gujarat Titans,RHB,Right-arm fast-medium,2,0,0,30,52,2,True,False
+1039,Mandeep Singh,Mandeep Singh,Batter,Delhi Capitals,RHB,Unknown,6,39,32,0,0,0,True,False
+1040,Harpreet Bhatia,Harpreet Bhatia,Batter,Punjab Kings,LHB,Unknown,17,93,103,0,0,0,True,True
+1045,David Wiese,David Wiese,Bowler,Kolkata Knight Riders,RHB,Right-arm medium-fast,3,11,21,18,38,0,True,False
+1071,Jaydev Unadkat,Jaydev Unadkat,All-Rounder,Lucknow Super Giants,RHB,Left-arm medium-fast,54,73,96,575,916,29,True,False
+1077,David Miller,David Miller,Batter,Delhi Capitals,LHB,Unknown,103,1280,1911,0,0,0,True,True
+1100,Dinesh Chandimal,Dinesh Chandimal,Batter,Sri Lanka,RHB,Unknown,18,75,75,0,0,0,False,True
+1101,George Dockrell,George Dockrell,All-Rounder,Ireland,RHB,Slow left-arm orthodox,49,498,678,186,195,8,False,True
+1102,Noor Ali Zadran,Noor Ali Zadran,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+1104,Mohammad Shahzad,Mohammad Shahzad,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+1107,Mohammad Nabi,Mohammad Nabi,All-Rounder,Afghanistan,RHB,Right-arm offbreak,64,663,862,680,949,29,True,True
+1109,Samiullah Shinwari,Samiullah Shinwari,Prospect / Reserve,Afghanistan,RHB,Unknown,1,0,0,0,0,0,False,True
+1116,Craig Ervine,Craig Ervine,Batter,Zimbabwe,LHB,Unknown,18,245,258,0,0,0,False,True
+1159,Tendai Chatara,Tendai Chatara,Bowler,Zimbabwe,RHB,Right-arm fast-medium,11,24,12,217,257,11,False,True
+1171,Chris Woakes,Chris Woakes,All-Rounder,England,RHB,Right-arm fast-medium,24,48,44,164,223,11,True,True
+1183,Alex Hales,Alex Hales,Batter,England,RHB,Unknown,9,152,218,0,0,0,True,True
+1187,Jason Roy,Jason Roy,Batter,England,RHB,Unknown,19,386,491,0,0,0,True,True
+1195,Ben Stokes,Ben Stokes,All-Rounder,Chennai Super Kings,LHB,Right-arm medium-fast,5,44,48,30,46,1,True,True
+1205,Jonny Bairstow,Jonny Bairstow,Batter,England,RHB,Unknown,39,673,1007,0,0,0,True,True
+1210,James Vince,James Vince,Batter,England,RHB,Unknown,5,86,123,0,0,0,False,True
+1219,David Willey,David Willey,All-Rounder,England,LHB,Left-arm fast-medium,20,98,97,380,503,17,True,True
+1233,Gary Ballance,Gary Ballance,Batter,Zimbabwe,LHB,Unknown,1,29,30,0,0,0,False,True
+1318,Andre Russell,Andre Russell,All-Rounder,Kolkata Knight Riders,RHB,Right-arm fast-medium,79,733,1254,754,1376,62,True,True
+1327,Johnson Charles,Johnson Charles,Batter,Kolkata Knight Riders,RHB,Unknown,35,410,592,0,0,0,True,True
+1389,Sean Abbott,Sean Abbott,All-Rounder,Australia,RHB,Right-arm fast-medium,34,37,40,444,722,30,True,True
+1440,Rahul Tripathi,Rahul Tripathi,Batter,Chennai Super Kings,RHB,Unknown,77,713,1003,0,0,0,True,True
+1481,Kusal Perera,Kusal Perera,Batter,Sri Lanka,LHB,Unknown,42,570,773,0,0,0,False,True
+1487,Adam Milne,Adam Milne,All-Rounder,Chennai Super Kings,RHB,Right-arm Fast,49,56,53,545,861,35,True,True
+1541,Sean Williams,Sean Williams,All-Rounder,Zimbabwe,LHB,Slow left-arm orthodox,18,157,184,162,183,5,False,True
+1556,David Payne,David Payne,Bowler,England,RHB,Left-arm fast-medium,5,5,6,30,70,2,True,True
+1566,Mohammed Shami,Mohammed Shami,All-Rounder,Gujarat Titans,RHB,Right-arm Fast,66,46,53,1279,1854,69,True,True
+1568,Kane Williamson,Kane Williamson,Batter,Gujarat Titans,RHB,Unknown,38,535,591,0,0,0,True,True
+1596,Moeen Ali,Moeen Ali,All-Rounder,Chennai Super Kings,LHB,Right-arm offbreak,87,755,1073,806,1100,45,True,True
+1600,Benny Howell,Benny Howell,Prospect / Reserve,Punjab Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+1612,Yuzvendra Chahal,Yuzvendra Chahal,Bowler,India,RHB,Right-arm Leg-Break,107,10,6,2138,3071,124,True,True
+1617,Rishi Dhawan,Rishi Dhawan,All-Rounder,Punjab Kings,RHB,Right-arm medium-fast,26,52,57,174,251,7,True,False
+1649,Regis Chakabva,Regis Chakabva,Batter,Zimbabwe,RHB,Unknown,5,52,62,0,0,0,False,True
+1699,Suryakumar Yadav,Suryakumar Yadav,Batter,India,RHB,Right-arm offbreak,148,2761,4595,6,5,2,True,True
+1701,Swapnil Singh,Swapnil Singh,Bowler,Lucknow Super Giants,RHB,Slow left-arm orthodox,49,25,39,102,151,6,True,False
+1758,Patrick Cummins,Patrick Cummins,All-Rounder,Australia,RHB,Right-arm Fast,62,247,389,1216,1874,61,True,True
+1772,Sheldon Cottrell,Sheldon Cottrell,Bowler,West Indies,RHB,Left-arm fast-medium,11,0,0,216,323,10,False,True
+1791,Wesley Barresi,Wesley Barresi,Batter,Netherlands,RHB,Unknown,8,9,8,0,0,0,False,True
+1801,Nitish Kumar,Nitish Kumar,Batter,United States Of America,RHB,Unknown,4,20,20,0,0,0,False,True
+1810,Devon Thomas,Devon Thomas,Batter,West Indies,RHB,Unknown,8,50,49,0,0,0,False,True
+1813,Deepak Chahar,Deepak Chahar,All-Rounder,Chennai Super Kings,RHB,Right-arm medium,62,65,94,917,1391,45,True,True
+1829,Shahbaz Nadeem,Shahbaz Nadeem,Prospect / Reserve,Lucknow Super Giants,RHB,Unknown,0,0,0,0,0,0,True,False
+1924,Sam Billings,Sam Billings,Batter,England,RHB,Unknown,12,181,230,0,0,0,True,True
+1941,Devon Conway,Devon Conway,Batter,Chennai Super Kings,LHB,Unknown,90,1486,1968,0,0,0,True,True
+1944,Keshav Maharaj,Keshav Maharaj,All-Rounder,Mumbai Indians,RHB,Slow left-arm orthodox,54,90,81,598,873,32,True,True
+2001,Yashodha Lanka,Yashodha Lanka,Batter,Sri Lanka A,RHB,Unknown,5,91,106,0,0,0,False,True
+2003,Bhanuka Rajapaksa,Bhanuka Rajapaksa,Batter,Punjab Kings,LHB,Unknown,37,421,576,0,0,0,True,True
+2054,Jason Behrendorff,Jason Behrendorff,Bowler,Australia,RHB,Left-arm fast-medium,20,11,8,438,643,25,True,True
+2101,Quinton de Kock,Quinton de Kock,Batter,Kolkata Knight Riders,LHB,Unknown,87,1262,1904,0,0,0,True,True
+2210,Sabbir Rahman,Sabbir Rahman,Bowler,Bangladesh,RHB,Right-arm Leg-Break,4,36,31,6,9,0,False,True
+2213,Soumya Sarkar,Soumya Sarkar,All-Rounder,Bangladesh,LHB,Right-arm medium-fast,30,201,236,42,61,2,False,True
+2214,Gulbadin Naib,Gulbadin Naib,All-Rounder,Afghanistan,RHB,Right-arm medium-fast,28,202,259,54,81,2,True,True
+2218,Anamul Haque,Anamul Haque,Batter,Bangladesh,RHB,Unknown,10,94,90,0,0,0,False,True
+2246,Tom Latham,Tom Latham,Batter,New Zealand,LHB,Unknown,16,242,275,0,0,0,False,True
+2249,Taijul Islam,Taijul Islam,Prospect / Reserve,Bangladesh,RHB,Unknown,3,0,0,0,0,0,False,True
+2258,Sanju Samson,Sanju Samson,Batter,Chennai Super Kings,RHB,Unknown,150,2232,3451,0,0,0,True,True
+2261,Harshal Patel,Harshal Patel,All-Rounder,India,RHB,Right-arm medium-fast,92,145,152,1654,2540,96,True,True
+2293,Junaid Siddiqui,Junaid Siddiqui,Prospect / Reserve,Canada,RHB,Unknown,4,0,0,0,0,0,False,True
+2296,Safyaan Sharif,Safyaan Sharif,Bowler,Scotland,RHB,Right-arm medium-fast,7,6,4,33,47,0,False,True
+2299,Gurkeerat Mann,Gurkeerat Singh Mann,Prospect / Reserve,Gujarat Titans,RHB,Unknown,0,0,0,0,0,0,True,False
+2304,Tymal Mills,Tymal Mills,Bowler,England,RHB,Left-arm medium-fast,12,13,8,230,426,10,True,True
+2315,Reece Topley,Reece Topley,Bowler,England,RHB,Left-arm medium-fast,61,21,16,615,906,31,True,True
+2320,Trent Boult,Trent Boult,All-Rounder,Mumbai Indians,RHB,Left-arm fast-medium,80,79,98,1543,2179,73,True,True
+2321,Olly Stone,Olly Stone,Bowler,England,RHB,Right-arm Fast,1,1,0,24,36,0,False,True
+2334,Dwaine Pretorius,Dwaine Pretorius,All-Rounder,Chennai Super Kings,RHB,Right-arm medium-fast,15,82,135,308,486,17,True,True
+2343,Beuran Hendricks,Beuran Hendricks,Prospect / Reserve,South Africa,RHB,Unknown,0,0,0,0,0,0,False,True
+2351,Danushka Gunathilaka,Danushka Gunathilaka,Batter,Sri Lanka,LHB,Right-arm offbreak,13,117,135,5,8,0,False,True
+2359,Prenelan Subrayen,Prenelan Subrayen,Bowler,South Africa,RHB,Right-arm offbreak,8,0,0,42,35,2,False,True
+2361,Temba Bavuma,Temba Bavuma,Batter,South Africa,RHB,Unknown,10,98,99,0,0,0,False,True
+2364,Ashton Agar,Ashton Agar,All-Rounder,Australia,LHB,Slow left-arm orthodox,6,47,43,144,122,4,False,True
+2367,Travis Head,Travis Head,Batter,Australia,LHB,Right-arm offbreak,73,1129,1975,16,39,1,True,True
+2373,Ashton Turner,Ashton Turner,Batter,Australia,RHB,Unknown,15,20,23,0,0,0,True,True
+2379,Ben Duckett,Ben Duckett,Batter,Delhi Capitals,LHB,Unknown,29,337,518,0,0,0,True,True
+2382,Jamie Overton,Jamie Overton,All-Rounder,Chennai Super Kings,RHB,Right-arm Fast,55,146,207,498,717,36,True,True
+2386,Niroshan Dickwella,Niroshan Dickwella,Prospect / Reserve,Sri Lanka,RHB,Unknown,3,0,0,0,0,0,False,True
+2399,Dushmantha Chameera,Dushmantha Chameera,All-Rounder,Delhi Capitals,RHB,Right-arm Fast,96,100,92,1152,1695,59,True,True
+2407,Dhananjaya de Silva,Dhananjaya de Silva,All-Rounder,Sri Lanka,RHB,Right-arm offbreak,19,199,246,81,88,5,False,True
+2410,Akshdeep Nath,Akshdeep Nath,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+2411,Sandeep Sharma,Sandeep Sharma,Bowler,Punjab Kings,RHB,Right-arm medium-fast,60,11,8,965,1458,39,True,False
+2412,Smit Patel,Smit Patel,Prospect / Reserve,United States Of America,RHB,Unknown,4,0,0,0,0,0,False,True
+2416,Kyle Mayers,Kyle Mayers,All-Rounder,Lucknow Super Giants,LHB,Right-arm medium,62,756,1058,140,197,2,True,True
+2417,Akeal Hosein,Akeal Hosein,All-Rounder,Chennai Super Kings,LHB,Slow left-arm orthodox,95,223,286,1693,2187,79,True,True
+2418,Justin Greaves,Justin Greaves,Bowler,West Indies,RHB,Right-arm medium,6,20,18,6,14,0,False,True
+2436,Dasun Shanaka,Dasun Shanaka,All-Rounder,Gujarat Titans,RHB,Right-arm medium,91,777,1080,531,778,27,True,True
+2439,Akila Dananjaya,Akila Dananjaya,Bowler,Sri Lanka,LHB,Right-arm offbreak,4,1,4,36,56,2,False,True
+2442,Lahiru Madushanka,Lahiru Madushanka,Prospect / Reserve,Sri Lanka,RHB,Unknown,0,0,0,0,0,0,False,True
+2463,Ryan Burl,Ryan Burl,All-Rounder,Zimbabwe,LHB,Right-arm Leg-Break,45,706,853,318,417,18,False,True
+2467,NP Mayavo,NP Mayavo,Prospect / Reserve,Zimbabwe,RHB,Unknown,3,0,0,0,0,0,False,True
+2483,Lizaad Williams,Lizaad Williams,Bowler,Delhi Capitals,LHB,Right-arm medium-fast,24,21,11,259,465,16,True,True
+2485,Babar Azam,Babar Azam,Batter,Pakistan,RHB,Unknown,57,1181,1573,0,0,0,False,True
+2490,Mohammad Nawaz,Mohammad Nawaz,All-Rounder,Pakistan,LHB,Slow left-arm orthodox,54,497,705,1004,1192,66,False,True
+2523,Will Young,Will Young,Batter,New Zealand,RHB,Unknown,12,176,178,0,0,0,False,True
+2526,Ish Sodhi,Ish Sodhi,All-Rounder,New Zealand,RHB,Right-arm Leg-Break,67,133,149,1175,1678,63,False,True
+2531,Joe Root,Joe Root,Bowler,Rajasthan Royals,RHB,Right-arm offbreak,3,15,10,12,14,0,True,False
+2533,Najibullah Zadran,Najibullah Zadran,Batter,Afghanistan,LHB,Unknown,23,306,424,0,0,0,False,True
+2534,Rahmat Shah,Rahmat Shah,Batter,Afghanistan,RHB,Unknown,4,6,3,0,0,0,False,True
+2573,Evin Lewis,Evin Lewis,Batter,Lucknow Super Giants,LHB,Unknown,30,275,407,0,0,0,True,True
+2633,Jason Holder,Jason Holder,All-Rounder,Gujarat Titans,RHB,Right-arm medium-fast,97,447,636,1929,2891,109,True,True
+2636,Adam Zampa,Adam Zampa,All-Rounder,Australia,RHB,Right-arm Leg-Break,60,52,32,1152,1608,71,True,True
+2639,Marcus Stoinis,Marcus Stoinis,All-Rounder,Australia,RHB,Right-arm medium,111,1247,1915,747,1204,44,True,True
+2650,Raymon Reifer,Raymon Reifer,All-Rounder,West Indies,LHB,Left-arm medium-fast,3,41,46,30,60,1,False,True
+2661,Shamarh Brooks,Shamarh Brooks,Batter,West Indies,RHB,Unknown,8,150,150,0,0,0,False,True
+2671,Liton Das,Liton Das,Batter,Bangladesh,RHB,Unknown,67,1139,1510,0,0,0,True,True
+2680,Nurul Hasan,Nurul Hasan,Batter,Bangladesh,RHB,Unknown,38,238,305,0,0,0,False,True
+2681,Taskin Ahmed,Taskin Ahmed,All-Rounder,Bangladesh,LHB,Right-arm Fast,56,92,110,1041,1387,67,False,True
+2687,Roston Chase,Roston Chase,All-Rounder,West Indies,RHB,Right-arm offbreak,56,511,614,836,1090,35,False,True
+2750,Alex Carey,Alex Carey,Batter,Australia,LHB,Unknown,8,28,34,0,0,0,False,True
+2756,Shashank Singh,Shashank Singh,All-Rounder,Punjab Kings,RHB,Right-arm medium-fast,56,560,905,90,140,5,True,False
+2781,Ravikumar Samarth,Ravikumar Samarth,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,0,0,0,0,0,0,True,False
+2790,Praveen Dubey,Praveen Dubey,Bowler,Delhi Capitals,RHB,Right-arm Leg-Break,47,20,16,30,39,2,True,False
+2847,Shardul Thakur,Shardul Thakur,All-Rounder,Chennai Super Kings,RHB,Right-arm medium,68,216,296,971,1675,54,True,True
+2852,Jagadeesha Suchith,Jagadeesha Suchith,Bowler,Sunrisers Hyderabad,LHB,Slow left-arm orthodox,5,8,2,108,140,7,True,False
+2860,KS Bharat,KS Bharat,Batter,Delhi Capitals,RHB,Unknown,18,7,8,0,0,0,True,False
+2862,Sachin Baby,Sachin Baby,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,14,0,0,0,0,0,True,False
+2863,Sandeep Warrier,Sandeep Warrier,Bowler,Gujarat Titans,RHB,Right-arm medium,14,0,0,67,118,6,True,False
+2869,Ankit Rajpoot,Ankit Rajpoot,Prospect / Reserve,Lucknow Super Giants,RHB,Unknown,0,0,0,0,0,0,True,False
+2872,Siddarth Kaul,Siddarth Kaul,Bowler,Royal Challengers Bengaluru,RHB,Right-arm medium-fast,1,0,0,24,43,0,True,False
+2876,Axar Patel,Axar Patel,All-Rounder,Delhi Capitals,LHB,Slow left-arm orthodox,155,1279,1761,2670,3512,120,True,True
+2877,Vijay Shankar,Vijay Shankar,Batter,Chennai Super Kings,RHB,Right-arm medium,46,386,521,9,15,0,True,False
+2878,Mohit Sharma,Mohit Sharma,Bowler,Delhi Capitals,RHB,Right-arm medium-fast,43,19,3,651,1041,42,True,False
+2884,Manan Vohra,Manan Vohra,Batter,Lucknow Super Giants,RHB,Unknown,3,22,29,0,0,0,True,False
+2887,Harmeet Singh,Harmeet Singh,Bowler,United States Of America,LHB,Slow left-arm orthodox,4,28,37,96,79,4,False,True
+2892,Asif Ali,Asif Ali,Batter,Pakistan,RHB,Unknown,15,78,107,0,0,0,False,True
+2921,Fakhar Zaman,Fakhar Zaman,Batter,Pakistan,LHB,Unknown,61,863,1134,0,0,0,False,True
+2930,Rassie van der Dussen,Rassie van der Dussen,Batter,Rajasthan Royals,RHB,Unknown,24,311,389,0,0,0,True,True
+2933,Jasprit Bumrah,Jasprit Bumrah,All-Rounder,India,RHB,Right-arm Fast,89,31,23,1709,2068,85,True,True
+2972,Yasim Murtaza,Yasim Murtaza,All-Rounder,Hong Kong,LHB,Slow left-arm orthodox,14,258,302,306,367,7,False,True
+2983,Richmond Mutumbami,Richmond Mutumbami,Prospect / Reserve,Zimbabwe,RHB,Unknown,0,0,0,0,0,0,False,True
+2984,Sikandar Raza,Sikandar Raza,All-Rounder,Punjab Kings,RHB,Right-arm offbreak,68,1002,1358,1092,1302,43,True,True
+2985,Mark Wood,Mark Wood,Bowler,England,RHB,Right-arm fast-medium,18,20,27,282,380,27,True,True
+2996,Stephanus Myburgh,Stephanus Myburgh,Batter,Netherlands,LHB,Unknown,2,28,29,0,0,0,False,True
+2997,Paul van Meekeren,Paul van Meekeren,Bowler,Netherlands,RHB,Right-arm fast-medium,11,18,12,187,256,11,False,True
+3024,Mohammad Rizwan,Mohammad Rizwan,Batter,Pakistan,RHB,Unknown,43,1152,1467,0,0,0,False,True
+3033,Usman Qadir,Usman Qadir,Bowler,Pakistan,LHB,Right-arm Leg-Break,5,7,3,96,159,5,False,True
+3038,Hussain Talat,Hussain Talat,All-Rounder,Pakistan,LHB,Right-arm Fast,21,54,47,36,50,3,False,True
+3040,Kashif Daud,Kashif Daud,Bowler,United Arab Emirates,RHB,Right-arm medium-fast,2,2,1,11,21,0,False,True
+3056,Iftikhar Ahmed,Iftikhar Ahmed,All-Rounder,Pakistan,RHB,Right-arm offbreak,41,455,590,186,205,6,False,True
+3077,Usama Mir,Usama Mir,Bowler,Pakistan,RHB,Right-arm Leg-Break,9,7,7,120,175,5,False,True
+3083,Mohammad Ali,Mohammad Ali,Prospect / Reserve,Pakistan,RHB,Unknown,0,0,0,0,0,0,False,True
+3091,Sahibzada Farhan,Sahibzada Farhan,Batter,Pakistan,RHB,Unknown,49,814,1120,0,0,0,False,True
+3097,Shan Masood,Shan Masood,Batter,Pakistan,LHB,Unknown,12,176,220,0,0,0,False,True
+3125,Nicholas Pooran,Nicholas Pooran,Batter,Lucknow Super Giants,LHB,Unknown,118,1973,3098,0,0,0,True,True
+3135,Yannic Cariah,Yannic Cariah,Bowler,West Indies,LHB,Right-arm Leg-Break,2,4,3,36,43,1,False,True
+3144,Thomas Curran,Thomas Curran,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,15,0,0,0,0,0,True,False
+3174,Matt Henry,Matt Henry,Bowler,Chennai Super Kings,RHB,Right-arm fast-medium,57,28,22,622,955,27,True,True
+3238,Milind Kumar,Milind Kumar,Prospect / Reserve,United States Of America,RHB,Unknown,4,0,0,0,0,0,False,True
+3253,Rohan Mustafa,Rohan Mustafa,Bowler,United Arab Emirates,RHB,Right-arm offbreak,1,0,0,24,40,1,False,True
+3255,Ahmed Raza,Ahmed Raza 1,Bowler,United Arab Emirates,RHB,Slow left-arm orthodox,1,0,0,12,19,1,False,True
+3260,Hashmatullah Shahidi,Hashmatullah Shahidi,Batter,Afghanistan,LHB,Unknown,2,54,47,0,0,0,False,True
+3272,Fabian Allen,Fabian Allen,All-Rounder,Mumbai Indians,RHB,Slow left-arm orthodox,22,48,56,179,271,5,True,True
+3275,Alzarri Joseph,Alzarri Joseph,All-Rounder,Gujarat Titans,RHB,Right-arm medium-fast,74,130,124,1155,1871,58,True,True
+3276,Gudakesh Motie,Gudakesh Motie,All-Rounder,West Indies,LHB,Slow left-arm orthodox,51,145,201,738,1012,34,False,True
+3280,Najmul Hossain Shanto,Nazmul Hossain Shanto,Batter,Bangladesh,LHB,Right-arm offbreak,34,510,580,12,23,0,False,True
+3281,Mosaddek Hossain,Mosaddek Hossain,All-Rounder,Bangladesh,RHB,Right-arm offbreak,15,113,151,159,174,11,False,True
+3282,Mehidy Hasan Miraz,Mehidy Hasan Miraz,All-Rounder,Bangladesh,RHB,Right-arm offbreak,31,265,313,234,305,14,False,True
+3285,Abu Haider,Abu Haider,Bowler,Bangladesh A,RHB,Left-arm fast-medium,8,27,38,149,271,6,False,True
+3297,Shimron Hetmyer,Shimron Hetmyer,Batter,Rajasthan Royals,LHB,Unknown,125,1249,1894,0,0,0,True,True
+3298,Jofra Archer,Jofra Archer,All-Rounder,England,RHB,Right-arm Fast,68,145,187,1261,1899,71,True,True
+3299,Andrew Tye,Andrew Tye,Bowler,Lucknow Super Giants,RHB,Right-arm medium-fast,3,0,0,66,107,2,True,False
+3304,Munim Shahriar,Munim Shahriar,Batter,Bangladesh,RHB,Unknown,3,19,13,0,0,0,False,True
+3306,Afsar Zazai,Afsar Zazai,Batter,Afghanistan,RHB,Unknown,1,24,24,0,0,0,False,True
+3320,Jayant Yadav,Jayant Yadav,Bowler,Gujarat Titans,RHB,Right-arm offbreak,47,0,0,24,26,0,True,False
+3323,Jimmy Neesham,Jimmy Neesham,All-Rounder,New Zealand,LHB,Right-arm medium-fast,60,421,568,526,791,34,True,True
+3330,Hardik Pandya,Hardik Pandya,All-Rounder,Gujarat Titans,RHB,Right-arm medium-fast,139,1924,2725,1826,2751,84,True,True
+3337,Jeremy Gordon,Jeremy Gordon,Bowler,Canada,RHB,Right-arm fast-medium,4,0,0,18,29,0,False,True
+3361,Michael Leask,Michael Leask,All-Rounder,Scotland,RHB,Right-arm offbreak,7,59,73,30,40,2,False,True
+3371,Jamie Atkinson,Jamie Atkinson,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+3373,Aizaz Khan,Aizaz Khan,All-Rounder,Hong Kong,RHB,Right-arm medium-fast,14,79,51,183,303,8,False,True
+3374,Mark Chapman,Mark Chapman,Batter,New Zealand,LHB,Slow left-arm orthodox,65,873,1260,6,4,0,False,True
+3377,Babar Hayat,Babar Hayat,Batter,Hong Kong,RHB,Unknown,14,380,450,0,0,0,False,True
+3382,Nizakat Khan,Nizakat Khan,Batter,Hong Kong,RHB,Unknown,14,285,307,0,0,0,False,True
+3383,Kinchit Shah,Kinchit Shah,All-Rounder,Hong Kong,LHB,Right-arm offbreak,11,108,113,60,116,3,False,True
+3415,Matthew Cross,Matthew Cross,Batter,Scotland,RHB,Unknown,7,110,132,0,0,0,False,True
+3445,Khalid Kail,Khalid Kail,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+3451,Baba Indrajith,Baba Indrajith,Batter,Kolkata Knight Riders,RHB,Unknown,3,30,21,0,0,0,True,False
+3462,Writtick Chatterjee,Writtick Chatterjee,Prospect / Reserve,Punjab Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+3469,Shreyas Gopal,Shreyas Gopal,Bowler,Chennai Super Kings,RHB,Right-arm Leg-Break,43,7,9,60,101,4,True,False
+3479,Chama Milind,Chama Milind,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,0,0,0,0,0,0,True,False
+3489,Salman Agha,Salman Agha,All-Rounder,Pakistan,RHB,Right-arm offbreak,52,698,856,108,142,5,False,True
+3539,Ben McDermott,Ben McDermott,Batter,Australia,RHB,Unknown,11,138,156,0,0,0,False,True
+3543,Shahidullah Kamal,Shahidullah Kamal,All-Rounder,Afghanistan,LHB,Slow left-arm orthodox,14,97,102,30,53,2,False,True
+3544,Usman Ghani,Usman Ghani,Batter,Afghanistan,RHB,Unknown,8,125,129,0,0,0,False,True
+3545,Ihsanullah Janat,Ihsanullah Janat,Batter,Afghanistan,RHB,Unknown,1,14,20,0,0,0,False,True
+3546,Nasir Jamal,Nasir Jamal,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+3550,Sharafuddin Ashraf,Sharafuddin Ashraf,All-Rounder,Afghanistan,RHB,Slow left-arm orthodox,23,38,45,186,207,9,False,True
+3562,Zia-ur-Rehman Akbar,Zia-ur-Rehman Akbar,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+3563,Zahir Khan,Zahir Khan,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+3578,Imad Wasim,Imad Wasim,All-Rounder,Pakistan,LHB,Slow left-arm orthodox,17,161,196,246,252,15,False,True
+3595,Andy McBrine,Andy McBrine,Bowler,Ireland,LHB,Right-arm offbreak,9,8,12,72,129,2,False,True
+3605,Aiden Markram,Aiden Markram,All-Rounder,Lucknow Super Giants,RHB,Right-arm offbreak,108,1673,2395,397,668,13,True,True
+3613,Shakeel Ahmed,Shakeel Ahmed,All-Rounder,Oman,LHB,Slow left-arm orthodox,6,40,32,79,106,1,False,True
+3622,Hayden Walsh,Hayden Walsh,Bowler,West Indies,LHB,Right-arm Leg-Break,14,15,10,186,253,7,False,True
+3623,Hasan Ali,Hasan Ali,Bowler,Pakistan,RHB,Right-arm medium-fast,20,19,18,160,287,12,False,True
+3627,Andile Phehlukwayo,Andile Phehlukwayo,All-Rounder,South Africa,LHB,Right-arm medium,7,41,39,144,266,10,False,True
+3628,Kagiso Rabada,Kagiso Rabada,All-Rounder,Gujarat Titans,LHB,Right-arm Fast,83,141,168,1534,2367,86,True,True
+3629,Corbin Bosch,Corbin Bosch,All-Rounder,Mumbai Indians,RHB,Right-arm fast-medium,44,140,171,368,527,33,True,True
+3635,Jason Smith,Jason Smith,Batter,South Africa,RHB,Unknown,13,69,90,0,0,0,False,True
+3637,Dayyaan Galiem,Dayyaan Galiem,Bowler,South Africa,RHB,Right-arm medium-fast,2,0,0,24,21,2,False,True
+3639,Brandon King,Brandon King,Batter,West Indies,RHB,Unknown,73,1135,1507,0,0,0,False,True
+3641,Ben Dwarshuis,Ben Dwarshuis,All-Rounder,Australia,LHB,Left-arm fast-medium,35,70,57,325,504,23,True,True
+3644,Kuldeep Yadav,Kuldeep Yadav,All-Rounder,Delhi Capitals,LHB,Left-arm Chinaman,112,201,157,1914,2557,118,True,True
+3645,Sarfaraz Khan,Sarfaraz Khan,Batter,Chennai Super Kings,RHB,Unknown,24,224,305,0,0,0,True,False
+3647,Shreyas Iyer,Shreyas Iyer,Batter,India,RHB,Right-arm offbreak,107,1865,2856,8,9,0,True,True
+3648,Deepak Hooda,Deepak Hooda,All-Rounder,Chennai Super Kings,RHB,Right-arm offbreak,72,797,1058,131,140,7,True,True
+3651,Ricky Bhui,Ricky Bhui,Batter,Delhi Capitals,RHB,Unknown,14,9,3,0,0,0,True,False
+3653,Avesh Khan,Avesh Khan,All-Rounder,India,RHB,Right-arm medium,93,57,86,1673,2681,86,True,True
+3660,Luke Wood,Luke Wood,Bowler,England,LHB,Left-arm fast-medium,55,8,13,326,522,19,True,True
+3664,Binura Fernando,Binura Fernando,Bowler,Sri Lanka,RHB,Left-arm medium-fast,35,25,15,342,491,14,False,True
+3669,Sadeera Samarawickrama,Sadeera Samarawickrama,Batter,Sri Lanka,RHB,Unknown,9,163,199,0,0,0,False,True
+3672,Kusal Mendis,Kusal Mendis,Batter,Gujarat Titans,RHB,Unknown,70,1327,1779,0,0,0,True,True
+3673,Ramesh Mendis,Ramesh Mendis,All-Rounder,Sri Lanka,RHB,Right-arm offbreak,11,65,73,150,168,2,False,True
+3683,Gavin Main,Gavin Main,Bowler,Scotland,RHB,Right-arm Fast,4,1,0,37,47,2,False,True
+3686,CB Sole,CB Sole,Bowler,Scotland,RHB,Right-arm fast-medium,7,22,15,97,136,8,False,True
+3689,Mark Watt,Mark Watt,All-Rounder,Scotland,LHB,Slow left-arm orthodox,7,58,65,125,169,7,False,True
+3697,Kyle Jamieson,Kyle Jamieson,All-Rounder,Chennai Super Kings,RHB,Right-arm medium,56,68,66,629,1031,34,True,True
+3700,Tim Seifert,Tim Seifert,Batter,Delhi Capitals,RHB,Unknown,61,760,1176,0,0,0,True,True
+3720,Craig Young,Craig Young,All-Rounder,Ireland,RHB,Right-arm medium,33,30,17,466,676,36,False,True
+3727,Matthew Short,Matthew Short,All-Rounder,Australia,RHB,Right-arm offbreak,54,420,593,151,270,9,True,True
+3771,Vivian Kingma,Vivian Kingma,Bowler,Netherlands,RHB,Right-arm medium,8,1,0,97,124,6,False,True
+3772,Logan van Beek,Logan van Beek,All-Rounder,Netherlands,RHB,Right-arm medium-fast,6,32,23,132,151,10,False,True
+3775,Sompal Kami,Sompal Kami,Bowler,Nepal,RHB,Right-arm Fast,3,9,10,44,68,0,False,True
+3782,Shahrukh Khan,M Shahrukh Khan,Batter,Gujarat Titans,RHB,Right-arm offbreak,68,410,622,18,28,1,True,False
+3802,Anshuman Rath,Anshuman Rath,Batter,Hong Kong,LHB,Slow left-arm orthodox,9,146,124,20,26,1,False,True
+3831,Arjun Mutreja,Arjun Mutreja,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+3832,Rezza Gaznavi,Rezza Gaznavi,Batter,Singapore,RHB,Unknown,3,41,35,0,0,0,False,True
+3835,Anish Param,Anish Param,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+3839,Amjad Mahboob,Amjad Mahboob,Bowler,Singapore,RHB,Right-arm medium,3,19,21,54,81,2,False,True
+3849,Ali Zaheer,Ali Zaheer,Prospect / Reserve,Kuwait,RHB,Unknown,1,0,0,0,0,0,False,True
+3856,Zeeshan Maqsood,Zeeshan Maqsood,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+3858,Jatinder Singh,Jatinder Singh,Batter,Oman,RHB,Right-arm offbreak,6,128,148,2,7,0,False,True
+3871,Aamir Kaleem,Aamir Kaleem,All-Rounder,Oman,LHB,Slow left-arm orthodox,6,112,135,108,137,8,False,True
+3876,Sufyan Mehmood,Sufyan Mehmood,All-Rounder,Oman,LHB,Right-arm medium,8,30,22,72,121,2,False,True
+3882,Steven Taylor,Steven Taylor,Prospect / Reserve,United States Of America,RHB,Unknown,4,0,0,0,0,0,False,True
+3916,Jitesh Sharma,Jitesh Sharma,Batter,India,RHB,Unknown,111,895,1389,0,0,0,True,True
+3926,Rahul Tewatia,Rahul Tewatia,All-Rounder,Gujarat Titans,LHB,Right-arm Leg-Break,79,524,781,49,91,0,True,False
+3954,Andrew Balbirnie,Andrew Balbirnie,Batter,Ireland,RHB,Unknown,33,569,680,0,0,0,False,True
+3955,Tom Helm,Tom Helm,Prospect / Reserve,England,RHB,Unknown,0,0,0,0,0,0,False,True
+3967,Tom Kohler,Tom Kohler,Batter,Rajasthan Royals,RHB,Unknown,16,54,48,0,0,0,True,False
+3986,Matthew Renshaw,Matthew Renshaw,All-Rounder,Australia,LHB,Right-arm offbreak,6,108,131,36,43,3,False,True
+3995,Donald Tiripano,Donald Tiripano,Bowler,Zimbabwe,RHB,Right-arm fast-medium,2,3,1,30,54,1,False,True
+4007,Ryan Rickelton,Ryan Rickelton,Batter,Mumbai Indians,LHB,Unknown,51,856,1349,0,0,0,True,True
+4077,KL Shrijith,KL Shrijith,Prospect / Reserve,Mumbai Indians,RHB,Unknown,16,0,0,0,0,0,True,False
+4080,KC Cariappa,KC Cariappa,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,0,0,0,0,0,0,True,False
+4101,Mitchell Santner,Mitchell Santner,All-Rounder,Chennai Super Kings,LHB,Slow left-arm orthodox,105,540,681,1737,2155,87,True,True
+4102,George Munsey,George Munsey,Batter,Scotland,LHB,Unknown,7,98,156,0,0,0,False,True
+4106,Daryl Mitchell,Daryl Mitchell,All-Rounder,Chennai Super Kings,RHB,Right-arm medium,77,1150,1668,80,153,4,True,True
+4111,Khushdil Shah,Khushdil Shah,All-Rounder,Pakistan,LHB,Slow left-arm orthodox,37,206,211,60,89,3,False,True
+4117,Ishan Kishan,Ishan Kishan,Batter,India,LHB,Right-arm Leg-Break,127,2411,3529,1,4,0,True,True
+4201,Fareed Malik,Fareed Malik,Bowler,Afghanistan,LHB,Left-arm fast-medium,28,20,7,309,503,23,False,True
+4211,Vishnu Vinod,Vishnu Vinod,Batter,Mumbai Indians,RHB,Unknown,40,39,52,0,0,0,True,False
+4219,Krunal Pandya,Krunal Pandya,All-Rounder,Lucknow Super Giants,LHB,Slow left-arm orthodox,75,656,839,1257,1637,56,True,False
+4221,Chris Green,Chris Green,Bowler,Australia,RHB,Right-arm offbreak,1,3,2,24,36,0,False,True
+4227,Marnus Labuschagne,Marnus Labuschagne,Prospect / Reserve,Australia,RHB,Unknown,3,0,0,0,0,0,False,True
+4229,George Linde,George Linde,All-Rounder,Lucknow Super Giants,LHB,Slow left-arm orthodox,33,140,227,283,376,15,True,True
+4235,Sisanda Magala,Sisanda Magala,Bowler,Chennai Super Kings,RHB,Right-arm fast-medium,4,5,18,72,139,4,True,True
+4237,Tabraiz Shamsi,Tabraiz Shamsi,Bowler,South Africa,RHB,Left-arm Chinaman,19,7,5,310,495,17,False,True
+4246,Nitish Rana,Nitish Rana,All-Rounder,Delhi Capitals,LHB,Right-arm offbreak,70,861,1258,101,171,3,True,False
+4248,Pargat Singh,Pargat Singh,Prospect / Reserve,Canada,RHB,Unknown,4,0,0,0,0,0,False,True
+4250,Baltej Singh,Baltej Singh,Prospect / Reserve,Punjab Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+4251,Peter Moor,Peter Moor,Prospect / Reserve,Ireland,RHB,Unknown,0,0,0,0,0,0,False,True
+4260,Heinrich Klaasen,Heinrich Klaasen,Batter,South Africa,RHB,Unknown,78,1417,2363,0,0,0,True,True
+4265,T Natarajan,T Natarajan,Bowler,Delhi Capitals,LHB,Left-arm medium,69,2,1,1052,1690,53,True,False
+4276,Basil Thampi,Basil Thampi,Bowler,Mumbai Indians,RHB,Right-arm fast-medium,5,0,0,96,152,5,True,False
+4288,Navdeep Saini,Navdeep Saini,Bowler,Kolkata Knight Riders,RHB,Right-arm medium,34,2,2,91,182,6,True,False
+4325,Ashwin Hebbar,Ashwin Hebbar,Prospect / Reserve,Delhi Capitals,RHB,Unknown,0,0,0,0,0,0,True,False
+4369,Shai Hope,Shai Hope,Batter,Delhi Capitals,RHB,Unknown,70,1105,1593,0,0,0,True,True
+4372,Rony Talukder,Rony Talukder,Batter,Bangladesh,RHB,Unknown,10,143,203,0,0,0,False,True
+4373,Mustafizur Rahman,Mustafizur Rahman,All-Rounder,Bangladesh,LHB,Left-arm medium,87,59,51,1576,2050,79,True,True
+4391,Liam Livingstone,Liam Livingstone,All-Rounder,England,RHB,Right-arm Leg-Break,102,994,1530,594,957,32,True,True
+4409,Sam Curran,Sam Curran,All-Rounder,Chennai Super Kings,LHB,Left-arm medium-fast,93,858,1122,1354,2166,62,True,True
+4412,Max ODowd,Max ODowd,All-Rounder,Netherlands,RHB,Right-arm offbreak,13,199,240,30,35,1,False,True
+4417,Karan KC,Karan KC,Bowler,Nepal,RHB,Right-arm Fast,3,2,0,42,39,2,False,True
+4438,Jasdeep Singh,Jasdeep Singh,Bowler,United States Of America,RHB,Right-arm medium,4,20,18,90,143,4,False,True
+4450,Mehran Khan,Mehran Khan,Bowler,Oman,RHB,Right-arm medium-fast,3,9,5,30,47,2,False,True
+4458,Aneurin Donald,AHT Donald,Batter,England,RHB,Unknown,3,24,46,0,0,0,False,True
+4460,Jeffrey Vandersay,Jeffrey Vandersay,Bowler,Sri Lanka,RHB,Right-arm Leg-Break,16,23,20,120,169,2,False,True
+4486,BR Sharath,BR Sharath,Batter,Gujarat Titans,RHB,Unknown,14,5,2,0,0,0,True,False
+4487,Vyshak Kumar,Vyshak Kumar,Bowler,India,RHB,Right-arm medium,62,16,16,570,988,27,True,True
+4489,Prasidh Krishna,Prasidh Krishna,Bowler,Gujarat Titans,RHB,Right-arm medium-fast,68,22,14,1175,1785,69,True,True
+4494,Abhinav Manohar,Abhinav Manohar,Batter,Gujarat Titans,RHB,Unknown,45,235,292,0,0,0,True,False
+4499,Saqib Mahmood,Saqib Mahmood,All-Rounder,England,RHB,Right-arm fast-medium,29,33,25,229,316,17,False,True
+4505,Jhye Richardson,Jhye Richardson,Bowler,Australia,RHB,Right-arm Fast,18,22,11,120,170,6,True,True
+4588,Navneet Dhaliwal,Navneet Dhaliwal,Prospect / Reserve,Canada,RHB,Unknown,4,0,0,0,0,0,False,True
+4604,Mitchell Swepson,Mitchell Swepson,Bowler,Australia,RHB,Right-arm Leg-Break,1,1,2,12,31,0,False,True
+4636,Bjorn Fortuin,Bjorn Fortuin,All-Rounder,South Africa,RHB,Slow left-arm orthodox,13,56,68,210,352,8,False,True
+4639,Wellington Masakadza,Wellington Masakadza,All-Rounder,Zimbabwe,LHB,Slow left-arm orthodox,46,151,166,480,601,15,False,True
+4641,Lungi Ngidi,Lungi Ngidi,All-Rounder,Delhi Capitals,RHB,Right-arm Fast,64,62,52,800,1180,47,True,True
+4658,Nasum Ahmed,Nasum Ahmed,All-Rounder,Bangladesh,LHB,Slow left-arm orthodox,53,78,71,600,764,25,False,True
+4662,Cole McConchie,Cole McConchie,All-Rounder,New Zealand,RHB,Right-arm offbreak,12,97,112,120,178,3,False,True
+4663,Henry Nicholls,Henry Nicholls,Prospect / Reserve,New Zealand,RHB,Unknown,2,0,0,0,0,0,False,True
+4665,Tom Blundell,Tom Blundell,Batter,New Zealand,RHB,Unknown,2,19,32,0,0,0,False,True
+4684,Dane Cleaver,Dane Cleaver,Batter,New Zealand,RHB,Unknown,15,149,194,0,0,0,False,True
+4686,Joshua Clarkson,Joshua Clarkson,All-Rounder,New Zealand,RHB,Right-arm medium,21,114,151,49,58,6,False,True
+4692,Lockie Ferguson,Lockie Ferguson,All-Rounder,Gujarat Titans,RHB,Right-arm Fast,89,30,25,1084,1596,59,True,True
+4695,Nick Kelly,Nick Kelly,Batter,New Zealand,LHB,Unknown,8,88,97,0,0,0,False,True
+4703,Rishabh Pant,Rishabh Pant,Batter,Delhi Capitals,LHB,Unknown,82,1240,1774,0,0,0,True,True
+4708,Rinku Singh,Rinku Singh,Batter,India,LHB,Right-arm offbreak,117,1285,1962,10,10,3,True,True
+4716,Mayank Dagar,Mayank Dagar,Bowler,Royal Challengers Bengaluru,RHB,Slow left-arm orthodox,18,1,0,137,203,2,True,False
+4722,Rashid Khan,Rashid Khan,All-Rounder,Afghanistan,RHB,Right-arm Leg-Break,126,507,791,2747,3403,153,True,True
+4730,Ali Khan,Ali Khan,Prospect / Reserve,United States Of America,RHB,Unknown,4,0,0,0,0,0,False,True
+4736,Josh Inglis,Josh Inglis,Batter,Australia,RHB,Unknown,80,904,1469,0,0,0,True,True
+4755,Shivam Dube,Shivam Dube,All-Rounder,Chennai Super Kings,LHB,Right-arm medium,131,1544,2380,469,777,29,True,True
+4773,Jaker Ali,Jaker Ali Anik,Batter,Bangladesh,RHB,Unknown,44,512,666,0,0,0,False,True
+4779,Wiaan Mulder,Pieter Willem Mulder,All-Rounder,South Africa,RHB,Right-arm medium,27,112,110,114,198,8,True,True
+4780,Saif Hassan,Mohammad Saif Hassan,All-Rounder,Bangladesh,RHB,Right-arm offbreak,30,498,608,123,156,4,False,True
+4784,Tony de Zorzi,Tony de Zorzi,Batter,South Africa,LHB,Unknown,8,91,93,0,0,0,False,True
+4790,Lutho Sipamla,Lutho Sipamla,Bowler,South Africa,RHB,Right-arm Fast,14,14,9,110,213,6,False,True
+4793,Dean Foxcroft,Dean Foxcroft,Batter,New Zealand,RHB,Right-arm offbreak,10,101,106,12,17,0,False,True
+4802,Stephen Doheny,Stephen Doheny,Batter,Ireland,RHB,Unknown,7,21,19,0,0,0,False,True
+4807,Joshua Little,Joshua Little,Bowler,Gujarat Titans,RHB,Left-arm Fast,54,19,17,780,1060,45,True,True
+4812,Harry Tector,Harry Tector,All-Rounder,Ireland,RHB,Right-arm offbreak,50,828,1015,230,265,11,False,True
+4814,Lorcan Tucker,Lorcan Tucker,Batter,Ireland,RHB,Unknown,47,666,838,0,0,0,False,True
+4815,Benjamin White,Benjamin White,Bowler,Ireland,RHB,Right-arm Leg-Break,31,14,9,390,595,18,False,True
+4816,Khaleel Ahmed,Khaleel Ahmed,Bowler,Chennai Super Kings,RHB,Left-arm medium,60,5,1,1203,1786,62,True,True
+4817,Anmolpreet Singh,Anmolpreet Singh,Batter,Mumbai Indians,RHB,Unknown,23,101,123,0,0,0,True,False
+4821,Mahipal Lomror,Mahipal Lomror,All-Rounder,Gujarat Titans,LHB,Slow left-arm orthodox,50,222,346,30,53,0,True,False
+4823,Washington Sundar,Washington Sundar,All-Rounder,Gujarat Titans,LHB,Right-arm offbreak,118,637,891,790,1067,41,True,True
+4824,Zeeshan Ansari,Zeeshan Ansari,Bowler,Sunrisers Hyderabad,RHB,Right-arm Leg-Break,29,0,0,204,332,6,True,False
+4826,George Garton,George Garton,Bowler,England,LHB,Left-arm Fast,1,4,2,24,57,1,False,True
+4830,Keacy Carty,Keacy Carty,Batter,West Indies,RHB,Unknown,20,72,80,0,0,0,False,True
+4833,Jyd Goolie,Jyd Goolie,Prospect / Reserve,West Indies,RHB,Unknown,2,0,0,0,0,0,False,True
+4837,Obed McCoy,Obed McCoy,All-Rounder,Rajasthan Royals,LHB,Left-arm fast-medium,37,43,38,646,1011,40,True,True
+4838,Keemo Paul,Keemo Paul,Bowler,West Indies,RHB,Right-arm fast-medium,8,29,29,90,170,9,False,True
+4840,Odean Smith,Odean Smith,All-Rounder,Gujarat Titans,RHB,Right-arm fast-medium,25,133,177,384,673,25,True,True
+4842,Shamar Springer,Shamar Springer,All-Rounder,West Indies,RHB,Right-arm medium,25,69,116,198,334,16,False,True
+4847,Finn Allen,Finn Allen,Batter,Kolkata Knight Riders,RHB,Unknown,59,834,1455,0,0,0,True,True
+4853,Glenn Phillips,Glenn Phillips,All-Rounder,Gujarat Titans,RHB,Right-arm offbreak,93,1093,1625,113,153,5,True,True
+4854,Rachin Ravindra,Rachin Ravindra,All-Rounder,Chennai Super Kings,LHB,Slow left-arm orthodox,69,582,829,132,196,5,True,True
+4856,Benjamin Sears,Benjamin Sears,All-Rounder,New Zealand,RHB,Right-arm medium-fast,29,33,23,453,613,30,False,True
+4857,Nathan Smith,Nathan Smith,Bowler,New Zealand,RHB,Right-arm medium-fast,23,7,8,103,175,6,False,True
+4867,Wesley Madhevere,Wesley Madhevere,All-Rounder,Zimbabwe,RHB,Right-arm offbreak,32,427,435,96,137,4,False,True
+4870,Kundai Matigimu,Kundai Matigimu,Bowler,Zimbabwe,RHB,Right-arm Fast,3,0,0,24,48,2,False,True
+4871,Brandon Mavuta,Brandon Mavuta,Bowler,Zimbabwe,RHB,Right-arm Leg-Break,12,15,12,42,56,2,False,True
+4874,Richard Ngarava,Richard Ngarava,All-Rounder,Zimbabwe,LHB,Left-arm fast-medium,44,62,59,846,1142,41,False,True
+4876,Milton Shumba,Milton Shumba,Batter,Zimbabwe,LHB,Slow left-arm orthodox,12,63,42,12,14,1,False,True
+4880,Aarif Sheikh,Aarif Sheikh,Batter,Nepal,RHB,Unknown,3,3,6,0,0,0,False,True
+4881,Dipendra Airee,Dipendra Airee,Bowler,Nepal,RHB,Right-arm offbreak,3,19,17,36,24,2,False,True
+4882,Kushal Bhurtel,Kushal Bhurtel,All-Rounder,Nepal,RHB,Right-arm Leg-Break,3,44,47,49,50,5,False,True
+4887,Sandeep Lamichhane,Sandeep Lamichhane,Prospect / Reserve,Nepal,RHB,Unknown,3,0,0,0,0,0,False,True
+4895,Charith Asalanka,Charith Asalanka,All-Rounder,Mumbai Indians,LHB,Right-arm offbreak,65,739,927,161,210,7,True,True
+4900,Wanindu Hasaranga,Wanindu Hasaranga,All-Rounder,Lucknow Super Giants,RHB,Right-arm Leg-Break,104,468,584,2035,2693,133,True,True
+4901,Asitha Fernando,Asitha Fernando,Bowler,Sri Lanka,RHB,Right-arm medium-fast,19,5,11,120,208,4,False,True
+4902,Avishka Fernando,Avishka Fernando,Batter,Sri Lanka,RHB,Unknown,20,62,51,0,0,0,False,True
+4903,Lahiru Kumara,Lahiru Kumara,Bowler,Sri Lanka,RHB,Right-arm Fast,3,0,0,71,94,7,False,True
+4904,Kamindu Mendis,Kamindu Mendis,All-Rounder,Sri Lanka,LHB,Slow left-arm orthodox,74,594,769,150,214,5,True,True
+4926,Shadab Khan,Shadab Khan,All-Rounder,Pakistan,RHB,Right-arm Leg-Break,47,332,474,832,1097,36,False,True
+4947,Kasun Rajitha,Kasun Rajitha,Bowler,Sri Lanka,RHB,Right-arm medium-fast,5,9,15,108,162,4,False,True
+4970,Adil Mehmood,Adil Mehmood,Prospect / Reserve,Hong Kong,RHB,Unknown,3,0,0,0,0,0,False,True
+4974,Mohammad Nadeem,Mohammad Nadeem,All-Rounder,Oman,RHB,Right-arm medium-fast,6,80,69,60,96,2,False,True
+4983,Sikander Zulfiqar,Sikander Zulfiqar,Batter,Netherlands,RHB,Unknown,3,3,2,0,0,0,False,True
+4986,Rovman Powell,Rovman Powell,All-Rounder,Delhi Capitals,RHB,Right-arm medium-fast,141,1559,2288,73,145,2,True,True
+5029,Prerak Mankad,Prerak Mankad,Batter,Lucknow Super Giants,RHB,Unknown,20,73,97,0,0,0,True,False
+5034,Murugan Ashwin,Murugan Ashwin,Bowler,Mumbai Indians,RHB,Right-arm Leg-Break,10,14,12,199,280,9,True,False
+5039,Rajat Patidar,Rajat Patidar,Batter,Royal Challengers Bengaluru,RHB,Unknown,55,918,1541,0,0,0,True,False
+5041,Mukesh Kumar,Mukesh Kumar,Bowler,Delhi Capitals,RHB,Right-arm Fast,72,23,15,1152,1938,62,True,True
+5071,Akash Vasisht,Akash Vasisht,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,0,0,0,0,0,0,True,False
+5189,Faheem Ashraf,Faheem Ashraf,All-Rounder,Pakistan,LHB,Right-arm Fast,40,204,295,442,620,26,False,True
+5231,Oshane Thomas,Oshane Thomas,Bowler,West Indies,RHB,Right-arm Fast,1,0,0,24,36,0,False,True
+5379,Mark Adair,Mark Adair,All-Rounder,Ireland,RHB,Right-arm fast-medium,45,277,387,847,1226,56,False,True
+5441,Barry McCarthy,Barry McCarthy,All-Rounder,Ireland,RHB,Right-arm medium,36,112,137,621,893,26,False,True
+5547,Nosthush Kenjige,Nosthush Kenjige,Bowler,United States Of America,RHB,Slow left-arm orthodox,4,13,8,78,109,2,False,True
+5553,Phil Salt,Phil Salt,Batter,Delhi Capitals,RHB,Unknown,109,1643,2782,0,0,0,True,True
+5561,Brad Wheal,Brad Wheal,Bowler,Scotland,RHB,Right-arm fast-medium,3,12,13,36,90,0,False,True
+5562,Richard Gleeson,Richard Gleeson,Bowler,Chennai Super Kings,RHB,Right-arm medium,22,6,4,195,296,11,True,True
+5566,Tom Abell,Tom Abell,Prospect / Reserve,England,RHB,Unknown,0,0,0,0,0,0,False,True
+5577,Sai Kishore,Sai Kishore,Bowler,Gujarat Titans,LHB,Slow left-arm orthodox,55,16,18,489,718,34,True,True
+5608,Narayan Jagadeesan,Narayan Jagadeesan,Batter,Chennai Super Kings,RHB,Unknown,8,118,129,0,0,0,True,False
+5665,Sanjay Yadav,Sanjay Yadav,Bowler,Mumbai Indians,LHB,Slow left-arm orthodox,1,2,0,12,23,0,True,False
+5668,Hari Nishaanth,Hari Nishaanth,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+5680,Sonu Yadav,R Sonu Yadav,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,0,0,0,0,0,0,True,False
+5738,Xavier Bartlett,Xavier Bartlett,All-Rounder,Australia,RHB,Right-arm fast-medium,61,90,106,626,959,29,True,True
+5749,Shahid Wasif,Shahid Wasif,Prospect / Reserve,Hong Kong,RHB,Unknown,3,0,0,0,0,0,False,True
+5750,Ehsan Khan,Ehsan Khan,All-Rounder,Hong Kong,RHB,Right-arm offbreak,14,33,42,323,384,19,False,True
+5808,Karim Janat,Karim Janat,All-Rounder,Afghanistan,RHB,Right-arm medium,49,319,364,264,399,10,True,True
+5809,Naveen-ul-Haq,Naveen ul Haq,All-Rounder,Afghanistan,RHB,Right-arm medium-fast,46,67,49,789,1163,52,True,True
+5827,Wes Agar,Wes Agar,Prospect / Reserve,Australia,RHB,Unknown,0,0,0,0,0,0,False,True
+5835,Carl Mumba,Carl Mumba,Prospect / Reserve,Zimbabwe,RHB,Unknown,0,0,0,0,0,0,False,True
+5837,Mahedi Hasan,Mahedi Hasan,All-Rounder,Bangladesh,RHB,Right-arm offbreak,61,253,265,914,1074,50,False,True
+5838,Shohidul Islam,Shohidul Islam,Prospect / Reserve,Bangladesh,RHB,Unknown,0,0,0,0,0,0,False,True
+5839,Yasir Ali Chowdhury,Yasir Ali Chowdhury,Batter,Bangladesh,RHB,Unknown,14,154,212,0,0,0,False,True
+5844,Ebadot Hossain,Ebadot Hossain,Bowler,Bangladesh,RHB,Right-arm Fast,3,0,0,73,114,6,False,True
+5866,Patrick Kruger,Patrick Kruger,All-Rounder,South Africa,RHB,Right-arm medium,13,60,72,116,179,8,False,True
+5872,Habibur Rahman,Habibur Rahman,Prospect / Reserve,Bangladesh A,RHB,Unknown,0,0,0,0,0,0,False,True
+5877,Andries Gous,Andries Gous,Batter,United States Of America,RHB,Unknown,4,57,65,0,0,0,False,True
+5882,Afif Hossain,Afif Hossain,All-Rounder,Bangladesh,LHB,Right-arm offbreak,23,361,437,30,44,1,False,True
+5892,Blair Tickner,Blair Tickner,Bowler,New Zealand,RHB,Right-arm Fast,18,5,1,215,340,16,False,True
+5928,Prithvi Shaw,Prithvi Shaw,Batter,Delhi Capitals,RHB,Unknown,46,391,587,0,0,0,True,True
+5939,Cameron Green,Cameron Green,All-Rounder,Australia,RHB,Right-arm medium,71,1072,1638,756,1199,34,True,True
+5940,Riley Meredith,Riley Meredith,Bowler,Australia,RHB,Right-arm Fast,22,3,0,310,477,16,True,True
+5944,Mohammed Siraj,Mohammed Siraj,All-Rounder,Gujarat Titans,RHB,Right-arm medium-fast,84,72,58,1810,2656,86,True,True
+5953,Lakshan Sandakan,Lakshan Sandakan,Prospect / Reserve,Sri Lanka,RHB,Unknown,0,0,0,0,0,0,False,True
+5977,Khary Pierre,Khary Pierre,Bowler,West Indies,LHB,Slow left-arm orthodox,11,15,14,120,170,4,False,True
+5979,Abrar Ahmed,Abrar Ahmed,Bowler,Pakistan,RHB,Right-arm Leg-Break,55,11,4,764,851,46,False,True
+6025,Henry Shipley,Henry Shipley,Bowler,New Zealand,RHB,Right-arm Fast,5,2,2,78,141,2,False,True
+6034,Shane Snater,Shane Snater,Prospect / Reserve,Netherlands,RHB,Unknown,0,0,0,0,0,0,False,True
+6035,Chirag Suri,Chirag Suri,Batter,United Arab Emirates,RHB,Unknown,5,103,136,0,0,0,False,True
+6036,Tejas Baroka,Tejas Baroka,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,0,0,0,0,0,0,True,False
+6038,Pratham Sing,Pratham Sing,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,0,0,0,0,0,0,True,False
+6048,Ishan Porel,Ishan Porel,Prospect / Reserve,Punjab Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+6059,Ruturaj Gaikwad,Ruturaj Gaikwad,Batter,Chennai Super Kings,RHB,Unknown,82,1822,2533,0,0,0,True,True
+6085,Dan Pascoe,Dan Pascoe,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+6097,Brydon Carse,Brydon Carse,All-Rounder,England,RHB,Right-arm Fast,27,37,46,269,411,20,True,True
+6101,Devang Bulsara,Devang Bulsara,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+6160,Chamika Karunaratne,Chamika Karunaratne,All-Rounder,Kolkata Knight Riders,RHB,Right-arm medium-fast,30,152,155,336,491,13,True,True
+6161,Rahul Chahar,Rahul Chahar,All-Rounder,Chennai Super Kings,RHB,Right-arm Leg-Break,73,95,102,867,1196,32,True,True
+6162,Kulwant Khejroliya,Kulwant Khejroliya,Bowler,Gujarat Titans,RHB,Left-arm medium-fast,34,0,0,58,122,3,True,False
+6166,Jack Edwards,Jack Edwards,Bowler,Australia,RHB,Right-arm medium,3,6,5,12,25,0,True,True
+6172,Lasith Croospulle,Lasith Croospulle,Batter,Sri Lanka,RHB,Unknown,12,31,50,0,0,0,False,True
+6176,Ashen Bandara,Ashen Bandara,Prospect / Reserve,Sri Lanka,RHB,Unknown,0,0,0,0,0,0,False,True
+6179,Nipun Ransika,Nipun Ransika,Bowler,Sri Lanka A,LHB,Right-arm fast-medium,5,6,6,90,112,6,False,True
+6180,Praveen Jayawickrama,Praveen Jayawickrama,Bowler,Sri Lanka,RHB,Slow left-arm orthodox,2,0,0,48,72,2,False,True
+6188,Simi Singh,Simi Singh,Bowler,Ireland,RHB,Right-arm offbreak,2,0,0,12,30,0,False,True
+6196,Josh Tongue,Josh Tongue,Bowler,England,RHB,Right-arm Fast,11,0,0,121,187,8,False,True
+6199,Navin Param,Navin Param,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+6202,Anantha Krishna,Anantha Krishna,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+6203,Surendran Chandramohan,Surendran Chandramohan,Batter,Singapore,RHB,Unknown,3,25,16,0,0,0,False,True
+6226,Fred Klaassen,Fred Klaassen,Prospect / Reserve,Netherlands,RHB,Unknown,4,0,0,0,0,0,False,True
+6237,Manimaran Siddharth,Manimaran Siddharth,Bowler,Lucknow Super Giants,RHB,Slow left-arm orthodox,42,0,0,186,284,9,True,False
+6256,Varun Chakravarthy,Varun Chakravarthy,All-Rounder,India,RHB,Right-arm Leg-Break,113,49,26,2128,2841,135,True,True
+6263,Aaditya AVaradarajan,Aaditya AVaradarajan,Prospect / Reserve,Canada,RHB,Unknown,4,0,0,0,0,0,False,True
+6272,William Jacks,William Jacks,All-Rounder,England,RHB,Right-arm offbreak,83,697,1045,414,594,23,True,True
+6273,Tom Banton,Tom Banton,Batter,England,RHB,Unknown,31,274,437,0,0,0,True,True
+6280,Harry Brook,Harry Brook,Batter,Delhi Capitals,RHB,Unknown,62,889,1456,0,0,0,True,True
+6281,Abhishek Sharma,Abhishek Sharma,All-Rounder,India,LHB,Slow left-arm orthodox,138,2317,4332,457,676,14,True,True
+6284,Anukul Roy,Anukul Roy,All-Rounder,Kolkata Knight Riders,LHB,Slow left-arm orthodox,50,64,78,311,468,14,True,False
+6285,Kamlesh Nagarkoti,Kamlesh Nagarkoti,Bowler,Chennai Super Kings,RHB,Right-arm Fast,15,0,0,12,29,0,True,False
+6286,Shivam Mavi,Shivam Mavi,Bowler,Gujarat Titans,RHB,Right-arm Fast,24,25,31,218,348,12,True,True
+6287,Yash Thakur,Yash Thakur,Bowler,India,RHB,Right-arm medium,66,4,2,570,973,34,True,True
+6288,Shubman Gill,Shubman Gill,Batter,Gujarat Titans,RHB,Unknown,118,2711,4050,0,0,0,True,True
+6297,Matthew Parkinson,Matthew Parkinson,Bowler,England,RHB,Right-arm Leg-Break,2,5,0,36,65,1,False,True
+6314,Devdutt Padikkal,Devdutt Padikkal,Batter,Lucknow Super Giants,LHB,Unknown,69,998,1386,0,0,0,True,False
+6342,Matthew Breetzke,Matthew Breetzke,Batter,Lucknow Super Giants,RHB,Unknown,42,148,172,0,0,0,True,True
+6350,Matthew Kuhnemann,Matthew Kuhnemann,Bowler,Australia,LHB,Slow left-arm orthodox,22,12,7,121,166,2,False,True
+6351,Yarra Prithviraj,Yarra Prithviraj,Prospect / Reserve,Gujarat Titans,RHB,Unknown,0,0,0,0,0,0,True,False
+6354,Spencer Johnson,Spencer Johnson,Bowler,Australia,LHB,Left-arm Fast,53,13,8,438,690,24,True,True
+6355,Shaheen Afridi,Shaheen Afridi,All-Rounder,Pakistan,LHB,Left-arm Fast,58,183,225,991,1321,65,False,True
+6356,Khaled Ahmed,Khaled Ahmed,Bowler,Bangladesh,RHB,Right-arm medium,1,0,0,24,37,0,False,True
+6359,Raghu Sharma,Raghu Sharma,Bowler,Mumbai Indians,RHB,Right-arm Leg-Break,20,0,0,90,130,1,True,False
+6389,Tanvir Islam,Tanvir Islam,Bowler,Bangladesh,LHB,Slow left-arm orthodox,16,16,12,102,136,4,False,True
+6395,Josh Philippe,Josh Philippe,Batter,Australia,RHB,Unknown,16,46,48,0,0,0,False,True
+6396,Tim David,Tim David,Batter,Australia,RHB,Right-arm offbreak,120,1226,2178,6,18,0,True,True
+6398,Aaron Hardie,Aaron Hardie,All-Rounder,Australia,RHB,Right-arm medium-fast,43,142,180,272,389,15,True,True
+6402,Eathan Bosch,Eathan Bosch,Prospect / Reserve,South Africa,RHB,Unknown,0,0,0,0,0,0,False,True
+6408,Subhranshu Senapati,Subhranshu Senapati,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+6423,Riyan Parag,Riyan Parag,All-Rounder,India,RHB,Right-arm offbreak,88,1086,1646,260,377,10,True,True
+6428,Upendra Yadav,Upendra Yadav,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,17,0,0,0,0,0,True,False
+6432,Ikram Khil,Ikram Khil,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+6433,Darwish Rasooli,Darwish Rasooli,Batter,Afghanistan,RHB,Unknown,33,429,494,0,0,0,False,True
+6436,Qais Ahmad,Qais Ahmad,All-Rounder,Afghanistan,RHB,Right-arm Leg-Break,14,34,39,192,246,7,False,True
+6440,Omair Yousuf,Omair Yousuf,Batter,Pakistan,RHB,Unknown,18,126,161,0,0,0,False,True
+6441,Abdullah Shafique,Abdullah Shafique,Batter,Pakistan,RHB,Unknown,3,16,23,0,0,0,False,True
+6443,Rohail Nazir,Rohail Nazir,Batter,Pakistan A,RHB,Unknown,3,20,41,0,0,0,False,True
+6448,Ibrahim Zadran,Ibrahim Zadran,Batter,Afghanistan,RHB,Unknown,47,1126,1319,0,0,0,False,True
+6449,Wafadar Momand,Wafadar Momand,Bowler,Afghanistan,RHB,Right-arm medium,2,0,0,31,65,0,False,True
+6450,Mujeeb Ur Rahman,Mujeeb Ur Rahman,All-Rounder,Afghanistan,RHB,Right-arm offbreak,60,70,88,820,961,48,True,True
+6457,Urvil Patel,Urvil Patel,Batter,Chennai Super Kings,RHB,Unknown,17,96,197,0,0,0,True,False
+6460,Ayush Badoni,Ayush Badoni,All-Rounder,India A,RHB,Right-arm offbreak,74,899,1274,77,105,4,True,True
+6461,Mayank Rawat,Mayank Rawat,Prospect / Reserve,Mumbai Indians,RHB,Unknown,14,0,0,0,0,0,True,False
+6464,Arshdeep Singh,Arshdeep Singh,All-Rounder,India,LHB,Left-arm medium-fast,167,132,129,3209,4880,194,True,True
+6466,Atharwa Taide,Atharwa Taide,Batter,Punjab Kings,LHB,Slow left-arm orthodox,35,177,260,1,4,0,True,False
+6467,Anuj Rawat,Anuj Rawat,Batter,Gujarat Titans,LHB,Unknown,68,277,326,0,0,0,True,True
+6473,Nuwanidu Fernando,Nuwanidu Fernando,Batter,Sri Lanka,RHB,Unknown,18,179,222,0,0,0,False,True
+6483,Nishan Madushka,Nishan Madushka,Batter,Sri Lanka A,RHB,Unknown,4,45,55,0,0,0,False,True
+6486,Tanush Kotian,Tanush Kotian,Batter,India A,RHB,Unknown,20,31,24,0,0,0,True,True
+6487,Priyam Garg,Priyam Garg,Batter,Delhi Capitals,RHB,Unknown,4,56,68,0,0,0,True,False
+6488,Harvik Desai,Harvik Desai,Prospect / Reserve,Mumbai Indians,RHB,Unknown,10,0,0,0,0,0,True,False
+6489,Darshan Nalkande,Darshan Nalkande,Bowler,Delhi Capitals,RHB,Right-arm fast-medium,32,12,12,84,148,6,True,False
+6492,Aryan Juyal,Aryan Juyal,Prospect / Reserve,Lucknow Super Giants,RHB,Unknown,14,0,0,0,0,0,True,False
+6494,Manoj Bhandage,Manoj Bhandage,Batter,Royal Challengers Bengaluru,LHB,Unknown,31,4,1,0,0,0,True,False
+6497,Muhammad Usman,Muhammad Usman,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+6502,Mohammad Boota,Mohammad Boota,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+6503,Zahoor Khan,Zahoor Khan,Bowler,United Arab Emirates,RHB,Right-arm Fast,5,2,0,120,165,4,False,True
+6506,Mohammad Imran Randhawa,Mohammad Imran Randhawa,Bowler,Pakistan,RHB,Right-arm medium,3,12,6,72,63,6,False,True
+6512,Michael Bracewell,Michael Bracewell,All-Rounder,New Zealand,LHB,Right-arm offbreak,55,350,472,678,896,39,True,True
+6514,Anil Nidamanuru,Anil Nidamanuru,Batter,Netherlands,RHB,Unknown,8,43,45,0,0,0,False,True
+6515,Benjamin Lister,Benjamin Lister,Bowler,New Zealand,RHB,Left-arm medium,15,6,1,245,339,11,False,True
+6518,Daniel Sams,Daniel Sams,All-Rounder,Australia,RHB,Left-arm fast-medium,17,75,90,351,518,16,True,True
+6523,Blessing Muzarabani,Blessing Muzarabani,All-Rounder,Kolkata Knight Riders,RHB,Right-arm fast-medium,57,43,33,821,1029,46,True,True
+6526,Himmat Singh,Himmat Singh,Batter,Lucknow Super Giants,RHB,Unknown,28,69,92,0,0,0,True,False
+6565,Katene Clarke,Katene Clarke,Batter,New Zealand,RHB,Unknown,8,48,63,0,0,0,False,True
+6566,Matthew John Fisher,Matthew John Fisher,Bowler,New Zealand,RHB,Right-arm medium-fast,6,0,0,55,115,3,False,True
+6574,Alick Athanaze,Alick Athanaze,Batter,West Indies,LHB,Right-arm offbreak,20,264,334,6,16,0,False,True
+6591,KM Asif,KM Asif,Bowler,Chennai Super Kings,RHB,Right-arm medium,4,2,0,85,138,3,True,False
+6628,Gerald Coetzee,Gerald Coetzee,All-Rounder,Gujarat Titans,RHB,Right-arm Fast,57,103,130,594,950,35,True,True
+6643,Hasan Mahmud,Hasan Mahmud,All-Rounder,Bangladesh,RHB,Right-arm Fast,27,46,50,396,515,22,False,True
+6644,Mahidul Ankon,Mahidul Ankon,Batter,Bangladesh,RHB,Unknown,8,47,36,0,0,0,False,True
+6645,Mohammad Sheikh,Mohammad Sheikh,Batter,Bangladesh,LHB,Unknown,13,76,59,0,0,0,False,True
+6651,Towhid Hridoy,Towhid Hridoy,Batter,Bangladesh,RHB,Right-arm offbreak,64,998,1256,2,5,0,False,True
+6654,Tanay Thyagarajan,Tanay Thyagarajan,Prospect / Reserve,Punjab Kings,RHB,Unknown,14,0,0,0,0,0,True,False
+6664,Dion Myers,Dion Myers,Batter,Zimbabwe,RHB,Right-arm medium,30,340,356,12,42,0,False,True
+6669,Mohsin Khan,Mohsin Khan,Bowler,Lucknow Super Giants,LHB,Left-arm medium-fast,42,28,25,654,917,38,True,False
+6671,Lalit Yadav,Lalit Yadav,All-Rounder,Delhi Capitals,RHB,Right-arm offbreak,32,217,237,204,324,6,True,False
+6674,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Batter,Afghanistan,RHB,Unknown,93,1123,1468,0,0,0,True,True
+6675,Bahir Mehboob,Bahir Mehboob,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+6676,Azmatullah Omarzai,Azmatullah Omarzai,All-Rounder,Afghanistan,RHB,Right-arm medium-fast,98,665,913,1067,1553,55,True,True
+6677,Mohammad Hasnain,Mohammad Hasnain,Bowler,Pakistan,RHB,Right-arm Fast,15,13,19,223,354,8,False,True
+6683,Mayank Markande,Mayank Markande,Bowler,Kolkata Knight Riders,RHB,Right-arm Leg-Break,57,13,21,433,691,21,True,False
+6697,Shams Mulani,Shams Mulani,Bowler,Mumbai Indians,LHB,Slow left-arm orthodox,14,1,1,30,57,0,True,False
+6705,Scott McKechnie,Scott McKechnie,Batter,Hong Kong,RHB,Unknown,5,26,31,0,0,0,False,True
+6712,Hamed Khan,Hamed Khan,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+6725,Sherfane Rutherford,Sherfane Rutherford,Batter,Gujarat Titans,LHB,Right-arm fast-medium,97,818,1223,18,43,1,True,True
+6726,Romario Shepherd,Romario Shepherd,All-Rounder,Lucknow Super Giants,RHB,Right-arm fast-medium,123,687,1059,1539,2685,85,True,True
+6727,Zak Crawley,Zak Crawley,Prospect / Reserve,England,RHB,Unknown,3,0,0,0,0,0,False,True
+6739,Amir Jangoo,Amir Jangoo,Batter,West Indies,LHB,Unknown,19,135,163,0,0,0,False,True
+6764,Bukkapatnam Siddharth,Bukkapatnam Siddharth,Bowler,Oman,RHB,Right-arm offbreak,3,0,0,6,13,0,False,True
+6772,Chetan Sakariya,Chetan Sakariya,Bowler,Delhi Capitals,LHB,Left-arm medium-fast,35,6,4,132,212,6,True,False
+6774,Samarth Vyas,Samarth Vyas,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,0,0,0,0,0,0,True,False
+6783,Azam Khan,Azam Khan,Batter,Pakistan,RHB,Unknown,12,58,82,0,0,0,False,True
+6784,Hassan Mohammad,Hassan Mohammad,Bowler,Hong Kong,RHB,Right-arm medium,3,1,1,24,30,3,False,True
+6795,Terrance Hinds,Terrance Hinds,Bowler,West Indies,RHB,Right-arm medium-fast,11,3,5,26,54,1,False,True
+6797,Dominic Drakes,Dominic Drakes,Bowler,Gujarat Titans,LHB,Left-arm medium-fast,7,12,10,126,176,4,True,True
+6806,Tushar Deshpande,Tushar Deshpande,Bowler,Chennai Super Kings,LHB,Right-arm medium,67,24,33,1039,1720,54,True,True
+6819,Yashasvi Jaiswal,Yashasvi Jaiswal,Batter,India,LHB,Right-arm Leg-Break,99,1872,2927,7,17,0,True,True
+6881,Scott Edwards,Scott Edwards,Batter,Netherlands,RHB,Unknown,13,176,231,0,0,0,False,True
+6900,Michael Jones,Michael Jones,Batter,Scotland,RHB,Unknown,7,19,25,0,0,0,False,True
+6919,Tyrone Kane,Tyrone Kane,Batter,Ireland,RHB,Unknown,2,11,9,0,0,0,False,True
+6922,Abdul Samad,Abdul Samad,Batter,Pakistan,RHB,Unknown,22,101,127,0,0,0,False,True
+6926,Matty Potts,Matty Potts,Bowler,England,RHB,Right-arm medium,6,0,0,24,48,2,False,True
+6931,Pathum Nissanka,Pathum Nissanka,Batter,Delhi Capitals,RHB,Unknown,79,1632,2209,0,0,0,True,True
+6932,Pramod Madushan,Pramod Madushan,Bowler,Sri Lanka,RHB,Right-arm medium-fast,17,14,9,145,210,13,False,True
+6984,Saqib Zulfiqar,Saqib Zulfiqar,Bowler,Netherlands,RHB,Right-arm Leg-Break,4,0,0,12,13,0,False,True
+6985,Bas de Leede,Bas de Leede,All-Rounder,Netherlands,RHB,Right-arm medium,6,163,186,72,109,4,False,True
+6995,Saad Zafar,Saad Zafar,All-Rounder,Canada,LHB,Slow left-arm orthodox,4,39,36,72,69,6,False,True
+7001,Dilon Heyliger,Dilon Heyliger,Bowler,Canada,RHB,Right-arm medium,4,20,41,54,113,3,False,True
+7002,Nicholas Kirton,Nicholas Kirton,Batter,Canada,LHB,Right-arm offbreak,4,109,130,6,18,0,False,True
+7003,Rayyan Pathan,Rayyan Pathan,Batter,Canada,RHB,Unknown,4,16,14,0,0,0,False,True
+7008,Gus Atkinson,Gus Atkinson,Bowler,England,RHB,Right-arm medium,11,23,10,65,122,6,True,True
+7044,Jamie Smith,Jamie Smith,Batter,England,RHB,Unknown,10,67,130,0,0,0,False,True
+7046,Tinashe Kamunhukamwe,Tinashe Kamunhukamwe,Batter,Zimbabwe,RHB,Unknown,5,74,90,0,0,0,False,True
+7049,Kamil Mishara,Kamil Mishara,Batter,Sri Lanka,LHB,Right-arm offbreak,29,407,516,6,10,0,False,True
+7052,Dunith Wellalage,Dunith Wellalage,All-Rounder,Sri Lanka,LHB,Slow left-arm orthodox,38,137,161,332,447,20,False,True
+7059,Nehal Wadhera,Nehal Wadhera,Batter,India A,LHB,Right-arm Leg-Break,68,682,913,28,29,1,True,True
+7060,Arjun Tendulkar,Arjun Tendulkar,Bowler,Lucknow Super Giants,LHB,Left-arm medium-fast,48,14,18,98,149,4,True,False
+7094,Curtis Campher,Curtis Campher,All-Rounder,Ireland,RHB,Right-arm medium,45,526,631,396,569,9,False,True
+7095,Gideon Peters,Gideon Peters,Prospect / Reserve,Delhi Capitals,RHB,Unknown,0,0,0,0,0,0,True,False
+7120,Rohit Paudel,Rohit Paudel,All-Rounder,Nepal,RHB,Right-arm offbreak,3,64,58,42,49,1,False,True
+7134,Luvnith Sisodia,Luvnith Sisodia,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,15,0,0,0,0,0,True,False
+7140,Senuran Muthusamy,Senuran Muthusamy,Bowler,South Africa,LHB,Slow left-arm orthodox,5,9,9,42,58,1,False,True
+7152,Hazratullah Zazai,Hazratullah Zazai,Batter,Afghanistan,LHB,Unknown,18,245,312,0,0,0,False,True
+7155,Sahan Arachchige,Sahan Arachchige,All-Rounder,Sri Lanka,LHB,Right-arm offbreak,12,189,236,78,82,3,False,True
+7194,Rahul Bhatia,Rahul Bhatia,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+7195,Fahad Nawaz,Fahad Nawaz,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+7197,Jhatavedh Subramanyan,Jhatavedh Subramanyan,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,17,0,0,0,0,0,True,False
+7200,Aftab Hussain,Aftab Hussain,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+7201,Haroon Arshad,Haroon Arshad,Bowler,Hong Kong,RHB,Right-arm medium,8,18,30,73,142,1,False,True
+7216,Prabhsimran Singh,Prabhsimran Singh,Batter,India,RHB,Unknown,68,1172,1878,0,0,0,True,True
+7227,Nijat Masood,Nijat Masood,Bowler,Afghanistan,RHB,Right-arm medium,3,5,4,67,94,4,False,True
+7240,FazalHaq Farooqi,FazalHaq Farooqi,All-Rounder,Afghanistan,RHB,Left-arm medium,82,45,16,1027,1405,46,True,True
+7241,Ziaur Rahman,Ziaur Rahman,Bowler,Afghanistan,RHB,Right-arm medium-fast,3,0,0,48,81,5,False,True
+7250,Mukesh Choudhary,Mukesh Choudhary,Bowler,Chennai Super Kings,LHB,Left-arm medium,55,8,8,483,771,25,True,False
+7260,Dhruv Jurel,Dhruv Jurel,Batter,India,RHB,Unknown,76,798,1207,0,0,0,True,True
+7269,Sushant Mishra,Sushant Mishra,Bowler,Gujarat Titans,LHB,Left-arm medium-fast,28,3,1,38,67,2,True,False
+7270,Anrich Nortje,Anrich Nortje,All-Rounder,Delhi Capitals,RHB,Right-arm Fast,81,67,58,841,1433,36,True,True
+7279,Atharva Ankolekar,Atharva Ankolekar,Prospect / Reserve,Mumbai Indians,RHB,Unknown,2,0,0,0,0,0,True,False
+7304,Sanvir Singh,Sanvir Singh,Batter,Sunrisers Hyderabad,RHB,Unknown,19,21,25,0,0,0,True,False
+7312,Nandre Burger,Nandre Burger,All-Rounder,Rajasthan Royals,LHB,Left-arm fast-medium,46,30,24,442,720,22,True,True
+7322,Yash Dayal,Yash Dayal,Bowler,Gujarat Titans,RHB,Left-arm medium-fast,49,9,4,872,1393,41,True,True
+7325,Harpreet Brar,Harpreet Brar,All-Rounder,Punjab Kings,LHB,Slow left-arm orthodox,64,136,165,667,917,32,True,False
+7327,Rasikh Salam,Rasikh Salam,All-Rounder,Delhi Capitals,RHB,Right-arm medium,52,39,44,542,865,38,True,True
+7338,Haider Ali,Haider Ali,Batter,Pakistan,RHB,Unknown,14,121,146,0,0,0,False,True
+7341,Jake McGurk,Jake McGurk,Batter,Australia,RHB,Unknown,40,279,500,0,0,0,True,True
+7344,Shoriful Islam,Shoriful Islam,All-Rounder,Bangladesh,LHB,Left-arm medium-fast,61,79,89,791,1093,41,False,True
+7354,Al Alis,Al Alis,Bowler,Bangladesh,RHB,Right-arm offbreak,3,0,0,24,29,2,False,True
+7355,Tayyab Tahir,Tayyab Tahir,Batter,Pakistan,RHB,Unknown,9,104,123,0,0,0,False,True
+7364,Haris Rauf,Haris Rauf,All-Rounder,Pakistan,RHB,Right-arm Fast,62,104,124,1027,1485,76,False,True
+7403,Lalit Rajbanshi,Lalit Rajbanshi,Bowler,Nepal,RHB,Slow left-arm orthodox,3,0,0,30,19,2,False,True
+7406,Rizwan CP,Rizwan CP,Batter,United Arab Emirates,RHB,Unknown,5,102,118,0,0,0,False,True
+7409,Sundeep Jora,Sundeep Jora,Batter,Nepal,RHB,Unknown,3,60,86,0,0,0,False,True
+7446,Abdul Samad,Abdul Samad,Batter,Lucknow Super Giants,RHB,Right-arm Leg-Break,56,424,635,9,20,0,True,False
+7456,James McCollum,James McCollum,Prospect / Reserve,Ireland,RHB,Unknown,0,0,0,0,0,0,False,True
+7472,Shahbaz Ahmed,Shahbaz Ahmed,All-Rounder,India,LHB,Slow left-arm orthodox,73,435,543,536,932,18,True,True
+7473,Akash Deep,Akash Deep,Bowler,Kolkata Knight Riders,RHB,Right-arm Fast,36,14,25,278,548,10,True,False
+7498,Abhijeet Tomar,Abhijeet Tomar,Batter,Kolkata Knight Riders,RHB,Unknown,1,8,4,0,0,0,True,False
+7503,Ravi Bishnoi,Ravi Bishnoi,All-Rounder,India,RHB,Right-arm Leg-Break,137,105,102,2330,3234,124,True,True
+7533,Simarjeet Singh,Simarjeet Singh,Bowler,Chennai Super Kings,RHB,Right-arm medium-fast,34,15,10,240,400,11,True,False
+7534,Sarthak Ranjan,Sarthak Ranjan,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,14,0,0,0,0,0,True,False
+7544,Venkatesh Iyer,Venkatesh Iyer,All-Rounder,India,LHB,Right-arm medium,75,943,1399,49,101,2,True,True
+7545,Kuldeep Sen,Kuldeep Sen,Bowler,Punjab Kings,RHB,Right-arm medium-fast,59,3,0,241,387,14,True,False
+7548,Shivalik Sharma,Shivalik Sharma,Prospect / Reserve,Mumbai Indians,RHB,Unknown,14,0,0,0,0,0,True,False
+7553,Ajay Mandal,Ajay Mandal,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,43,0,0,0,0,0,True,False
+7566,Ben Curran,Ben Curran,Batter,Zimbabwe,LHB,Unknown,9,40,38,0,0,0,False,True
+7574,Kumar Kartikeya,Kumar Kartikeya Singh,Bowler,Mumbai Indians,RHB,Slow left-arm orthodox,40,17,12,282,407,12,True,False
+7575,Arpit Guleria,Arpit Guleria,Prospect / Reserve,Lucknow Super Giants,RHB,Unknown,0,0,0,0,0,0,True,False
+7625,Suryansh Shedge,Suryansh Shedge,All-Rounder,India,RHB,Right-arm Fast,46,112,173,60,119,0,True,True
+7634,Aaron Jones,Aaron Jones,Bowler,United States Of America,RHB,Right-arm Leg-Break,4,40,52,18,20,2,False,True
+7689,Dilshan Madushanka,Dilshan Madushanka,Bowler,Mumbai Indians,RHB,Left-arm medium-fast,35,12,2,362,600,16,True,True
+7690,Saim Ayub,Saim Ayub,All-Rounder,Pakistan,LHB,Right-arm offbreak,67,880,1213,510,608,26,False,True
+7692,Qasim Akram,Qasim Akram,All-Rounder,Pakistan,RHB,Right-arm offbreak,7,105,118,42,45,2,False,True
+7696,Mohammad Wasim,Mohammad Wasim,All-Rounder,Pakistan,RHB,Right-arm medium,44,30,29,355,509,17,False,True
+7699,Abbas Afridi,Abbas Afridi,All-Rounder,Pakistan,RHB,Right-arm medium-fast,35,118,144,454,629,40,False,True
+7702,Chamindu Wickramasinghe,Chamindu Wickramasinghe,All-Rounder,Sri Lanka,LHB,Right-arm Fast,14,35,43,42,55,1,False,True
+7704,Pavan Rathnayake,Pavan Rathnayake,Batter,Sri Lanka,RHB,Right-arm offbreak,19,149,163,12,11,2,False,True
+7708,Kavindu Nadeeshan,Kavindu Nadeeshan,Prospect / Reserve,Sri Lanka A,RHB,Unknown,5,0,0,0,0,0,False,True
+7709,Ainsley Ndlovu,Ainsley Ndlovu,All-Rounder,Zimbabwe,RHB,Slow left-arm orthodox,5,32,28,66,95,2,False,True
+7710,Brandon Glover,Brandon Glover,Bowler,Netherlands,RHB,Right-arm Fast,4,1,4,12,24,0,False,True
+7741,Gareth Delany,Gareth Delany,All-Rounder,Ireland,RHB,Right-arm Leg-Break,46,296,382,552,702,30,False,True
+7744,Jordan Cox,Jordan Cox,Batter,England,RHB,Unknown,38,74,100,0,0,0,True,True
+7755,Harsh Thaker,Harsh Thaker,All-Rounder,Canada,RHB,Right-arm offbreak,4,57,43,48,72,2,False,True
+7756,Kaleem Sana,Kaleem Sana,Bowler,Canada,RHB,Left-arm medium-fast,4,4,9,67,68,4,False,True
+7761,Ravinderpal Singh,Ravinderpal Singh,Batter,Canada,RHB,Unknown,4,24,41,0,0,0,False,True
+7808,Marco Jansen,Marco Jansen,All-Rounder,Punjab Kings,RHB,Left-arm medium-fast,83,277,355,1319,2119,58,True,True
+7894,Tony Munyonga,Tony Munyonga,Batter,Zimbabwe,RHB,Unknown,16,141,160,0,0,0,False,True
+7896,Akash Singh,Akash Singh,Bowler,Chennai Super Kings,RHB,Left-arm medium-fast,51,0,0,223,367,13,True,False
+7897,Tilak Varma,Namboori Tilak Varma,All-Rounder,India,LHB,Right-arm offbreak,142,2515,3596,85,107,3,True,True
+7900,Tanzid Hasan,Tanzid Hasan,Batter,Bangladesh,LHB,Unknown,50,910,1178,0,0,0,False,True
+7901,Parvez Emon,Parvez Emon,Batter,Bangladesh,LHB,Unknown,49,585,795,0,0,0,False,True
+7903,Shamim Hossain,Shamim Hossain,All-Rounder,Bangladesh,LHB,Right-arm offbreak,49,439,558,103,143,3,False,True
+7904,Mohammad Chowdhury,Mohammad Chowdhury,Batter,Bangladesh A,LHB,Unknown,5,2,0,0,0,0,False,True
+7905,Tanzim Sakib,Tanzim Sakib,All-Rounder,Bangladesh,RHB,Right-arm fast-medium,46,163,183,680,995,36,False,True
+7906,Rakibul Hasan,Rakibul Hasan,Bowler,Bangladesh,LHB,Slow left-arm orthodox,11,25,24,180,197,9,False,True
+7908,Akbar Ali,Mohammad Akbar Ali,Batter,Bangladesh A,RHB,Unknown,8,99,135,0,0,0,False,True
+7909,Philippe Boissevain,Philippe Boissevain,Prospect / Reserve,Netherlands,RHB,Unknown,0,0,0,0,0,0,False,True
+7910,Antonius Staal,Antonius Staal,Prospect / Reserve,Netherlands,RHB,Unknown,0,0,0,0,0,0,False,True
+7911,Oliver Hairs,Oliver Hairs,Batter,Scotland,LHB,Unknown,7,50,46,0,0,0,False,True
+7912,Vikramjit Singh,Vikramjit Singh,All-Rounder,Netherlands,LHB,Right-arm medium-fast,12,137,189,45,61,4,False,True
+7914,Clayton Floyd,Clayton Floyd,Bowler,Netherlands,RHB,Slow left-arm orthodox,6,1,1,36,51,1,False,True
+7915,Monank Patel,Monank Patel,Batter,United States Of America,RHB,Unknown,4,37,42,0,0,0,False,True
+7916,Karima Gore,Karima Gore,Bowler,West Indies,RHB,Slow left-arm orthodox,3,0,0,18,23,0,False,True
+7920,Nathan Ellis,Nathan Ellis,All-Rounder,Australia,RHB,Right-arm medium,76,57,32,917,1259,58,True,True
+7924,Kushal Malla,Kushal Malla,Batter,Nepal,LHB,Unknown,3,51,49,0,0,0,False,True
+7925,Rohan Rangarajan,Rohan Rangarajan,Batter,Singapore,RHB,Unknown,1,11,8,0,0,0,False,True
+7926,Manpreet Singh,Manpreet Singh,Batter,Singapore,RHB,Unknown,1,15,12,0,0,0,False,True
+7927,Janak Prakash,Janak Prakash,All-Rounder,Singapore,RHB,Right-arm medium,3,81,74,54,83,5,False,True
+7928,Vinoth Baskaran,Vinoth Baskaran,Bowler,Singapore,LHB,Slow left-arm orthodox,3,9,5,65,91,6,False,True
+7929,Aryaman Sunil Uchil,Aryaman Sunil Uchil,Bowler,Singapore,RHB,Right-arm medium-fast,3,17,17,42,57,1,False,True
+7931,Aritra Dutta,Aritra Dutta,Batter,Singapore,RHB,Unknown,3,62,92,0,0,0,False,True
+7935,Mohammad Ghazanfar,Mohammad Ghazanfar,Bowler,Hong Kong,RHB,Right-arm Leg-Break,11,4,3,108,130,4,False,True
+7937,Wasim Ali,Wasim Ali,All-Rounder,Oman,LHB,Slow left-arm orthodox,8,151,149,84,101,4,False,True
+7938,Sandeep Goud,Sandeep Goud 1,Batter,Oman,RHB,Unknown,1,2,5,0,0,0,False,True
+7940,Aqib Ilyas,Aqib Ilyas,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+7942,Jay Odedara,Jay Odedara,Bowler,Oman,RHB,Right-arm offbreak,4,1,0,54,74,3,False,True
+7945,Nasrulla Rana,Nasrulla Rana,Bowler,Hong Kong,RHB,Right-arm medium-fast,9,12,11,72,128,2,False,True
+7966,Farmanullah Safi,Farmanullah Safi,All-Rounder,Afghanistan A,LHB,Right-arm medium-fast,3,36,30,36,40,1,False,True
+7967,Noor Ahmad,Noor Ahmad,All-Rounder,Afghanistan,RHB,Left-arm Chinaman,86,114,92,1467,1958,85,True,True
+7978,Johnathan Campbell,Johnathan Campbell,Batter,Zimbabwe,LHB,Unknown,12,101,123,0,0,0,False,True
+7981,Imran Mir,Imran Mir,Batter,Afghanistan A,RHB,Unknown,3,36,58,0,0,0,False,True
+8005,Zawar Farid,Zawar Farid,All-Rounder,United Arab Emirates,RHB,Right-arm medium,5,50,64,78,108,2,False,True
+8007,Waheed Ahmed,Waheed Ahmed,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+8009,Junaid Siddique,Junaid Siddique,All-Rounder,United Arab Emirates,RHB,Right-arm Fast,15,38,31,331,473,27,False,True
+8010,Darius D Silva,Darius D Silva,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+8014,Avi Dixit,Avi Dixit,Batter,Singapore,LHB,Unknown,3,32,29,0,0,0,False,True
+8015,Kaleemullah,Kaleemullah,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+8029,Sadiqullah Pacha,Sadiqullah Pacha,Prospect / Reserve,Afghanistan A,RHB,Unknown,8,0,0,0,0,0,False,True
+8032,Abdul Malik,Abdul Malik,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+8033,Abdul Rahmani,Abdul Rahmani,Bowler,Afghanistan A,RHB,Right-arm medium-fast,5,4,6,61,80,5,False,True
+8040,Ripal Patel,Ripal Patel,Batter,Delhi Capitals,RHB,Unknown,7,46,55,0,0,0,True,False
+8049,Naseem Shah,Naseem Shah,All-Rounder,Pakistan,RHB,Right-arm medium-fast,43,49,46,576,852,26,False,True
+8085,Suyash Prabhudessai,Suyash Prabhudessai,Batter,Royal Challengers Bengaluru,RHB,Unknown,25,106,126,0,0,0,True,False
+8093,Nikhil Chaudhary,Nikhil Chaudhary,Bowler,Australia,RHB,Right-arm Leg-Break,3,19,26,42,48,2,False,True
+8101,Ashutosh Sharma,Ashutosh Sharma,Batter,Delhi Capitals,RHB,Unknown,47,347,577,0,0,0,True,True
+8140,Abid Mangnoo,Abid Mangnoo,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,16,0,0,0,0,0,True,False
+8141,Auqib Nabi,Auqib Nabi,Bowler,Delhi Capitals,RHB,Right-arm medium,14,4,14,78,149,0,True,False
+8177,Akash Madhwal,Akash Madhwal,Bowler,Chennai Super Kings,RHB,Right-arm medium-fast,44,14,8,353,589,23,True,False
+8182,Donovan Ferreira,Donovan Ferreira,All-Rounder,Delhi Capitals,RHB,Right-arm offbreak,69,343,562,109,177,3,True,True
+8217,Ansh Tandon,Ansh Tandon,Batter,United Arab Emirates,LHB,Unknown,6,13,13,0,0,0,False,True
+8221,Nitish Reddy,Nitish Reddy,All-Rounder,India,RHB,Right-arm medium-fast,71,672,1011,567,975,27,True,True
+8238,Sameer Rizvi,Sameer Rizvi,Batter,Chennai Super Kings,RHB,Unknown,47,293,424,0,0,0,True,True
+8241,Lokesh Bam,Lokesh Bam,Batter,Nepal,RHB,Unknown,3,10,9,0,0,0,False,True
+8244,Pratish GC,Pratish GC,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+8249,Sher Malla,Sher Malla,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+8251,Kumar Kushagra,Kumar Kushagra,Batter,Delhi Capitals,RHB,Unknown,54,21,21,0,0,0,True,True
+8266,Sumit Kumar,Sumit Kumar 1,Bowler,Delhi Capitals,RHB,Right-arm medium-fast,14,24,18,20,38,0,True,False
+8295,Matthew Forde,Matthew Forde,All-Rounder,West Indies,RHB,Right-arm medium,41,114,168,409,641,20,False,True
+8298,Ramon Simmonds,Ramon Simmonds,Bowler,West Indies,LHB,Left-arm fast-medium,9,2,1,78,105,6,False,True
+8301,Asif Khan,Asif Khan,Batter,United Arab Emirates,RHB,Unknown,13,200,303,0,0,0,False,True
+8311,Dan Mousley,Dan Mousley,Bowler,England,LHB,Right-arm offbreak,8,6,8,54,82,2,False,True
+8326,Jayden Seales,Jayden Seales,Bowler,West Indies,LHB,Right-arm fast-medium,20,6,7,180,311,7,False,True
+8329,Scott Currie,Scott Currie,Prospect / Reserve,England,RHB,Unknown,3,0,0,0,0,0,False,True
+8380,Rishad Hossain,Mohammad Rishad Hossain,All-Rounder,Bangladesh,RHB,Right-arm Leg-Break,57,165,189,1018,1440,61,False,True
+8388,Ahan Wickramasinghe,Ahan Wickramasinghe,Batter,Sri Lanka A,RHB,Unknown,9,74,92,0,0,0,False,True
+8389,Jayden Lennox,Jayden Lennox,Bowler,New Zealand,RHB,Slow left-arm orthodox,8,0,0,18,28,1,False,True
+8405,Kanwarpal Tathgur,Kanwarpal Tathgur,Batter,Canada,RHB,Unknown,4,8,3,0,0,0,False,True
+8408,Shreyas Movva,Shreyas Movva,Batter,Canada,RHB,Unknown,4,82,98,0,0,0,False,True
+8424,Tanveer Sangha,Tanveer Sangha,Bowler,Australia,RHB,Right-arm Leg-Break,12,4,2,168,249,10,False,True
+8530,Kartik Tyagi,Kartik Tyagi,Bowler,Gujarat Titans,RHB,Right-arm medium-fast,33,16,18,421,714,20,True,False
+8580,Yudhvir Singh,Yudhvir Singh,Bowler,India A,RHB,Right-arm medium-fast,51,16,22,138,254,8,True,True
+8600,Tadiwanashe Marumani,Tadiwanashe Marumani,Batter,Zimbabwe,LHB,Unknown,44,433,474,0,0,0,False,True
+8611,Adithya Ashok,Adithya Ashok,Bowler,New Zealand,RHB,Right-arm Leg-Break,1,0,0,24,28,1,False,True
+8614,William ORourke,William ORourke,Bowler,Lucknow Super Giants,RHB,Right-arm Fast,11,0,0,183,274,11,True,True
+8623,Kristian Clarke,Kristian Clarke,Bowler,New Zealand,RHB,Right-arm medium,5,1,0,24,40,1,False,True
+8632,Aaqib Khan,Aaqib Khan,Bowler,India A,RHB,Right-arm medium,4,0,0,48,86,2,False,True
+8634,Ashwani Kumar,Ashwani Kumar,Bowler,Mumbai Indians,LHB,Left-arm medium,30,6,1,184,333,17,True,False
+8637,Vriitya Aravind,Vriitya Aravind,Batter,United Arab Emirates,RHB,Unknown,8,103,121,0,0,0,False,True
+8638,Basil Hameed,Basil Hameed,All-Rounder,United Arab Emirates,RHB,Right-arm offbreak,13,139,140,138,194,7,False,True
+8639,Kartik Meiyappan,Kartik Meiyappan,Bowler,United Arab Emirates,RHB,Right-arm Leg-Break,4,15,15,96,100,6,False,True
+8647,Sediqullah Atal,Sediqullah Atal,Batter,Afghanistan,LHB,Unknown,42,822,1056,0,0,0,True,True
+8652,Mohammad Ishaq,Mohammad Ishaq,Batter,Afghanistan,RHB,Unknown,29,133,163,0,0,0,False,True
+8653,Rahmanullah Zadran,Rahmanullah Zadran,Prospect / Reserve,Afghanistan A,RHB,Unknown,0,0,0,0,0,0,False,True
+8654,Cooper Connolly,Cooper Connolly,All-Rounder,Australia,LHB,Slow left-arm orthodox,33,363,568,114,178,3,True,True
+8661,Matheesha Pathirana,Matheesha Pathirana,All-Rounder,Chennai Super Kings,RHB,Right-arm Fast,89,32,19,1135,1667,82,True,True
+8662,Kevin Kasuza,Kevin Kasuza,Prospect / Reserve,Zimbabwe,RHB,Unknown,0,0,0,0,0,0,False,True
+8664,Victor Nyauchi,Victor Nyauchi,Bowler,Zimbabwe,RHB,Right-arm fast-medium,1,3,1,24,29,3,False,True
+8719,Aryan Lakra,Aryan Lakra,Bowler,United Arab Emirates,LHB,Slow left-arm orthodox,4,43,43,18,14,1,False,True
+8723,Mohammed Faraazuddin,Mohammed Faraazuddin,All-Rounder,United Arab Emirates,RHB,Right-arm offbreak,6,33,17,78,148,3,False,True
+8726,Alishan Sharafu,Alishan Sharafu,Batter,United Arab Emirates,RHB,Right-arm medium,15,264,325,1,3,0,False,True
+8727,Sanchit Sharma,Sanchit Sharma,Bowler,United Arab Emirates,RHB,Right-arm medium-fast,5,11,4,36,56,0,False,True
+8729,Haider Shah,Haider Shah,Batter,United Arab Emirates,RHB,Unknown,6,65,85,0,0,0,False,True
+8739,Muhammad Irfan,Muhammad Irfan,Batter,Pakistan,RHB,Unknown,29,190,248,0,0,0,False,True
+8741,Mohammad Haris,Mohammad Haris,Batter,Pakistan,RHB,Unknown,35,407,544,0,0,0,False,True
+8743,Muhammad Shehzad,Muhammad Shehzad,Bowler,Pakistan A,RHB,Right-arm medium-fast,5,0,0,12,4,1,False,True
+8746,Vaibhav Arora,Vaibhav Arora,Bowler,India A,RHB,Right-arm Fast,58,27,10,896,1451,48,True,True
+8763,Duan Jansen,Duan Jansen,Bowler,Mumbai Indians,RHB,Left-arm Fast,1,0,0,24,53,1,True,False
+8771,Rubin Hermann,Rubin Hermann,Batter,South Africa,LHB,Unknown,8,82,97,0,0,0,False,True
+8805,Ottneil Baartman,Ottneil Baartman,All-Rounder,South Africa,RHB,Right-arm medium-fast,26,35,14,323,497,23,False,True
+8852,Mihlal Mpongwana,Mihlal Mpongwana,Prospect / Reserve,South Africa,RHB,Unknown,4,0,0,0,0,0,False,True
+15269,Mohammed Aslam,Mohammed Aslam,All-Rounder,Kuwait,RHB,Slow left-arm orthodox,3,39,40,48,54,0,False,True
+15271,Usmangani Ibrahim Patel,Usmangani Ibrahim Patel,Batter,Kuwait,RHB,Unknown,3,38,40,0,0,0,False,True
+15274,Ravija Sandaruwan,Ravija Sandaruwan,Batter,Kuwait,RHB,Unknown,3,46,68,0,0,0,False,True
+15275,Mohammad Amin,Mohammad Amin,Prospect / Reserve,Kuwait,RHB,Unknown,0,0,0,0,0,0,False,True
+15278,Muhammad Kashif,Muhammad Kashif,Prospect / Reserve,Kuwait,RHB,Unknown,0,0,0,0,0,0,False,True
+15279,Shiraz Khan,Shiraz Khan,Bowler,Kuwait,RHB,Right-arm Leg-Break,3,14,8,66,71,4,False,True
+15280,Sayed Monib,Sayed Monib,Bowler,Kuwait,RHB,Right-arm medium,3,24,56,66,89,3,False,True
+15303,Bilal Tahir,Bilal Tahir,Batter,Kuwait,LHB,Unknown,3,22,30,0,0,0,False,True
+15551,Ackeem Auguste,Ackeem Auguste,Batter,West Indies,LHB,Unknown,14,125,165,0,0,0,False,True
+15629,Shayan Jahangir,Shayan Jahangir,Batter,United States Of America,RHB,Unknown,4,47,55,0,0,0,False,True
+16284,Habibur Rahman Sohan,Habibur Rahman Sohan,Batter,Bangladesh A,RHB,Unknown,5,126,229,0,0,0,False,True
+16498,Sultan Ahmad,Sultan Ahmad,Bowler,United Arab Emirates,LHB,Slow left-arm orthodox,2,4,1,45,36,1,False,True
+16536,Makoto Taniyama,Makoto Taniyama,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+16559,Alexander Patmore,Alexander Patmore,Batter,Japan,LHB,Unknown,1,3,2,0,0,0,False,True
+16565,Kohei Kubota,Kohei Kubota,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+16606,Tsuyoshi Takada,Tsuyoshi Takada,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+17315,Lovepreet bajwa,Lovepreet bajwa,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+17413,Neil Rock,Neil Rock,Batter,Ireland,LHB,Unknown,12,59,53,0,0,0,False,True
+17418,Matthew Foster,Matthew Foster,Prospect / Reserve,Ireland,RHB,Unknown,0,0,0,0,0,0,False,True
+17419,Tim Tector,Tim Tector,Batter,Ireland,RHB,Unknown,10,81,116,0,0,0,False,True
+17424,Graham Hume,Graham Hume,Bowler,Ireland,LHB,Right-arm fast-medium,18,29,38,188,302,11,False,True
+17430,Conor Olphert,Conor Olphert,Bowler,Ireland,RHB,Right-arm medium,2,0,0,30,65,0,False,True
+17432,Ross Adair,Ross Adair,Batter,Ireland,RHB,Unknown,25,287,406,0,0,0,False,True
+17898,Bilal Sami,Bilal Sami,Bowler,Afghanistan,RHB,Right-arm medium,8,3,0,141,201,12,False,True
+17909,Riaz Hassan,Riaz Hassan,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+17910,Mohammad Akram,Mohammad Akram,Batter,Afghanistan,RHB,Unknown,3,9,18,0,0,0,False,True
+17911,Nangeyalia Kharote,Nangeyalia Kharote,All-Rounder,Afghanistan,LHB,Slow left-arm orthodox,20,37,19,138,152,5,False,True
+17918,Abdullah Tarakhail,Abdullah Tarakhail,Bowler,Afghanistan,RHB,Right-arm medium,3,0,0,18,14,2,False,True
+17919,Saleem Safi,Mohammad Saleem Safi,Bowler,Afghanistan,RHB,Right-arm Fast,6,0,0,19,42,0,False,True
+17937,Zubaid Akbari,Zubaid Akbari,Batter,Afghanistan,LHB,Slow left-arm orthodox,11,122,150,24,26,0,False,True
+18206,Tom Hartley,Tom Hartley,Prospect / Reserve,England,RHB,Unknown,7,0,0,0,0,0,False,True
+18592,Ijaz Ahmad Mehri,Ijaz Ahmad Mehri,Prospect / Reserve,Afghanistan A,RHB,Unknown,0,0,0,0,0,0,False,True
+18824,Faran Afzal,Faran Afzal,Prospect / Reserve,England,RHB,Unknown,0,0,0,0,0,0,False,True
+19012,Zeeshan Ali,Zeeshan Ali,Batter,Hong Kong,RHB,Unknown,14,158,164,0,0,0,False,True
+19016,Aliyaan Zahir Mohammad,Aliyaan Zahir Mohammad,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+19020,Ateeq Iqbal,Ateeq Iqbal,Bowler,Hong Kong,RHB,Right-arm medium,10,5,3,159,202,7,False,True
+19043,Dhananjay Rao,Dhananjay Rao,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+19050,Adit Gorawara,Adit Gorawara,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+19098,Pyla Avinash,Pyla Avinash,Prospect / Reserve,Punjab Kings,RHB,Unknown,32,0,0,0,0,0,True,False
+19124,Anas Khan,Anas Khan,Bowler,Hong Kong,RHB,Slow left-arm orthodox,6,0,0,23,12,6,False,True
+19125,Ayush Shukla,Ayush Shukla,Bowler,Hong Kong,RHB,Right-arm medium,10,7,2,180,293,10,False,True
+19132,Khurram Shehzad,Khurram Shehzad,Prospect / Reserve,Pakistan A,RHB,Unknown,4,0,0,0,0,0,False,True
+19145,Aamer Jamal,Aamer Jamal,Bowler,Pakistan,RHB,Right-arm medium,4,22,33,72,140,2,False,True
+19147,Faraz Akram,Faraz Akram,All-Rounder,Zimbabwe,LHB,Right-arm medium,14,55,82,99,170,1,False,True
+19307,Tharindu Rathnayake,Tharindu Rathnayake,Bowler,Sri Lanka,LHB,Slow left-arm orthodox,3,15,7,24,53,2,False,True
+19309,Lahiru Udara,Lahiru Udara,Batter,Sri Lanka,RHB,Unknown,11,162,236,0,0,0,False,True
+19312,Nuwan Thushara,Nuwan Thushara,Bowler,Mumbai Indians,RHB,Right-arm medium-fast,87,20,4,780,1147,36,True,True
+19315,Vijayakanth Viyaskanth,Vijayakanth Viyaskanth,Bowler,Sri Lanka,RHB,Right-arm Leg-Break,25,11,9,156,176,7,True,True
+19316,Maheesh Theekshana,Maheesh Theekshana,All-Rounder,Chennai Super Kings,RHB,Right-arm offbreak,120,203,128,2265,2932,93,True,True
+19530,Shahnawaz Dhani,Shahnawaz Dhani,Bowler,Pakistan,RHB,Right-arm medium,13,7,16,236,325,12,False,True
+19535,Rejaur Rahman,Rejaur Rahman Raja,Bowler,Bangladesh,RHB,Right-arm medium,3,6,5,48,70,3,False,True
+19714,Abishek Porel,Abishek Porel,Batter,Delhi Capitals,LHB,Unknown,51,529,769,0,0,0,True,True
+19754,Raja Khan,Raja Khan,Bowler,United Arab Emirates,LHB,Right-arm medium-fast,4,2,0,48,82,1,False,True
+19781,Mitchell Owen,Mitchell Owen,All-Rounder,Australia,RHB,Right-arm medium,40,123,179,30,59,2,True,True
+19892,Theo van Woerkom,Theo van Woerkom,Bowler,Ireland,RHB,Slow left-arm orthodox,1,0,0,6,10,0,False,True
+19894,Mitchell Hay,Mitchell Hay,Batter,New Zealand,RHB,Unknown,15,68,87,0,0,0,False,True
+19902,Tim Pringle,Tim Pringle,All-Rounder,Netherlands,RHB,Slow left-arm orthodox,9,37,60,132,152,8,False,True
+19969,Mubasir Khan,Mubasir Khan,Bowler,Pakistan A,RHB,Right-arm offbreak,5,0,0,18,42,0,False,True
+19998,Rajvardhan Hangargekar,Rajvardhan Hangargekar,Bowler,Chennai Super Kings,RHB,Right-arm medium,30,0,0,36,60,3,True,False
+20005,Arshad Khan,Arshad Khan,All-Rounder,Gujarat Titans,LHB,Left-arm medium,52,99,147,377,692,18,True,False
+20006,Ramandeep Singh,Ramandeep Singh,All-Rounder,India,RHB,Right-arm medium,64,288,442,148,233,13,True,True
+20023,Karan Sharma,Karan Sharma,Batter,Lucknow Super Giants,RHB,Unknown,3,25,16,0,0,0,True,False
+20029,Rahul Buddhi,Rahul Buddhi,Prospect / Reserve,Mumbai Indians,RHB,Unknown,0,0,0,0,0,0,True,False
+20077,Yuvraj Chaudhary,Yuvraj Chaudhary,Prospect / Reserve,Lucknow Super Giants,RHB,Unknown,14,0,0,0,0,0,True,False
+20114,Ansh Patel,Ansh Patel,Prospect / Reserve,Punjab Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+20163,Aasif Sheikh,Aasif Sheikh,Batter,Nepal,RHB,Unknown,3,51,71,0,0,0,False,True
+20172,Rashid Khan,Rashid Khan,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+20175,Nandan Yadav,Nandan Yadav,Bowler,Nepal,RHB,Right-arm medium,3,2,7,6,6,1,False,True
+20187,Narayan Joshi,Narayan Joshi,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+20192,Hemanta Dhami,Hemanta Dhami,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+20229,Mohammad Ali,Mohammad Ali,Bowler,Pakistan,RHB,Right-arm medium-fast,9,1,1,43,85,1,False,True
+20310,Ahmed Daniyal,Ahmed Daniyal,Bowler,Pakistan,RHB,Right-arm medium-fast,15,22,41,174,155,12,False,True
+20316,Shahab Alam,Shahab Alam,Bowler,Nepal,RHB,Slow left-arm orthodox,3,1,0,12,24,0,False,True
+20327,Usman Khan,Usman Khan,Batter,Pakistan,RHB,Unknown,36,321,394,0,0,0,False,True
+20693,Kuldip Yadav,Kuldip Yadav,Bowler,Chennai Super Kings,RHB,Left-arm medium-fast,5,0,0,42,68,2,True,False
+20694,Bhagath Varma,Bhagath Varma,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,0,0,0,0,0,0,True,False
+20702,Tristan Stubbs,Tristan Stubbs,All-Rounder,Delhi Capitals,RHB,Right-arm offbreak,82,1082,1622,48,110,4,True,True
+20704,Salman Mirza,Salman Mirza,Bowler,Pakistan,RHB,Left-arm medium,32,5,7,328,378,21,False,True
+20802,Abdul Basith,Abdul Basith,Batter,Rajasthan Royals,RHB,Unknown,1,1,1,0,0,0,True,False
+20894,Aman Khan,Aman Khan,Batter,Chennai Super Kings,RHB,Right-arm medium,26,104,115,6,13,0,True,False
+20989,Vivrant Sharma,Vivrant Sharma,Bowler,Sunrisers Hyderabad,LHB,Right-arm Leg-Break,3,47,69,19,36,0,True,False
+21182,Utkarsh Srivastava,Utkarsh Srivastava,Prospect / Reserve,United States Of America,RHB,Unknown,4,0,0,0,0,0,False,True
+21192,Ahan Trivedi,Ahan Trivedi,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+21194,Bilal Akhtar,Bilal Akhtar,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+21196,Mohammad Waheed,Mohammad Waheed,Bowler,Hong Kong,RHB,Right-arm medium,6,1,1,24,31,2,False,True
+21197,Wajid Shah,Wajid Shah,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+21283,Vikas Sharma,Vikas Sharma,Prospect / Reserve,Hong Kong,RHB,Unknown,0,0,0,0,0,0,False,True
+21388,Martin Coetzee,Martin Coetzee,Batter,Hong Kong,RHB,Unknown,6,22,37,0,0,0,False,True
+21777,Tafadzwa Tsiga,Tafadzwa Tsiga,Batter,Zimbabwe,RHB,Unknown,6,24,31,0,0,0,False,True
+21780,Ernest Masuku,Ernest Masuku,Bowler,Zimbabwe,RHB,Right-arm medium,3,6,6,60,104,5,False,True
+21781,Clive Madande,Clive Madande,Batter,Zimbabwe,RHB,Unknown,39,298,304,0,0,0,False,True
+21784,Brad Evans,Brad Evans,All-Rounder,Zimbabwe,RHB,Right-arm Fast,22,121,145,439,660,31,False,True
+21786,Tanaka Chivanga,Tanaka Chivanga,Bowler,Zimbabwe,RHB,Right-arm Fast,5,0,0,27,51,0,False,True
+21787,Takudzwanashe Kaitano,Takudzwanashe Kaitano,Prospect / Reserve,Zimbabwe,RHB,Unknown,3,0,0,0,0,0,False,True
+21790,Tashinga Musekiwa,Tashinga Musekiwa,Batter,Zimbabwe,RHB,Unknown,22,208,245,0,0,0,False,True
+21791,Joylord Gumbie,J Gumbie,Batter,Zimbabwe,RHB,Unknown,6,52,43,0,0,0,False,True
+21978,Amir Naqvi,Amir Naqvi,Prospect / Reserve,Zimbabwe,RHB,Unknown,5,0,0,0,0,0,False,True
+22134,Luke Jongwe,Luke Jongwe,All-Rounder,Zimbabwe,RHB,Right-arm medium,23,124,156,335,505,19,False,True
+22137,Fionn Hand,Fionn Hand,All-Rounder,Ireland,RHB,Right-arm medium,14,37,51,136,216,6,False,True
+22187,Ryan Klein,Ryan Klein,Batter,Netherlands,RHB,Right-arm medium-fast,6,65,80,24,45,1,False,True
+22188,Aryan Dutt,Aryan Dutt,All-Rounder,Netherlands,RHB,Right-arm offbreak,11,44,52,141,142,5,False,True
+22189,Musa Ahmad,Musa Ahmad,Prospect / Reserve,Netherlands,RHB,Unknown,4,0,0,0,0,0,False,True
+22471,Matthew Humphreys,Matthew Humphreys,Bowler,Ireland,RHB,Slow left-arm orthodox,18,11,10,305,363,20,False,True
+22515,Shiran Fernando,Shiran Fernando,Prospect / Reserve,Sri Lanka,RHB,Unknown,0,0,0,0,0,0,False,True
+22565,Muhammad Waseem,Muhammad Waseem,Batter,United Arab Emirates,RHB,Right-arm medium-fast,20,459,669,18,44,0,False,True
+22870,Abdul Gaffar,Abdul Gaffar,Prospect / Reserve,Bangladesh A,RHB,Unknown,0,0,0,0,0,0,False,True
+22920,Jacob Duffy,Jacob Duffy,All-Rounder,New Zealand,RHB,Right-arm fast-medium,56,31,34,877,1286,62,True,True
+23195,Gavin Hoey,Gavin Hoey,Prospect / Reserve,Ireland,RHB,Unknown,5,0,0,0,0,0,False,True
+23311,Jacob Bethell,Jacob Bethell,All-Rounder,England,LHB,Slow left-arm orthodox,59,453,669,87,122,8,True,True
+23408,Amit Kumar,Amit Kumar,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,15,0,0,0,0,0,True,False
+23450,Sai Sudharsan,Sai Sudharsan,Batter,Gujarat Titans,LHB,Unknown,64,1686,2515,0,0,0,True,True
+23467,Gurjapneet Singh,Gurjapneet Singh,Bowler,Chennai Super Kings,RHB,Left-arm medium-fast,26,1,1,241,355,11,True,True
+24017,Brian Bennett,Brian Bennett,All-Rounder,Zimbabwe,RHB,Right-arm offbreak,44,793,1019,132,187,7,False,True
+24217,Sebastiaan Braat,Sebastiaan Braat,Prospect / Reserve,Netherlands,RHB,Unknown,3,0,0,0,0,0,False,True
+24239,Rafiullah,Rafiullah,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+24243,Ubaid Ullah,Ubaid Ullah,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+24245,Shoaib Khan,Shoaib Khan,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+24346,Mohamed Shafeeq,Mohamed Shafeeq,Bowler,Kuwait,RHB,Right-arm medium,3,6,10,63,82,2,False,True
+24366,Kashyap Prajapati,Kashyap Prajapati,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+24370,Pruthvikumar Damubhai,Pruthvikumar Damubhai,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+24372,Muzahir Raza,Muzahir Raza,Bowler,Oman,RHB,Right-arm medium,6,27,46,90,132,5,False,True
+24381,Shariz Ahmad,Shariz Ahmad,All-Rounder,Netherlands,LHB,Right-arm Leg-Break,9,34,32,36,55,2,False,True
+24473,Sonny Baker,Sonny Baker,Bowler,England,RHB,Right-arm Fast,14,0,0,95,96,6,False,True
+24475,Rehan Ahmed,Rehan Ahmed,All-Rounder,Delhi Capitals,RHB,Right-arm Leg-Break,44,45,55,210,333,13,True,True
+24479,James Coles,James Coles,Prospect / Reserve,England,RHB,Unknown,8,0,0,0,0,0,False,True
+24489,Abhishek Paradkar,Abhishek Paradkar,Prospect / Reserve,United States Of America,RHB,Unknown,4,0,0,0,0,0,False,True
+24754,Atif Mehmood,Atif Mehmood,Prospect / Reserve,England,RHB,Unknown,0,0,0,0,0,0,False,True
+24767,Ripon Mondol,Ripon Mondol,Bowler,Bangladesh,RHB,Right-arm Fast,14,10,11,235,292,21,False,True
+24772,Suliman Safi,Suliman Safi,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+24773,Bilal Ahmad Tarin,Bilal Ahmad Tarin,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+24775,M.Naveed Zadran,M.Naveed Zadran,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+24779,Ijaz Ahmadzai,Ijaz Ahmadzai,Batter,Afghanistan,RHB,Right-arm medium,15,107,151,6,16,0,False,True
+24780,Yama Arab,Yama Arab,Prospect / Reserve,Afghanistan A,RHB,Unknown,3,0,0,0,0,0,False,True
+24803,Gulshan Jha,Gulshan Jha,Batter,Nepal,LHB,Unknown,3,34,38,0,0,0,False,True
+24812,Chris Greaves,Chris Greaves,Bowler,Scotland,RHB,Right-arm Leg-Break,7,28,22,54,79,3,False,True
+24887,Innocent Kaia,Innocent Kaia,Batter,Zimbabwe,RHB,Right-arm medium,16,165,178,6,4,0,False,True
+24978,Jack Jarvis,Jack Jarvis,Bowler,Scotland,RHB,Right-arm medium,7,11,13,22,67,1,False,True
+24982,Charlie Tear,Charlie Tear,Batter,Scotland,RHB,Unknown,7,25,20,0,0,0,False,True
+25011,Liam Mccarthy,Liam Mccarthy,Bowler,Ireland,LHB,Right-arm medium-fast,4,24,25,66,132,1,False,True
+25017,Olivier Elenbaas,Olivier Elenbaas,Prospect / Reserve,Netherlands,RHB,Unknown,4,0,0,0,0,0,False,True
+25030,Zaman Khan,Zaman Khan,Bowler,Pakistan,RHB,Right-arm Fast,18,10,9,231,296,10,False,True
+25048,Umran Malik,Umran Malik,Bowler,India,RHB,Right-arm medium,61,18,28,564,917,38,True,True
+25063,Santosh Yadav,Santosh Yadav,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+25091,Ayan Khan,Ayan Khan,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+25128,Nqabayomzi Peter,Nqabayomzi Peter,Bowler,South Africa,RHB,Right-arm Leg-Break,17,20,22,162,255,7,False,True
+25132,Praful Hinge,Praful Hinge,Bowler,Sunrisers Hyderabad,RHB,Right-arm medium-fast,15,9,3,159,302,14,True,False
+25138,Harsh Dubey,Harsh Dubey,All-Rounder,India,LHB,Slow left-arm orthodox,26,69,88,264,401,17,True,True
+25139,Shubham Dubey,Shubham Dubey,Batter,Rajasthan Royals,LHB,Unknown,46,143,220,0,0,0,True,False
+25213,Dewald Brevis,Dewald Brevis,Batter,Chennai Super Kings,RHB,Right-arm Leg-Break,60,630,963,3,8,1,True,True
+25216,Andile Simelane,Andile Simelane,All-Rounder,South Africa,RHB,Right-arm Fast,17,35,34,108,195,5,False,True
+25231,Samay Shrivastava,Samay Shrivastava,Bowler,Oman,RHB,Right-arm Leg-Break,9,26,15,150,225,3,False,True
+25341,Mahfuzur Rabby,Mahfuzur Rabby,All-Rounder,Bangladesh A,LHB,Slow left-arm orthodox,5,30,18,66,55,2,False,True
+25353,Numan Shah,Numan Shah,Batter,Afghanistan A,RHB,Unknown,5,19,20,0,0,0,False,True
+25369,Hashim Khalil Gurbaz,Hashim Khalil Gurbaz,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+25501,Meet Bhavsar,Meet Bhavsar,Batter,Kuwait,LHB,Unknown,3,38,53,0,0,0,False,True
+25502,Adnan Idrees,Adnan Idrees,Bowler,Kuwait,RHB,Right-arm Leg-Break,2,6,4,12,16,1,False,True
+25503,Nawaf Ahmed,Nawaf Ahmed,Prospect / Reserve,Kuwait,RHB,Unknown,0,0,0,0,0,0,False,True
+25507,Edson Silva,Edson Silva,Bowler,Kuwait,RHB,Right-arm medium,3,47,87,18,38,0,False,True
+25534,Chad Bowes,Chad Bowes,Batter,New Zealand,RHB,Unknown,11,156,187,0,0,0,False,True
+25541,Michael Rippon,Michael Rippon,Prospect / Reserve,New Zealand,RHB,Unknown,0,0,0,0,0,0,False,True
+25554,Darren Walker,Darren Walker,Prospect / Reserve,England,RHB,Unknown,0,0,0,0,0,0,False,True
+25667,Anunay Singh,Anunay Singh,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,0,0,0,0,0,0,True,False
+25669,Priyansh Arya,Priyansh Arya,Batter,India A,LHB,Unknown,36,515,983,0,0,0,True,True
+25679,Salil Arora,Salil Arora,Batter,Sunrisers Hyderabad,RHB,Unknown,15,98,156,0,0,0,True,False
+25787,Khuzaima Tanvir,Khuzaima Tanvir,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+25809,Juanoy Drysdale,Juanoy Drysdale,Bowler,United States Of America,RHB,Right-arm medium,4,2,1,60,82,2,False,True
+26197,Avinash Singh,Avinash Singh,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,0,0,0,0,0,0,True,False
+26514,Nimesh Vimukthi,Nimesh Vimukthi,Bowler,Sri Lanka A,LHB,Slow left-arm orthodox,5,19,23,96,142,1,False,True
+26519,Janith Liyanage,Janith Liyanage,Batter,Sri Lanka,RHB,Right-arm fast-medium,15,136,156,8,18,0,False,True
+26530,Treveen Mathew,Treveen Mathew,Bowler,Sri Lanka,RHB,Right-arm offbreak,6,12,4,72,69,7,False,True
+26646,Rahul Chopra,Rahul Chopra,Batter,United Arab Emirates,RHB,Unknown,15,224,236,0,0,0,False,True
+26663,Kwena Maphaka,Kwena Maphaka,Bowler,Mumbai Indians,LHB,Left-arm Fast,58,25,27,308,543,15,True,True
+26728,Jordan Hermann,Jordan Hermann,Prospect / Reserve,South Africa,RHB,Unknown,5,0,0,0,0,0,False,True
+26795,Joel Davies,Joel Davies,Bowler,Australia,LHB,Slow left-arm orthodox,3,14,20,48,58,4,False,True
+26830,Nishant Sindhu,Nishant Kumar Sindhu,All-Rounder,Chennai Super Kings,LHB,Slow left-arm orthodox,50,66,92,36,44,3,True,True
+26832,Aneeshwar Gautam,Aneeshwar Gautam Narendra,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,0,0,0,0,0,0,True,False
+26834,Raj Bawa,Raj Bawa,Bowler,Mumbai Indians,LHB,Right-arm medium-fast,30,32,35,24,50,2,True,False
+26836,Vicky Ostwal,Vicky Ostwal,Prospect / Reserve,Delhi Capitals,RHB,Unknown,30,0,0,0,0,0,True,False
+26839,Haseebullah Khan,Haseebullah Khan,Batter,Pakistan,LHB,Unknown,15,30,36,0,0,0,False,True
+26843,Maaz Sadaqat,Maaz Sadaqat,All-Rounder,Pakistan,LHB,Slow left-arm orthodox,8,229,405,72,52,7,False,True
+26845,Mehran Mumtaz,Mehran Mumtaz,Prospect / Reserve,Pakistan A,RHB,Unknown,4,0,0,0,0,0,False,True
+26848,Ghazi Ghouri,Ghazi Ghouri,Batter,Pakistan A,RHB,Unknown,5,57,64,0,0,0,False,True
+26854,Meherob Hasan,SM Meherob Hasan,All-Rounder,Bangladesh A,LHB,Right-arm offbreak,5,53,83,120,138,5,False,True
+26858,Ariful Islam,Ariful Islam,Prospect / Reserve,Bangladesh A,RHB,Unknown,5,0,0,0,0,0,False,True
+26861,Reuben Wilson,Reuben Wilson,Prospect / Reserve,Ireland,RHB,Unknown,2,0,0,0,0,0,False,True
+26906,Angkrish Raghuvanshi,Angkrish Raghuvanshi,Batter,Kolkata Knight Riders,RHB,Unknown,43,608,885,0,0,0,True,False
+26909,Yash Dhull,Yash Dhull,Batter,Delhi Capitals,RHB,Unknown,18,23,16,0,0,0,True,False
+26911,Harnoor Pannu,Harnoor Pannu,Prospect / Reserve,Punjab Kings,RHB,Unknown,32,0,0,0,0,0,True,False
+26913,Shaik Rasheed,Shaik Rasheed,Batter,Chennai Super Kings,RHB,Unknown,32,63,71,0,0,0,True,True
+26916,Yasir Mohammad,Yasir Mohammad,Bowler,United States Of America,LHB,Right-arm Leg-Break,4,9,6,48,74,1,False,True
+26922,Ashish Odedra,Ashish Odedra,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+26988,Jitenkumar Ramanandi,Jitenkumar Ramanandi,Bowler,Oman,LHB,Left-arm medium-fast,3,14,25,48,57,4,False,True
+27004,Hassnain Shah,Hassnain Shah,Bowler,Oman,RHB,Right-arm medium,6,5,1,42,65,1,False,True
+27057,Pratik Athavale,Pratik Athavale,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+27059,Karan Sonavale,Karan Sonavale,Batter,Oman,RHB,Right-arm offbreak,9,62,73,6,9,1,False,True
+27071,Vinayak Shukla,Vinayak Shukla,Batter,Oman,RHB,Unknown,3,23,23,0,0,0,False,True
+27137,Hammad Mirza,Hammad Mirza,Batter,Oman,RHB,Unknown,9,160,220,0,0,0,False,True
+27146,Imran Muhammad,Imran Muhammad,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+27259,Jishan Alam,Jishan Alam,Batter,Bangladesh A,RHB,Right-arm offbreak,8,83,94,18,28,1,False,True
+27364,Simranjeet Kang,Simranjeet Kang,Bowler,United Arab Emirates,LHB,Slow left-arm orthodox,9,9,2,51,56,4,False,True
+27373,Muhammad Farooq,Muhammad Farooq,All-Rounder,United Arab Emirates,RHB,Right-arm Leg-Break,15,30,10,96,125,8,False,True
+27380,Harshit Kaushik,Harshit Kaushik,All-Rounder,Kolkata Knight Riders,LHB,Slow left-arm orthodox,12,58,53,66,124,0,True,True
+27390,Matiullah Khan,Matiullah Khan,Bowler,United Arab Emirates,RHB,Right-arm medium-fast,6,5,1,60,117,3,False,True
+27391,Vishnu Sukumaran,Vishnu Sukumaran,Bowler,United Arab Emirates,LHB,Right-arm offbreak,3,18,15,12,10,1,False,True
+27460,Ali Naseer,Ali Naseer,Bowler,United Arab Emirates,LHB,Right-arm medium,2,14,16,36,65,1,False,True
+27462,Adhitya Shetty,Adhitya Shetty,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+27464,Aayan Afzal Khan,Aayan Afzal Khan,All-Rounder,United Arab Emirates,RHB,Slow left-arm orthodox,8,68,81,144,177,8,False,True
+27465,Nilansh Keswani,Nilansh Keswani,Bowler,United Arab Emirates,LHB,Slow left-arm orthodox,3,26,24,24,31,1,False,True
+27466,Dhruv Parashar,Dhruv Parashar,All-Rounder,United Arab Emirates,RHB,Right-arm offbreak,14,98,78,210,296,4,False,True
+27469,Aryansh Sharma,Aryansh Sharma,Batter,United Arab Emirates,RHB,Unknown,18,147,169,0,0,0,False,True
+27471,Jash Giyanani,Jash Giyanani,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+27504,Dushan Hemantha,Dushan Hemantha,Bowler,Sri Lanka,RHB,Right-arm Leg-Break,13,28,33,188,219,19,False,True
+27516,Ihsanullah Ihsanullah,Ihsanullah Ihsanullah,Bowler,Pakistan,RHB,Right-arm Fast,4,8,6,91,106,6,False,True
+27517,Yasir Khan,Yasir Khan,Batter,Pakistan A,RHB,Unknown,9,94,106,0,0,0,False,True
+27743,DT Doram,DT Doram,Bowler,Netherlands,LHB,Slow left-arm orthodox,11,6,4,192,238,9,False,True
+27956,Prashant Solanki,Prashant Solanki,Bowler,Chennai Super Kings,RHB,Right-arm Leg-Break,30,0,0,36,38,2,True,False
+27959,Hrithik Shokeen,Hrithik Shokeen,All-Rounder,India A,RHB,Right-arm offbreak,17,65,66,204,314,5,True,True
+27960,Mayank Yadav,Mayank Yadav,Bowler,India,RHB,Right-arm Fast,51,12,9,494,771,26,True,True
+27962,Saurav Chauhan,Saurav Chauhan,Batter,Royal Challengers Bengaluru,LHB,Unknown,15,15,18,0,0,0,True,False
+27964,Anshul Kamboj,Anshul Kamboj,All-Rounder,Chennai Super Kings,RHB,Right-arm medium-fast,46,56,76,545,906,35,True,True
+27970,Gurnoor Brar,Gurnoor Brar,Bowler,Gujarat Titans,RHB,Right-arm medium,39,0,0,18,42,0,True,True
+27987,Rishiv Joshi,Rishiv Joshi,Prospect / Reserve,Canada,RHB,Unknown,4,0,0,0,0,0,False,True
+28018,Ashok Sharma,Ashok Sharma,Bowler,Gujarat Titans,RHB,Right-arm medium,34,4,1,175,276,7,True,True
+28019,Ramesh Kumar,Ramesh Kumar,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,0,0,0,0,0,0,True,False
+28020,Shubham Garhwal,Shubham Garhwal,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,0,0,0,0,0,0,True,False
+28021,Saurabh Dubey,Saurabh Dubey,Bowler,Kolkata Knight Riders,RHB,Left-arm medium-fast,14,2,4,77,106,5,True,False
+28185,Kamil Pooran,Kamil Pooran,Batter,West Indies,RHB,Unknown,5,40,58,0,0,0,False,True
+28655,Muhammad Rohid,Muhammad Rohid,Bowler,United Arab Emirates,RHB,Left-arm Fast,12,5,4,178,256,8,False,True
+28664,Zahid Ali,Zahid Ali,Bowler,United Arab Emirates,RHB,Right-arm medium,3,0,0,12,26,0,False,True
+28756,Haider Ali,Haider Ali,All-Rounder,United Arab Emirates,LHB,Slow left-arm orthodox,12,39,41,270,289,15,False,True
+28788,Tanish Suri,Tanish Suri,Batter,United Arab Emirates,RHB,Unknown,3,41,48,0,0,0,False,True
+28908,Vincent Masekesa,Vincent Masekesa,Bowler,Zimbabwe,RHB,Right-arm Leg-Break,3,4,0,19,27,1,False,True
+28911,John Masara,John Masara,Bowler,Zimbabwe,RHB,Right-arm Leg-Break,1,0,0,6,5,0,False,True
+28915,Trevor Gwandu,Trevor Gwandu,Bowler,Zimbabwe,RHB,Right-arm medium,14,26,14,151,218,9,False,True
+28967,Tim Robinson,Tim Robinson,Batter,New Zealand,RHB,Unknown,38,420,580,0,0,0,False,True
+28970,Connor Esterhuizen,Connor Esterhuizen,Batter,Gujarat Titans,RHB,Unknown,18,137,200,0,0,0,True,True
+28978,Muhammad Farooq,Muhammad Farooq,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+29066,Zakary Foulkes,Zakary Foulkes,All-Rounder,Chennai Super Kings,RHB,Right-arm medium,47,66,99,365,571,20,True,True
+29075,Aadil Ansari,Aadil Ansari,Bowler,Nepal,RHB,Right-arm medium,3,10,14,36,48,4,False,True
+29080,Muhammad Khan,Muhammad Khan,Bowler,United Arab Emirates,RHB,Right-arm Fast,10,12,19,97,167,9,False,True
+29558,Muhammad Arfan,Muhammad Arfan,All-Rounder,United Arab Emirates,LHB,Right-arm medium,5,69,77,102,132,5,False,True
+29699,Ibrahim Takahashi,Ibrahim Takahashi,Bowler,Japan,RHB,Right-arm offbreak,1,3,4,12,13,1,False,True
+29706,Wataru Miyauchi,Wataru Miyauchi,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+29709,Reo Sakurano,Reo Sakurano,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+29833,Bashir Ahmad,Bashir Ahmad,Bowler,Afghanistan,LHB,Left-arm Fast,11,5,2,18,38,0,False,True
+29834,Basir Ahamad,Basir Ahamad,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+29862,Ali Hassan,Ali Hassan,Prospect / Reserve,Hong Kong,RHB,Unknown,6,0,0,0,0,0,False,True
+29888,Harshit Rana,Harshit Rana,All-Rounder,India,RHB,Right-arm medium-fast,79,147,160,902,1436,56,True,True
+30925,Bradley Currie,Bradley Currie,Bowler,Scotland,RHB,Left-arm fast-medium,7,9,7,108,125,8,False,True
+30927,Saiteja Mukkamalla,Saiteja Mukkamalla,Batter,United States Of America,RHB,Unknown,4,43,76,0,0,0,False,True
+31107,Yasin Patel,Yasin Patel,Bowler,Kuwait,LHB,Slow left-arm orthodox,3,7,9,72,77,4,False,True
+31156,Shahrukh Quddus,Shahrukh Quddus,Prospect / Reserve,Kuwait,RHB,Unknown,0,0,0,0,0,0,False,True
+31205,Ruchit Ahir,Ruchit Ahir,Prospect / Reserve,Mumbai Indians,RHB,Unknown,1,0,0,0,0,0,True,False
+31227,Vidhwath Kaverappa,Vidhwath Kaverappa,Bowler,Punjab Kings,RHB,Right-arm medium-fast,14,0,0,24,36,2,True,False
+31513,Ethan Dsouza,Ethan Dsouza,Bowler,United Arab Emirates,LHB,Right-arm offbreak,13,38,31,24,36,1,False,True
+31518,Akshat Raghuwanshi,Akshat Raghuwanshi,Batter,Lucknow Super Giants,RHB,Unknown,14,25,29,0,0,0,True,False
+31529,Robin Minz,Robin Minz,Batter,Gujarat Titans,LHB,Unknown,30,19,12,0,0,0,True,False
+31834,Neil Anant Karnik,Neil Anant Karnik,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+31835,Akshay Roopak Puri,Akshay Roopak Puri,Bowler,Singapore,RHB,Right-arm offbreak,3,5,1,60,76,4,False,True
+31836,Aman Desai,Aman Desai,Batter,Singapore,LHB,Unknown,2,27,26,0,0,0,False,True
+32244,Tripurana Vijay,Tripurana Vijay,Bowler,Delhi Capitals,RHB,Right-arm offbreak,29,0,0,12,29,0,True,False
+32399,Aaron Johnson,Aaron Johnson,Batter,Canada,RHB,Unknown,4,49,49,0,0,0,False,True
+32401,Akhil Kumar,Akhil Kumar,Bowler,Canada,RHB,Right-arm medium-fast,3,12,16,24,27,0,False,True
+32705,Faridoon Dawoodzai,Faridoon Dawoodzai,Bowler,Afghanistan,RHB,Left-arm Fast,11,1,1,75,108,5,False,True
+32862,Allah Ghazanfar,Allah Ghazanfar,Bowler,Afghanistan,RHB,Right-arm offbreak,51,15,10,461,616,28,True,True
+33009,John Turner,John Turner,Bowler,England,RHB,Right-arm fast-medium,8,0,0,36,64,1,False,True
+33067,Ravichandran Smaran,Ravichandran Smaran,Batter,Sunrisers Hyderabad,LHB,Unknown,19,25,19,0,0,0,True,False
+33095,Macneil Noronha,Macneil Noronha,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,3,0,0,0,0,0,True,False
+33114,Milan Rathnayake,Milan Rathnayake,All-Rounder,Sri Lanka,LHB,Right-arm Fast,7,52,82,78,118,4,False,True
+33351,Vikas Puri,Vikas Puri,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+33437,Jeevan Santhanam,Jeevan Santhanam,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+33438,Vihaan Maheshwar,Vihaan Maheshwar,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+33439,Aryaveer Chaudhry,Aryaveer Chaudhry,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+33440,Adwitya Bhargava,Adwitya Bhargava,Bowler,Singapore,RHB,Right-arm medium,2,6,7,12,14,1,False,True
+33441,Abdul Rahman Bhadelia,Abdul Rahman Bhadelia,Prospect / Reserve,Singapore,RHB,Unknown,0,0,0,0,0,0,False,True
+33442,Fahad Choudhary,Fahad Choudhary,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+33443,Sabir Ali,Sabir Ali,Bowler,United Arab Emirates,RHB,Left-arm Fast,3,0,0,48,70,3,False,True
+33523,Arjun Saud,Arjun Saud,Prospect / Reserve,Nepal,RHB,Unknown,0,0,0,0,0,0,False,True
+33675,Mohammad Naeem,Mohammad Naeem,Batter,Pakistan A,RHB,Unknown,5,35,42,0,0,0,False,True
+33969,Tinotenda Maposa,Tinotenda Maposa,All-Rounder,Zimbabwe,RHB,Right-arm medium,22,45,61,178,290,4,False,True
+34118,Irfan Taufiq,Irfan Taufiq,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,0,0,0,0,0,0,True,False
+34466,Arafat Minhas,Arafat Minhas,All-Rounder,Pakistan,LHB,Slow left-arm orthodox,18,121,163,132,117,7,False,True
+34485,Sufiyan Muqeem,Sufiyan Muqeem,All-Rounder,Pakistan,LHB,Left-arm Chinaman,47,32,33,518,518,39,False,True
+34522,Brandon McMullen,Brandon McMullen,All-Rounder,Scotland,RHB,Right-arm medium,7,96,134,50,67,1,False,True
+34527,Jasper John Davidson,Jasper John Davidson,Bowler,Scotland,RHB,Right-arm medium,4,4,3,6,15,0,False,True
+34543,Darsh Vora,Darsh Vora,Prospect / Reserve,Hong Kong,RHB,Unknown,3,0,0,0,0,0,False,True
+34546,Aryan Bisht,Aryan Bisht,Batter,Oman,RHB,Right-arm offbreak,6,72,60,23,24,1,False,True
+34694,Haroon Shahid,Haroon Shahid,Prospect / Reserve,Kuwait,RHB,Unknown,0,0,0,0,0,0,False,True
+34880,Saad Masood,Saad Masood,All-Rounder,Pakistan A,RHB,Right-arm Leg-Break,5,60,84,91,108,8,False,True
+34910,Hassan Eisakhil,Hassan Eisakhil,Prospect / Reserve,Afghanistan A,RHB,Unknown,5,0,0,0,0,0,False,True
+34928,Kendel Fleming,Kendel Fleming,Batter,Japan,LHB,Unknown,1,12,12,0,0,0,False,True
+34929,Lachlan Lake,Lachlan Lake,Batter,Japan,RHB,Unknown,1,4,1,0,0,0,False,True
+34957,Jafer Chohan,Jafer Chohan,Prospect / Reserve,England,RHB,Unknown,5,0,0,0,0,0,False,True
+34969,Manav Suthar,Manav Suthar,Bowler,Gujarat Titans,LHB,Slow left-arm orthodox,46,2,1,48,94,2,True,False
+34991,Rajan Kumar,Rajan Kumar,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,15,0,0,0,0,0,True,False
+35071,Kunal Rathore,Kunal Rathore,Batter,Rajasthan Royals,LHB,Unknown,30,5,0,0,0,0,True,False
+35072,Ramakrishna Ghosh,Ramakrishna Ghosh,Bowler,Chennai Super Kings,RHB,Right-arm medium-fast,23,0,0,18,24,1,True,False
+35102,Zikria Islam,Zikria Islam,All-Rounder,Oman,RHB,Right-arm offbreak,6,42,57,30,53,0,False,True
+35120,Narayan Saishiv,Narayan Saishiv,Bowler,Oman,RHB,Right-arm Leg-Break,3,47,48,6,20,0,False,True
+35122,Shah Faisal,Shah Faisal,Bowler,Oman,LHB,Left-arm medium,3,15,10,72,102,5,False,True
+35133,Sufyan Yousuf,Sufyan Yousuf,Batter,Oman,RHB,Unknown,6,7,5,0,0,0,False,True
+35318,Sakib Hussain,Sakib Hussain,Bowler,Kolkata Knight Riders,RHB,Right-arm medium-fast,31,7,5,253,396,15,True,False
+35506,Quentin Sampson,Quentin Sampson,Batter,West Indies,RHB,Unknown,11,50,56,0,0,0,False,True
+36033,Muhammad Shahdad,Muhammad Shahdad,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+36153,Syed Haider,Syed Haider,Batter,United Arab Emirates,RHB,Unknown,3,47,60,0,0,0,False,True
+36328,Mangesh Yadav,Mangesh Yadav,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,16,0,0,0,0,0,True,False
+36551,Zishan Motara,Zishan Motara,Bowler,West Indies,RHB,Right-arm Leg-Break,3,4,3,6,13,0,False,True
+36553,Jediah Blades,Jediah Blades,Bowler,West Indies,RHB,Left-arm Fast,11,13,5,119,178,6,False,True
+36981,Himanshu Sharma,Himanshu Sharma,Bowler,Royal Challengers Bengaluru,RHB,Right-arm Leg-Break,16,0,0,30,57,0,True,False
+36982,Suyash Sharma,Suyash Sharma,Bowler,India A,RHB,Right-arm Leg-Break,63,2,0,900,1299,32,True,True
+36983,Mohit Rathee,Mohit Rathee,Bowler,Punjab Kings,RHB,Right-arm Leg-Break,17,2,1,12,29,0,True,False
+36984,Raghav Goyal,Raghav Goyal,Bowler,Mumbai Indians,RHB,Left-arm Chinaman,1,0,0,24,33,0,True,False
+37052,Naman Dhir,Naman Dhir,All-Rounder,India,RHB,Right-arm offbreak,58,589,992,162,287,7,True,True
+37201,Jewel Andrew,Jewel Andrew,Batter,West Indies,RHB,Unknown,24,96,99,0,0,0,False,True
+37311,Shiv Mathur,Shiv Mathur,Batter,Hong Kong,RHB,Unknown,3,53,62,0,0,0,False,True
+37559,Nadeem Khan,Nadeem Khan,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+37572,Shafiq Jan,Shafiq Jan,Bowler,Oman,RHB,Right-arm medium-fast,3,3,5,72,111,4,False,True
+37621,Rajab Hussain,Rajab Hussain,Prospect / Reserve,Hong Kong,RHB,Unknown,3,0,0,0,0,0,False,True
+37731,Musheer Khan,Musheer Khan,Bowler,Punjab Kings,RHB,Slow left-arm orthodox,32,3,0,12,27,1,True,False
+37879,Khawaja Nafay,Khawaja Nafay,Batter,Pakistan,RHB,Unknown,8,39,62,0,0,0,False,True
+37939,Nahid Rana,Nahid Rana,Bowler,Bangladesh,RHB,Right-arm Fast,15,5,0,95,145,8,False,True
+38044,Mahli Beardman,Mahli Beardman,Bowler,Australia,RHB,Right-arm fast-medium,8,0,0,24,33,2,False,True
+38050,Isitha Wijesundera,Isitha Wijesundera,Bowler,Sri Lanka A,LHB,Right-arm medium-fast,9,10,11,30,61,1,False,True
+38855,Mohammad Saifuddin,Mohammad Saifuddin,All-Rounder,Bangladesh,LHB,Right-arm medium-fast,36,78,108,442,661,26,False,True
+39374,Muhammad Zohaib,Muhammad Zohaib,Batter,United Arab Emirates,LHB,Unknown,12,147,160,0,0,0,False,True
+39444,Basil Hameed,Basil Hameed,All-Rounder,United Arab Emirates,RHB,Right-arm offbreak,3,34,45,30,58,0,False,True
+39455,Maruf Mridha,Maruf Mridha,Prospect / Reserve,Bangladesh A,RHB,Unknown,3,0,0,0,0,0,False,True
+39461,Wasi Sddiquee,Wasi Sddiquee,Prospect / Reserve,Bangladesh A,RHB,Unknown,3,0,0,0,0,0,False,True
+39479,Bashir Ahmad,Bashir Ahmad,Prospect / Reserve,Afghanistan A,RHB,Unknown,0,0,0,0,0,0,False,True
+39630,Dinura Kalupahana,Dinura Kalupahana,Prospect / Reserve,Sri Lanka A,RHB,Unknown,5,0,0,0,0,0,False,True
+39637,Garuka Sanketh,Garuka Sanketh,Bowler,Sri Lanka A,LHB,Right-arm medium,4,2,1,78,117,2,False,True
+39638,Vishen Halambage,Vishen Halambage,Bowler,Sri Lanka,RHB,Right-arm Leg-Break,7,50,74,6,8,0,False,True
+39640,Sineth Jayawardena,Sineth Jayawardena,Batter,Sri Lanka,LHB,Unknown,3,47,60,0,0,0,False,True
+39648,Sohan de Livera,Sohan de Livera,Prospect / Reserve,Sri Lanka A,RHB,Unknown,4,0,0,0,0,0,False,True
+39657,Eshan Malinga,Eshan Malinga,All-Rounder,Sri Lanka,LHB,Right-arm fast-medium,56,38,26,923,1392,55,True,True
+39672,Aarya Desai,Aarya Desai,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,0,0,0,0,0,0,True,False
+39991,Parveen Kumar,Parveen Kumar,Bowler,Canada,LHB,Slow left-arm orthodox,3,8,4,48,32,2,False,True
+40391,Mohammad Faraz Jafri,Mohammad Faraz Jafri,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+41110,Mayank Kumar,Mayank Kumar,Batter,United Arab Emirates,RHB,Unknown,7,55,49,0,0,0,False,True
+41503,Yash Punja,Yash Punja,Bowler,Rajasthan Royals,RHB,Right-arm Leg-Break,16,0,0,180,279,9,True,False
+41509,Yayin Rai,Yayin Rai,Batter,United Arab Emirates,RHB,Unknown,3,38,41,0,0,0,False,True
+41541,Declan Suzuki,Declan Suzuki,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+41863,Josh Hull,Josh Hull,Prospect / Reserve,England,RHB,Unknown,3,0,0,0,0,0,False,True
+42548,Muhammad Jawadullah,Muhammad Jawadullah,Bowler,United Arab Emirates,LHB,Left-arm medium-fast,20,24,13,273,406,16,False,True
+42810,Noah Croes,Noah Croes,Batter,Netherlands,RHB,Unknown,7,53,54,0,0,0,False,True
+42811,Michael Levitt,Michael Levitt,Batter,Netherlands,RHB,Unknown,8,203,253,0,0,0,False,True
+42845,Arshin Kulkarni,Arshin Kulkarni,Batter,Lucknow Super Giants,RHB,Unknown,42,33,26,0,0,0,True,False
+43250,Dilpreet Bajwa,Dilpreet Singh Bajwa,Batter,Canada,RHB,Unknown,4,53,61,0,0,0,False,True
+43774,Shivam Singh,Shivam Singh,Batter,Punjab Kings,RHB,Unknown,14,3,2,0,0,0,True,False
+43798,Lhuan Pretorius,Lhuan Pretorius,Batter,Rajasthan Royals,LHB,Unknown,29,77,103,0,0,0,True,True
+43917,Krish Bhagat,Krish Bhagat,Bowler,Mumbai Indians,RHB,Right-arm medium,10,21,10,36,63,0,True,False
+43965,Emanjot Chahal,Emanjot Singh Chahal,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,3,0,0,0,0,0,True,False
+43967,Vishwanath Singh,Vishwanath Singh,Prospect / Reserve,Punjab Kings,RHB,Unknown,14,0,0,0,0,0,True,False
+43996,Vihaan Malhotra,Vihaan Malhotra,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,16,0,0,0,0,0,True,False
+44003,Mohammad Ibrahim,Mohammad Ibrahim,Prospect / Reserve,Afghanistan,RHB,Unknown,0,0,0,0,0,0,False,True
+44293,Jordan Neill,Jordan Neill,Prospect / Reserve,Ireland,RHB,Unknown,6,0,0,0,0,0,False,True
+44491,Manvanth Kumar,L Manvanth Kumar,Prospect / Reserve,Delhi Capitals,RHB,Unknown,15,0,0,0,0,0,True,False
+45022,Cedric De Lange,Cedric De Lange,Prospect / Reserve,Netherlands,RHB,Unknown,3,0,0,0,0,0,False,True
+45381,Satyanarayana Raju,PV Satyanarayan Raju,Bowler,Mumbai Indians,RHB,Right-arm medium,16,1,1,24,53,1,True,False
+45457,Zach Lion-Cachet,Zach Lion Cachet,All-Rounder,Netherlands,RHB,Right-arm offbreak,4,48,33,70,80,4,False,True
+45749,Mukul Choudhary,Mukul Choudhary,Batter,Lucknow Super Giants,RHB,Unknown,14,120,170,0,0,0,True,False
+45965,Naman Tiwari,Naman Tiwari,Prospect / Reserve,Lucknow Super Giants,RHB,Unknown,14,0,0,0,0,0,True,False
+45966,Prashant Veer,Prashant Veer,Batter,Chennai Super Kings,LHB,Slow left-arm orthodox,14,67,90,12,25,0,True,False
+45989,Swastik Chikara,Swastik Chikara,Prospect / Reserve,Delhi Capitals,RHB,Unknown,30,0,0,0,0,0,True,False
+46066,Vipraj Nigam,Vipraj Nigam,All-Rounder,Delhi Capitals,RHB,Right-arm Leg-Break,30,89,157,288,469,13,True,True
+46137,Kartik Sharma,Kartik Sharma,Batter,Chennai Super Kings,RHB,Unknown,14,216,295,0,0,0,True,False
+46378,Kyle Klein,Kyle Klein,All-Rounder,Netherlands,RHB,Right-arm medium,11,39,32,164,235,14,False,True
+46929,Dian Forrester,Dian Forrester,Batter,Chennai Super Kings,LHB,Right-arm medium,8,77,83,6,4,0,True,True
+46982,Shahid Aziz,Shahid Aziz,Bowler,Pakistan A,RHB,Right-arm medium,5,15,16,78,117,5,False,True
+46996,Mohammad Faiq,Mohammad Faiq,Batter,Pakistan A,RHB,Unknown,5,28,42,0,0,0,False,True
+47017,Mohammad Jnr,Mohammad Jnr,Bowler,Pakistan,RHB,Left-arm Fast,7,12,13,63,98,2,False,True
+47050,Shamar Joseph,Shamar Joseph,Bowler,Lucknow Super Giants,LHB,Right-arm Fast,62,29,43,475,796,31,True,True
+47259,Adeeb Usmani,Adeeb Usmani,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+47291,Md Yousuf,Md Yousuf,Prospect / Reserve,Oman,RHB,Unknown,2,0,0,0,0,0,False,True
+47314,Wafiullah Tarakhil,Wafiullah Tarakhil,Batter,Afghanistan,RHB,Unknown,11,19,12,0,0,0,False,True
+47370,Aniket Verma,Aniket Verma,Batter,Sunrisers Hyderabad,RHB,Unknown,29,196,315,0,0,0,True,False
+47371,Zuhaid Zubair,Zuhaid Zubair,Bowler,United Arab Emirates,RHB,Right-arm Leg-Break,3,2,0,18,36,1,False,True
+47403,Newman Nyamhuri,Newman Nyamhuri,Bowler,Zimbabwe,RHB,Left-arm medium-fast,19,21,16,83,127,5,False,True
+47523,Aman Rao Perala,Aman Rao Perala,Prospect / Reserve,Rajasthan Royals,RHB,Unknown,16,0,0,0,0,0,True,False
+47542,Charles Hinze,Charles Hinze,Bowler,Japan,RHB,Slow left-arm orthodox,1,0,0,12,17,2,False,True
+47694,Omid Rahman,Omid Rahman,Bowler,United Arab Emirates,RHB,Right-arm Fast,3,4,0,60,106,2,False,True
+47724,Jahandad Khan,Jahandad Khan,All-Rounder,Pakistan,LHB,Left-arm medium-fast,14,34,29,108,211,7,False,True
+48278,Ubaid Shah,Ubaid Shah,Bowler,Pakistan A,RHB,Right-arm medium-fast,5,3,0,72,106,5,False,True
+48504,Ayush Mhatre,Ayush Mhatre,Batter,Chennai Super Kings,RHB,Unknown,14,240,441,0,0,0,True,False
+48551,Aravelly Avanish,Aravelly Avanish,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,14,0,0,0,0,0,True,False
+48555,Andre Siddharth,Andre Siddharth,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,14,0,0,0,0,0,True,False
+48557,Vignesh Puthur,Vignesh Puthur,Bowler,Mumbai Indians,RHB,Left-arm Chinaman,26,0,0,72,109,6,True,False
+48575,Sahil Parakh,Sahil Parakh,Batter,Delhi Capitals,LHB,Unknown,14,33,46,0,0,0,True,False
+48616,Abdul Saqlain,Abdul Saqlain,All-Rounder,Bangladesh,RHB,Right-arm Fast,14,34,39,182,241,9,False,True
+48953,Danish Malewar,Danish Malewar,Batter,Mumbai Indians,RHB,Unknown,14,5,2,0,0,0,True,False
+49003,Hasan Nawaz,Hasan Nawaz,Batter,Pakistan,RHB,Unknown,36,324,493,0,0,0,False,True
+49027,Bevon Jacobs,Bevon Jacobs,Batter,Mumbai Indians,RHB,Unknown,43,189,275,0,0,0,True,True
+49265,Ahmed Tariq,Ahmed Tariq,Batter,United Arab Emirates,RHB,Unknown,3,3,0,0,0,0,False,True
+49268,Sohaib Khan,Sohaib Khan,Batter,United Arab Emirates,RHB,Unknown,5,72,79,0,0,0,False,True
+49665,Prince Choudhary,Prince Choudhary,Prospect / Reserve,Punjab Kings,RHB,Unknown,14,0,0,0,0,0,True,False
+49670,Vansh Bedi,Vansh Bedi,Prospect / Reserve,Chennai Super Kings,RHB,Unknown,12,0,0,0,0,0,True,False
+50062,Nqobani Mokoena,Nqobani Mokoena,Bowler,South Africa,RHB,Right-arm fast-medium,5,21,26,63,73,3,False,True
+50226,Luke Watson,Luke Watson,Prospect / Reserve,New Zealand,RHB,Unknown,0,0,0,0,0,0,False,True
+50284,Vaibhav Sooryavanshi,Vaibhav Sooryavanshi,Batter,India,LHB,Unknown,58,676,1509,0,0,0,True,True
+52338,Usman Tariq,Usman Tariq,Bowler,Pakistan,RHB,Right-arm offbreak,13,0,0,64,60,8,False,True
+53426,Tofael Ahmed,Tofael Ahmed,Prospect / Reserve,Bangladesh A,RHB,Unknown,5,0,0,0,0,0,False,True
+54404,Benjamin Ito,Benjamin Ito,Bowler,Japan,RHB,Right-arm offbreak,1,8,9,6,2,1,False,True
+54476,Jake Nairn,Jake Nairn,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+54518,Alester Fleming,Alester Fleming,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+55747,Benjamin Calitz,Benjamin Calitz,Batter,Ireland,LHB,Unknown,10,81,121,0,0,0,False,True
+56685,Abdullah Ahmadzai,Abdullah Ahmadzai,Bowler,Afghanistan,RHB,Right-arm medium-fast,25,14,7,225,348,16,False,True
+56800,Shivam Shukla,Shivam Shukla,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,1,0,0,0,0,0,True,False
+56817,Shivang Kumar,Shivang Kumar,All-Rounder,Sunrisers Hyderabad,RHB,Left-arm Chinaman,15,46,53,234,375,9,True,False
+56830,Madhav Tiwari,Madhav Tiwari,Bowler,Delhi Capitals,RHB,Right-arm medium-fast,29,12,21,66,101,4,True,False
+57747,Charlie Cassell,Charlie Cassell,Bowler,Scotland,RHB,Right-arm medium,3,3,1,6,19,0,False,True
+58134,Digvesh Rathi,Digvesh Rathi,Bowler,Lucknow Super Giants,RHB,Right-arm Leg-Break,28,8,3,547,825,19,True,False
+58135,Tejasvi Dahiya,Tejasvi Dahiya,Batter,Kolkata Knight Riders,RHB,Unknown,14,15,12,0,0,0,True,False
+58246,Prince Yadav,Prince Yadav,All-Rounder,India,RHB,Right-arm Fast,48,39,44,710,1088,31,True,True
+58727,Abhinandan Singh,Abhinandan Singh,Bowler,Royal Challengers Bengaluru,RHB,Right-arm medium-fast,32,0,0,58,122,3,True,False
+58864,Vishal Nishad,Vishal Nishad,Prospect / Reserve,Punjab Kings,RHB,Unknown,14,0,0,0,0,0,True,False
+59045,Jai Moondra,Jai Moondra,Bowler,Ireland,LHB,Left-arm medium-fast,2,3,3,48,58,5,False,True
+59853,Ben Fletcher,Ben Fletcher,Prospect / Reserve,Netherlands,RHB,Unknown,3,0,0,0,0,0,False,True
+60208,Shuaib Balushi,Shuaib Balushi,Prospect / Reserve,Oman,RHB,Unknown,3,0,0,0,0,0,False,True
+60609,Navin Bidaisee,Navin Bidaisee,All-Rounder,West Indies,LHB,Right-arm Leg-Break,3,30,24,48,62,3,False,True
+60689,Zawad Abrar,Zawad Abrar,Batter,Bangladesh A,RHB,Unknown,5,68,64,0,0,0,False,True
+60700,Ravi Singh,Ravi Singh,Batter,Rajasthan Royals,LHB,Unknown,13,2,4,0,0,0,True,False
+62526,Krains Fuletra,Krains Fuletra,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,15,0,0,0,0,0,True,False
+63136,Shadhin Islam,Shadhin Islam,Prospect / Reserve,Bangladesh A,RHB,Unknown,5,0,0,0,0,0,False,True
+63497,RS Ambrish,RS Ambrish,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,6,0,0,0,0,0,True,False
+63779,Kavindu Dilhara,Kavindu Dilhara,Prospect / Reserve,Sri Lanka A,RHB,Unknown,0,0,0,0,0,0,False,True
+64604,Kalhan Challu,Kalhan Challu,Batter,Hong Kong,RHB,Unknown,6,11,8,0,0,0,False,True
+65598,Shoma Slater,Shoma Slater,Prospect / Reserve,Japan,RHB,Unknown,1,0,0,0,0,0,False,True
+66056,Ajay Kumar,Ajay Kumar,Prospect / Reserve,United Arab Emirates,RHB,Unknown,0,0,0,0,0,0,False,True
+66103,Noor Rahman,Noor Rahman,Batter,Afghanistan,RHB,Unknown,9,20,12,0,0,0,False,True
+66513,Omkar Tarmale,Omkar Tarmale,Prospect / Reserve,Sunrisers Hyderabad,RHB,Unknown,15,0,0,0,0,0,True,False
+66540,Kanishk Chouhan,Kanishk Chouhan,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,16,0,0,0,0,0,True,False
+67036,Brijesh Sharma,Brijesh Sharma,Bowler,Rajasthan Royals,RHB,Right-arm Fast,16,4,2,277,446,14,True,False
+67864,Matt Hollard,Matt Hollard,Bowler,Ireland,RHB,Right-arm medium,2,0,0,48,54,6,False,True
+68280,Satvik Deswal,Satvik Deswal,Prospect / Reserve,Royal Challengers Bengaluru,RHB,Unknown,16,0,0,0,0,0,True,False
+68410,Rahmatullah Zadran,Rahmatullah Zadran,Batter,Afghanistan A,RHB,Unknown,3,21,24,0,0,0,False,True
+69806,Mohammad Salman,Mohammad Salman,Bowler,Pakistan A,RHB,Right-arm Fast,5,0,0,18,32,0,False,True
+71016,Daksh Kamra,Daksh Kamra,Prospect / Reserve,Kolkata Knight Riders,RHB,Unknown,14,0,0,0,0,0,True,False
+71107,Nimnaka Ratnayake,Nimnaka Ratnayake,Prospect / Reserve,Sri Lanka A,RHB,Unknown,0,0,0,0,0,0,False,True
+71311,Mohd Izhar,Mohd Izhar,Prospect / Reserve,Mumbai Indians,RHB,Unknown,14,0,0,0,0,0,True,False
+71727,Razaullah Razaullah,Razaullah Razaullah,Bowler,Pakistan,RHB,Right-arm medium,3,1,0,38,66,1,False,True

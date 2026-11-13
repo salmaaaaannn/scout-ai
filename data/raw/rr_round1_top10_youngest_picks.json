@@ -1,0 +1,122 @@
+[
+  {
+    "player_id": "RR_CAND_01",
+    "name": "Andre Siddharth",
+    "dob": "2006-08-28",
+    "age": 20,
+    "role": "Right-Hand Batter",
+    "state_team": "Tamil Nadu",
+    "specialization": "High-Impact Middle-Order Aggressor (T20 SR 165+)",
+    "projected_inr_crores": 0.8,
+    "acpi_potential_index": 9.8,
+    "tactical_fit": "Long-term replacement for domestic middle-order hitting"
+  },
+  {
+    "player_id": "RR_CAND_02",
+    "name": "Swastik Chikara",
+    "dob": "2005-04-03",
+    "age": 21,
+    "role": "Right-Hand Batter",
+    "state_team": "Uttar Pradesh",
+    "specialization": "Explosive Powerplay / Death Boundary Striker (UP T20 MVP)",
+    "projected_inr_crores": 0.6,
+    "acpi_potential_index": 9.5,
+    "tactical_fit": "Elite power finisher depth alongside Hetmyer / Parag"
+  },
+  {
+    "player_id": "RR_CAND_03",
+    "name": "Aradhya Shukla",
+    "dob": "2004-12-06",
+    "age": 21,
+    "role": "Right-Arm Fast Medium",
+    "state_team": "Punjab",
+    "specialization": "India U-19 Seam Bowler, Tall Hit-the-Deck Release",
+    "projected_inr_crores": 0.4,
+    "acpi_potential_index": 9.2,
+    "tactical_fit": "Hit-the-deck pace depth for Sawai Mansingh Stadium"
+  },
+  {
+    "player_id": "RR_CAND_04",
+    "name": "Uday Saharan",
+    "dob": "2004-09-08",
+    "age": 22,
+    "role": "Right-Hand Batter",
+    "state_team": "Punjab / Rajasthan (Ganganagar Native)",
+    "specialization": "India U-19 World Cup Captain, High-Temperament Middle-Order Anchor",
+    "projected_inr_crores": 0.9,
+    "acpi_potential_index": 9.4,
+    "tactical_fit": "Local Rajasthan native captaincy-grade anchor for spin-collapse recovery"
+  },
+  {
+    "player_id": "RR_CAND_05",
+    "name": "Aaradhya Yadav",
+    "dob": "2004-06-03",
+    "age": 22,
+    "role": "Wicketkeeper-Batter",
+    "state_team": "Uttar Pradesh",
+    "specialization": "India U-19 World Cup Wicketkeeper, High Bat Speed Finisher",
+    "projected_inr_crores": 0.4,
+    "acpi_potential_index": 9.0,
+    "tactical_fit": "Backup Indian wicketkeeper for Sanju Samson"
+  },
+  {
+    "player_id": "RR_CAND_06",
+    "name": "Aaqib Khan",
+    "dob": "2003-12-25",
+    "age": 22,
+    "role": "Right-Arm Fast",
+    "state_team": "Uttar Pradesh",
+    "specialization": "142+ kph Express Outswing & Death Yorker Accuracy",
+    "projected_inr_crores": 0.75,
+    "acpi_potential_index": 9.4,
+    "tactical_fit": "High-pace Indian death bowler to complement foreign pacers"
+  },
+  {
+    "player_id": "RR_CAND_07",
+    "name": "Aarya Desai",
+    "dob": "2003-04-03",
+    "age": 23,
+    "role": "Left-Hand Batter",
+    "state_team": "Gujarat",
+    "specialization": "Compact Left-Handed Top-Order Accumulator",
+    "projected_inr_crores": 0.5,
+    "acpi_potential_index": 8.8,
+    "tactical_fit": "Top-order left-hand stability for powerplay matchups"
+  },
+  {
+    "player_id": "RR_CAND_08",
+    "name": "Himanshu Chauhan",
+    "dob": "2002-09-15",
+    "age": 24,
+    "role": "Right-Arm Fast Medium",
+    "state_team": "Delhi",
+    "specialization": "Frontline Ranji/SMAT Wicket-Taker, Seam-Movement Specialist",
+    "projected_inr_crores": 0.65,
+    "acpi_potential_index": 9.1,
+    "tactical_fit": "Powerplay swing bowler taking wickets in overs 1-6"
+  },
+  {
+    "player_id": "RR_CAND_09",
+    "name": "Kunal Ajay Rathore",
+    "dob": "2002-10-09",
+    "age": 24,
+    "role": "Wicketkeeper-Batter (Left-Hand)",
+    "state_team": "Rajasthan",
+    "specialization": "Homegrown Rajasthan Keeper-Finisher (Strike Rate 155+ in Death)",
+    "projected_inr_crores": 0.55,
+    "acpi_potential_index": 9.0,
+    "tactical_fit": "Local Rajasthan talent familiar with SMS Stadium pitch dynamics"
+  },
+  {
+    "player_id": "RR_CAND_10",
+    "name": "Vicky Ostwal",
+    "dob": "2002-09-01",
+    "age": 24,
+    "role": "Slow Left-Arm Orthodox",
+    "state_team": "Maharashtra",
+    "specialization": "India U-19 Leading Wicket-Taker, Exceptional Economy Rate (<6.4 rpo)",
+    "projected_inr_crores": 0.7,
+    "acpi_potential_index": 9.3,
+    "tactical_fit": "T20 middle-overs control spinner to choke left-handers"
+  }
+]

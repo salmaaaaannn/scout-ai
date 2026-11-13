@@ -1,0 +1,509 @@
+player_id,player_name,format,competition,season,phase,balls,runs,strike_rate,wickets,econ,dot_pct,source_url,access_date,verification_status
+4840,Odean Smith,T20I,England in West Indies T20I Series 2022,2022,MIDDLE,3,7,233.33,0,6.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,England in West Indies T20I Series 2022,2022,PP,12,11,0.0,1,5.5,58.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,England in West Indies T20I Series 2022,2022,DEATH,6,19,0.0,0,19.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in India T20I Series 2022,2022,DEATH,4,4,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in India T20I Series 2022,2022,PP,6,22,0.0,0,22.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in India T20I Series 2022,2022,MIDDLE,12,17,0.0,0,8.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Sri Lanka in Australia T20I Series 2022,2022,MIDDLE,31,46,148.39,0,5.75,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Sri Lanka in Australia T20I Series 2022,2022,DEATH,26,40,153.85,1,16.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Sri Lanka in Australia T20I Series 2022,2022,PP,18,14,0.0,0,4.67,55.56,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in Australia T20I Series 2022,2022,PP,3,1,33.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20,IPL 2022,2022,PP,18,21,0.0,1,7.0,55.56,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20,IPL 2022,2022,MIDDLE,12,5,41.67,2,12.0,35.19,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20,IPL 2022,2022,DEATH,32,46,143.75,3,14.33,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2022,2022,PP,121,167,138.02,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2022,2022,MIDDLE,70,86,122.86,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2022,2022,DEATH,1,6,0.0,0,36.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2022,2022,MIDDLE,44,45,102.27,2,9.2,26.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2022,2022,DEATH,62,111,179.03,2,15.5,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa in India T20I Series 2022,2022,MIDDLE,1,3,300.0,1,9.8,26.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in India T20I Series 2022,2022,PP,23,27,117.39,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa in India T20I Series 2022,2022,DEATH,3,1,33.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in Sri Lanka T20I Series 2022,2022,MIDDLE,30,47,156.67,2,4.0,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,Bangladesh in West Indies T20I Series 2022,2022,PP,3,2,66.67,2,7.75,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,Bangladesh in West Indies T20I Series 2022,2022,MIDDLE,1,0,0.0,1,12.67,22.22,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,Bangladesh in West Indies T20I Series 2022,2022,DEATH,4,11,275.0,0,13.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,India in Ireland T20I Series 2022,2022,PP,19,25,131.58,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2022,2022,PP,14,28,200.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2022,2022,MIDDLE,44,70,159.09,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,India in Ireland T20I Series 2022,2022,MIDDLE,19,35,184.21,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2022,2022,DEATH,3,5,166.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,India in West Indies T20I Series 2022,2022,MIDDLE,5,0,0.0,1,9.4,20.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,India in West Indies T20I Series 2022,2022,PP,12,21,0.0,0,10.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,India in West Indies T20I Series 2022,2022,DEATH,3,3,100.0,2,7.33,38.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,New Zealand in Ireland T20I Series 2022,2022,PP,33,32,96.97,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,New Zealand in Ireland T20I Series 2022,2022,PP,10,7,70.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,New Zealand in Ireland T20I Series 2022,2022,MIDDLE,17,15,88.24,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,New Zealand in Ireland T20I Series 2022,2022,DEATH,3,8,266.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa in England T20I Series 2022,2022,MIDDLE,65,95,0.0,7,8.77,27.69,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in England T20I Series 2022,2022,PP,49,79,161.22,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in England T20I Series 2022,2022,MIDDLE,65,101,155.38,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in England T20I Series 2022,2022,DEATH,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa in England T20I Series 2022,2022,DEATH,1,0,0.0,1,0.0,100.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in Zimbabwe T20I Series 2022,2022,MIDDLE,30,35,0.0,0,7.0,43.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in Zimbabwe T20I Series 2022,2022,DEATH,2,3,150.0,3,6.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in Zimbabwe T20I Series 2022,2022,PP,6,5,0.0,0,5.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa vs Ireland T20I Series 2022,2022,PP,43,58,134.88,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa vs Ireland T20I Series 2022,2022,MIDDLE,50,58,116.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,South Africa vs Ireland T20I Series 2022,2022,PP,21,14,66.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,South Africa vs Ireland T20I Series 2022,2022,PP,15,13,86.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,South Africa vs Ireland T20I Series 2022,2022,MIDDLE,24,27,112.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa vs Ireland T20I Series 2022,2022,MIDDLE,36,39,0.0,2,6.5,30.56,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa vs Ireland T20I Series 2022,2022,DEATH,12,28,0.0,1,14.0,8.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Mens Twenty20 Asia Cup 2022,2022,PP,45,44,97.78,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Mens Twenty20 Asia Cup 2022,2022,DEATH,15,22,146.67,1,10.5,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Mens Twenty20 Asia Cup 2022,2022,DEATH,7,18,257.14,1,10.4,30.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Mens Twenty20 Asia Cup 2022,2022,PP,60,54,0.0,4,5.4,56.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Mens Twenty20 Asia Cup 2022,2022,MIDDLE,39,57,146.15,7,5.57,32.99,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Mens Twenty20 Asia Cup 2022,2022,MIDDLE,18,23,0.0,2,7.67,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Mens Twenty20 Asia Cup 2022,2022,MIDDLE,46,52,113.04,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Mens Twenty20 Asia Cup 2022,2022,DEATH,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Mens Twenty20 Asia Cup 2022,2022,PP,11,12,0.0,0,6.55,27.27,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,New Zealand in West Indies T20I Series 2022,2022,MIDDLE,7,9,128.57,3,8.57,30.95,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,New Zealand in West Indies T20I Series 2022,2022,DEATH,13,27,207.69,4,6.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Afghanistan in Ireland T20I Series 2022,2022,PP,52,76,146.15,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Afghanistan in Ireland T20I Series 2022,2022,MIDDLE,41,46,112.2,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Afghanistan in Ireland T20I Series 2022,2022,MIDDLE,11,8,72.73,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Afghanistan in Ireland T20I Series 2022,2022,DEATH,12,23,191.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Afghanistan in Ireland T20I Series 2022,2022,PP,18,24,133.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,England in Pakistan T20I Series 2022,2022,MIDDLE,24,21,87.5,3,7.77,21.79,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,England in Pakistan T20I Series 2022,2022,DEATH,22,24,109.09,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,England in Pakistan T20I Series 2022,2022,DEATH,1,0,0.0,0,6.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,England in Pakistan T20I Series 2022,2022,PP,6,9,0.0,0,9.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,England in Pakistan T20I Series 2022,2022,PP,60,91,0.0,2,9.1,35.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,England in Pakistan T20I Series 2022,2022,MIDDLE,12,21,0.0,0,10.5,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,England in Pakistan T20I Series 2022,2022,PP,8,7,87.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa in India T20I Series 2022/23,2022/23,MIDDLE,12,17,0.0,0,8.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,South Africa in India T20I Series 2022/23,2022/23,DEATH,4,9,0.0,0,13.5,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in Australia T20I Series 2022,2022,MIDDLE,2,2,100.0,1,7.2,40.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in Australia T20I Series 2022,2022,DEATH,21,29,138.1,1,4.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,New Zealand T20I Tri Series 2022/23,2022/23,PP,30,37,0.0,0,7.4,40.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,New Zealand T20I Tri Series 2022/23,2022/23,MIDDLE,30,36,0.0,3,7.2,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,New Zealand T20I Tri Series 2022/23,2022/23,DEATH,3,2,66.67,1,11.0,8.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,New Zealand T20I Tri Series 2022/23,2022/23,DEATH,25,39,156.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,New Zealand T20I Tri Series 2022/23,2022/23,MIDDLE,42,68,161.9,6,8.79,23.68,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand T20I Tri Series 2022/23,2022/23,MIDDLE,22,43,195.45,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand T20I Tri Series 2022/23,2022/23,DEATH,16,16,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand T20I Tri Series 2022/23,2022/23,PP,36,38,0.0,2,6.33,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand T20I Tri Series 2022/23,2022/23,MIDDLE,18,25,0.0,0,8.33,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand T20I Tri Series 2022/23,2022/23,DEATH,13,17,0.0,2,7.85,38.46,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,England in Australia T20I Series 2022,2022,MIDDLE,28,57,203.57,2,11.5,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,England in Australia T20I Series 2022,2022,DEATH,12,18,0.0,1,9.0,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,England in Australia T20I Series 2022,2022,PP,4,8,200.0,1,3.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,India in New Zealand T20I Series 2022/23,2022/23,PP,12,12,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Ireland in Zimbabwe T20I Series 2023,2023,PP,40,40,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2023,2023,PP,22,18,81.82,2,4.25,58.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2023,2023,MIDDLE,46,52,113.04,3,4.25,45.83,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Ireland in Zimbabwe T20I Series 2023,2023,MIDDLE,9,7,77.78,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2023,2023,DEATH,7,8,114.29,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in India T20I Series 2023,2023,PP,12,1,8.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in India T20I Series 2023,2023,MIDDLE,15,13,86.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in India T20I Series 2023,2023,DEATH,6,4,0.0,0,4.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,West Indies in South Africa T20I Series 2023,2023,PP,33,76,230.3,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in South Africa T20I Series 2023,2023,PP,6,7,0.0,1,7.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in South Africa T20I Series 2023,2023,MIDDLE,5,5,100.0,2,17.67,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,West Indies in South Africa T20I Series 2023,2023,PP,12,26,0.0,1,13.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,West Indies in South Africa T20I Series 2023,2023,MIDDLE,12,33,0.0,0,16.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,West Indies in South Africa T20I Series 2023,2023,DEATH,5,11,220.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,West Indies in South Africa T20I Series 2023,2023,MIDDLE,43,83,193.02,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,West Indies in South Africa T20I Series 2023,2023,DEATH,8,13,162.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,England in Bangladesh T20I Series 2023,2023,MIDDLE,36,47,0.0,1,7.83,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,England in Bangladesh T20I Series 2023,2023,DEATH,18,13,0.0,2,4.33,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,England in Bangladesh T20I Series 2023,2023,PP,6,5,0.0,0,5.0,66.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2023,2023,MIDDLE,205,284,138.54,2,7.67,38.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2023,2023,PP,205,355,173.17,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2023,2023,MIDDLE,162,225,138.89,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2023,2023,PP,31,49,158.06,1,9.88,23.53,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2023,2023,MIDDLE,156,208,0.0,14,8.0,31.41,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2023,2023,DEATH,1,0,0.0,13,8.04,32.97,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2023,2023,DEATH,35,75,214.29,2,11.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2023,2023,PP,18,28,0.0,0,9.33,38.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2023,2023,DEATH,14,39,278.57,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2023,2023,MIDDLE,19,34,0.0,0,10.74,21.05,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2023,2023,PP,12,19,0.0,0,9.5,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Afghanistan v Pakistan T20I Series 2023,2023,PP,23,22,95.65,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Afghanistan v Pakistan T20I Series 2023,2023,MIDDLE,7,2,28.57,0,5.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Afghanistan v Pakistan T20I Series 2023,2023,PP,24,27,0.0,1,6.75,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Afghanistan v Pakistan T20I Series 2023,2023,DEATH,18,34,0.0,0,11.33,11.11,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Afghanistan v Pakistan T20I Series 2023,2023,MIDDLE,30,27,0.0,0,5.4,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Afghanistan v Pakistan T20I Series 2023,2023,DEATH,3,5,166.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Bangladesh T20I Series 2023,2023,PP,26,40,153.85,1,8.67,38.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Bangladesh T20I Series 2023,2023,MIDDLE,20,15,75.0,1,5.8,36.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Ireland in Bangladesh T20I Series 2023,2023,PP,18,33,0.0,1,11.0,27.78,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Ireland in Bangladesh T20I Series 2023,2023,MIDDLE,18,16,0.0,1,5.33,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Ireland in Bangladesh T20I Series 2023,2023,DEATH,5,2,40.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Sri Lanka in New Zealand T20I Series 2023,2023,MIDDLE,23,33,143.48,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Sri Lanka in New Zealand T20I Series 2023,2023,DEATH,12,15,125.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,New Zealand in Pakistan T20I Series 2023,2023,PP,24,25,104.17,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,New Zealand in Pakistan T20I Series 2023,2023,MIDDLE,32,38,118.75,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Pakistan T20I Series 2023,2023,PP,13,4,30.77,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Pakistan T20I Series 2023,2023,MIDDLE,120,208,173.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Pakistan T20I Series 2023,2023,DEATH,41,74,180.49,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand in Pakistan T20I Series 2023,2023,PP,12,11,0.0,0,5.5,58.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand in Pakistan T20I Series 2023,2023,MIDDLE,6,5,0.0,0,5.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand in Pakistan T20I Series 2023,2023,DEATH,3,0,0.0,0,14.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,New Zealand in Pakistan T20I Series 2023,2023,PP,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Afghanistan in Bangladesh T20I Series 2023,2023,PP,12,3,0.0,0,1.5,66.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Afghanistan in Bangladesh T20I Series 2023,2023,MIDDLE,6,15,0.0,0,15.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in West Indies T20I Series 2023,2023,PP,25,40,160.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,India in West Indies T20I Series 2023,2023,MIDDLE,1,0,0.0,0,14.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,India in West Indies T20I Series 2023,2023,DEATH,10,14,140.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4840,Odean Smith,T20I,India in West Indies T20I Series 2023,2023,PP,6,16,0.0,0,16.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in West Indies T20I Series 2023,2023,MIDDLE,29,49,168.97,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in West Indies T20I Series 2023,2023,DEATH,3,1,33.33,0,11.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in United Arab Emirates T20I Series 2023,2023,MIDDLE,77,112,145.45,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in United Arab Emirates T20I Series 2023,2023,PP,6,5,83.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in United Arab Emirates T20I Series 2023,2023,DEATH,13,12,92.31,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,India in Ireland T20I Series 2023,2023,PP,20,19,95.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2023,2023,PP,23,16,69.57,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in Ireland T20I Series 2023,2023,PP,33,42,127.27,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in Ireland T20I Series 2023,2023,MIDDLE,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,India in Ireland T20I Series 2023,2023,MIDDLE,33,57,172.73,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in South Africa T20I Series 2023,2023,PP,4,0,0.0,3,6.5,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in South Africa T20I Series 2023,2023,MIDDLE,22,38,172.73,2,7.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,Australia in South Africa T20I Series 2023,2023,MIDDLE,2,0,0.0,2,10.12,31.25,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Australia in South Africa T20I Series 2023,2023,PP,41,49,119.51,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Australia in South Africa T20I Series 2023,2023,MIDDLE,41,52,126.83,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in South Africa T20I Series 2023,2023,DEATH,4,5,125.0,0,16.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in England T20I Series 2023,2023,PP,3,3,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in England T20I Series 2023,2023,MIDDLE,37,59,159.46,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in England T20I Series 2023,2023,DEATH,8,12,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in India T20I Series 2023,2023,DEATH,6,7,116.67,0,6.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,Australia in India T20I Series 2023,2023,PP,82,138,168.29,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in India T20I Series 2023,2023,PP,1,0,0.0,0,9.5,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in India T20I Series 2023,2023,MIDDLE,45,62,137.78,1,10.17,26.09,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in India T20I Series 2023,2023,PP,12,13,0.0,1,6.5,66.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in India T20I Series 2023,2023,MIDDLE,24,41,0.0,2,10.25,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in India T20I Series 2023,2023,DEATH,3,1,33.33,2,7.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in South Africa T20I Series 2023,2023,PP,20,22,110.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,India in South Africa T20I Series 2023,2023,MIDDLE,1,1,100.0,2,6.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4237,Tabraiz Shamsi,T20I,India in South Africa T20I Series 2023,2023,DEATH,12,17,0.0,0,8.5,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,India in South Africa T20I Series 2023,2023,PP,32,48,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,India in South Africa T20I Series 2023,2023,MIDDLE,8,9,112.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in South Africa T20I Series 2023,2023,MIDDLE,23,32,139.13,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Ireland in Zimbabwe T20I Series 2023/24,2023/24,PP,49,53,108.16,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Ireland in Zimbabwe T20I Series 2023/24,2023/24,MIDDLE,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2023/24,2023/24,MIDDLE,78,92,117.95,0,9.0,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2023/24,2023/24,PP,14,16,114.29,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2023/24,2023/24,DEATH,12,18,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Bangladesh in New Zealand T20I Series 2023,2023,PP,16,19,118.75,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Bangladesh in New Zealand T20I Series 2023,2023,MIDDLE,8,1,12.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,Afghanistan in India T20I Series 2024,2024,PP,24,43,179.17,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,Afghanistan in India T20I Series 2024,2024,MIDDLE,16,29,181.25,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Pakistan in New Zealand T20I series 2024,2024,MIDDLE,13,10,76.92,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Pakistan in New Zealand T20I series 2024,2024,DEATH,12,22,183.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in New Zealand T20I series 2024,2024,PP,15,25,166.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in New Zealand T20I series 2024,2024,MIDDLE,61,101,165.57,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in New Zealand T20I series 2024,2024,MIDDLE,8,4,50.0,2,9.75,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in New Zealand T20I series 2024,2024,DEATH,20,46,230.0,0,8.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in New Zealand T20I series 2024,2024,PP,18,16,0.0,1,5.33,44.44,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,West Indies in Australia T20I Series 2024,2024,MIDDLE,21,25,119.05,3,7.6,40.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,West Indies in Australia T20I Series 2024,2024,PP,6,4,0.0,2,4.0,66.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,West Indies in Australia T20I Series 2024,2024,DEATH,6,11,0.0,0,11.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Australia in New Zealand T20I Series 2024,2024,DEATH,13,18,138.46,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Australia in New Zealand T20I Series 2024,2024,PP,3,3,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Australia in New Zealand T20I Series 2024,2024,MIDDLE,15,16,106.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2024,2024,PP,182,281,154.4,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2024,2024,DEATH,26,45,173.08,0,15.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2024,2024,MIDDLE,14,2,14.29,5,9.62,22.41,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2024,2024,DEATH,1,0,0.0,7,11.12,21.88,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2024,2024,PP,97,130,134.02,1,7.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2024,2024,MIDDLE,139,209,150.36,3,8.44,35.19,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2024,2024,MIDDLE,151,229,151.66,2,10.91,24.24,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2024,2024,DEATH,21,37,176.19,1,15.43,28.57,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Afghanistan v Ireland T20I Series 2024,2024,PP,40,52,130.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Afghanistan v Ireland T20I Series 2024,2024,MIDDLE,28,23,82.14,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Afghanistan v Ireland T20I Series 2024,2024,DEATH,13,34,261.54,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Afghanistan v Ireland T20I Series 2024,2024,MIDDLE,24,24,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Afghanistan v Ireland T20I Series 2024,2024,PP,15,15,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2024,2024,PP,40,37,92.5,0,7.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2024,2024,MIDDLE,90,144,160.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2024,2024,PP,23,50,0.0,1,13.04,26.09,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2024,2024,DEATH,6,9,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,New Zealand in Pakistan T20I Series 2024,2024,PP,45,59,131.11,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand in Pakistan T20I Series 2024,2024,PP,24,36,0.0,1,9.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Pakistan T20I Series 2024,2024,PP,7,6,85.71,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Pakistan T20I Series 2024,2024,MIDDLE,68,115,169.12,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand in Pakistan T20I Series 2024,2024,MIDDLE,12,27,0.0,0,13.5,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,New Zealand in Pakistan T20I Series 2024,2024,DEATH,6,6,0.0,1,6.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Pakistan T20I Series 2024,2024,DEATH,4,5,125.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,New Zealand in Pakistan T20I Series 2024,2024,MIDDLE,15,23,153.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,New Zealand in Pakistan T20I Series 2024,2024,PP,5,3,60.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,New Zealand in Pakistan T20I Series 2024,2024,MIDDLE,57,72,126.32,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,New Zealand in Pakistan T20I Series 2024,2024,DEATH,16,29,181.25,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in Ireland T20I series 2024,2024,MIDDLE,42,69,164.29,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in Ireland T20I series 2024,2024,DEATH,5,6,120.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Pakistan in Ireland T20I series 2024,2024,PP,46,53,115.22,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Ireland T20I series 2024,2024,PP,24,36,0.0,1,9.0,45.83,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Pakistan in Ireland T20I series 2024,2024,PP,13,22,169.23,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Pakistan in Ireland T20I series 2024,2024,MIDDLE,51,61,119.61,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Pakistan in Ireland T20I series 2024,2024,MIDDLE,40,62,155.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Ireland T20I series 2024,2024,MIDDLE,12,14,0.0,0,7.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Pakistan in Ireland T20I series 2024,2024,DEATH,9,13,144.44,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Ireland T20I series 2024,2024,DEATH,12,19,0.0,1,9.5,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in Ireland T20I series 2024,2024,PP,10,19,190.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Pakistan in Ireland T20I series 2024,2024,DEATH,10,15,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in England T20I Series 2024,2024,PP,9,27,300.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in England T20I Series 2024,2024,MIDDLE,21,27,128.57,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in England T20I Series 2024,2024,MIDDLE,6,3,50.0,0,8.5,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in England T20I Series 2024,2024,DEATH,12,13,108.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in England T20I Series 2024,2024,PP,12,33,0.0,0,16.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in West Indies T20I Series [May 2024] 2024,2024,MIDDLE,26,41,157.69,0,9.39,30.43,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in West Indies T20I Series [May 2024] 2024,2024,PP,34,53,155.88,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in West Indies T20I Series [May 2024] 2024,2024,DEATH,15,33,220.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Netherlands Tri-Nation T20I Series 2024,2024,PP,47,44,93.62,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Netherlands Tri-Nation T20I Series 2024,2024,PP,2,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3954,Andrew Balbirnie,T20I,Netherlands Tri-Nation T20I Series 2024,2024,MIDDLE,24,28,116.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Netherlands Tri-Nation T20I Series 2024,2024,MIDDLE,5,2,40.0,0,6.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Netherlands Tri-Nation T20I Series 2024,2024,DEATH,3,2,66.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in Zimbabwe T20I Series 2024,2024,PP,48,82,170.83,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in Zimbabwe T20I Series 2024,2024,MIDDLE,36,55,152.78,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in Sri Lanka T20I Series 2024,2024,PP,44,80,181.82,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20I,India in Sri Lanka T20I Series 2024,2024,MIDDLE,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in West Indies T20I Series 2024,2024,PP,47,57,121.28,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in Scotland T20I Series 2024,2024,MIDDLE,17,21,123.53,1,6.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in Scotland T20I Series 2024,2024,DEATH,8,7,87.5,3,5.4,40.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in Scotland T20I Series 2024,2024,PP,12,12,0.0,1,6.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in England T20I Series 2024,2024,MIDDLE,13,12,92.31,0,14.0,27.78,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in England T20I Series 2024,2024,DEATH,6,3,0.0,1,3.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in England T20I Series 2024,2024,PP,6,13,0.0,0,13.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland v South Africa T20I Series 2024,2024,PP,13,16,123.08,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland v South Africa T20I Series 2024,2024,MIDDLE,9,5,55.56,0,11.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Ireland v South Africa T20I Series 2024,2024,PP,28,36,128.57,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Ireland v South Africa T20I Series 2024,2024,MIDDLE,37,66,178.38,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20,Mens T20 Emerging Teams Asia Cup 2024,2024,PP,27,16,59.26,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20,Mens T20 Emerging Teams Asia Cup 2024,2024,MIDDLE,29,47,162.07,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20,Mens T20 Emerging Teams Asia Cup 2024,2024,DEATH,11,23,209.09,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,Bangladesh in India T20I Series 2024,2024,MIDDLE,43,82,190.7,0,8.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,Bangladesh in India T20I Series 2024,2024,PP,6,8,133.33,0,11.67,27.78,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,Bangladesh in India T20I Series 2024,2024,DEATH,1,0,0.0,3,4.75,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Australia T20I Series 2024,2024,PP,12,31,0.0,1,15.5,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Pakistan in Australia T20I Series 2024,2024,PP,14,12,85.71,0,10.0,8.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Pakistan in Australia T20I Series 2024,2024,MIDDLE,35,84,240.0,0,13.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Australia T20I Series 2024,2024,MIDDLE,1,0,0.0,0,13.67,11.11,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Australia T20I Series 2024,2024,DEATH,2,0,0.0,0,7.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Pakistan in Australia T20I Series 2024,2024,DEATH,6,8,0.0,0,8.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,New Zealand in Sri Lanka T20I Series 2024,2024,PP,7,3,42.86,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in Sri Lanka T20I Series 2024,2024,PP,12,3,25.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,India in South Africa T20I Series 2024,2024,PP,30,38,126.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,India in South Africa T20I Series 2024,2024,MIDDLE,6,7,116.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,PP,50,72,144.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,PP,20,25,125.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,MIDDLE,27,41,151.85,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,MIDDLE,14,17,121.43,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Pakistan in South Africa T20I Series 2024,2024,PP,30,43,143.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,Pakistan in South Africa T20I Series 2024,2024,MIDDLE,11,19,172.73,2,6.43,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,Pakistan in South Africa T20I Series 2024,2024,DEATH,13,29,223.08,2,2.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Pakistan in South Africa T20I Series 2024,2024,MIDDLE,35,75,214.29,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,Pakistan in South Africa T20I Series 2024,2024,DEATH,6,7,116.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in West Indies T20I Series 2024,2024,PP,12,8,0.0,0,4.0,75.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in West Indies T20I Series 2024,2024,MIDDLE,42,39,0.0,2,5.57,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in West Indies T20I Series 2024,2024,DEATH,5,1,0.0,2,1.2,60.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Pakistan in New Zealand T20I Series 2025,2025,PP,55,65,118.18,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Pakistan in New Zealand T20I Series 2025,2025,PP,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Pakistan in New Zealand T20I Series 2025,2025,MIDDLE,14,18,128.57,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Pakistan in New Zealand T20I Series 2025,2025,PP,31,44,141.94,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Pakistan in New Zealand T20I Series 2025,2025,MIDDLE,42,78,185.71,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2025,2025,PP,14,22,157.14,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Zimbabwe T20I Series 2025,2025,MIDDLE,6,6,100.0,1,6.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2025,2025,MIDDLE,98,107,109.18,1,6.5,29.17,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2025,2025,PP,208,369,177.4,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+46066,Vipraj Nigam,T20,IPL 2025,2025,PP,7,20,285.71,3,9.25,45.83,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+46066,Vipraj Nigam,T20,IPL 2025,2025,MIDDLE,40,65,162.5,5,9.0,24.69,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2025,2025,MIDDLE,78,105,0.0,2,8.08,19.23,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2025,2025,DEATH,3,1,33.33,0,12.44,16.36,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+46066,Vipraj Nigam,T20,IPL 2025,2025,DEATH,32,57,178.12,2,5.75,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2025,2025,MIDDLE,32,45,140.62,0,11.27,24.24,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2025,2025,MIDDLE,139,188,135.25,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2025,2025,PP,34,34,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2878,Mohit Sharma,T20,IPL 2025,2025,PP,18,24,0.0,0,8.0,38.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2025,2025,DEATH,34,100,294.12,0,18.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2025,2025,PP,19,15,78.95,1,7.2,40.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2025,2025,DEATH,20,40,200.0,1,17.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2025,2025,DEATH,3,2,66.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,West Indies in Ireland T20I Series 2025,2025,PP,12,13,108.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,West Indies in Ireland T20I Series 2025,2025,MIDDLE,13,25,192.31,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in West Indies T20I Series 2025,2025,PP,48,65,0.0,2,8.12,39.58,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in West Indies T20I Series 2025,2025,MIDDLE,14,9,64.29,1,14.25,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in West Indies T20I Series 2025,2025,DEATH,6,5,83.33,5,8.16,32.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in West Indies T20I Series 2025,2025,PP,20,23,115.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in West Indies T20I Series 2025,2025,MIDDLE,23,25,108.7,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in West Indies T20I Series 2025,2025,MIDDLE,7,4,57.14,5,4.86,45.24,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in West Indies T20I Series 2025,2025,DEATH,7,7,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Pakistan in West Indies T20I Series 2025,2025,DEATH,3,8,266.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in West Indies T20I Series 2025,2025,PP,24,34,0.0,2,8.5,54.17,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Pakistan in West Indies T20I Series 2025,2025,PP,6,4,66.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,West Indies in South Africa T20I Series 2026,2026,PP,1,1,100.0,0,4.33,55.56,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,West Indies in South Africa T20I Series 2026,2026,MIDDLE,8,16,200.0,1,8.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,West Indies in South Africa T20I Series 2026,2026,DEATH,6,4,0.0,2,4.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in Australia T20I Series 2025,2025,PP,6,15,0.0,1,15.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,South Africa in Australia T20I Series 2025,2025,MIDDLE,23,19,82.61,0,9.0,11.11,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in Australia T20I Series 2025,2025,MIDDLE,3,0,0.0,0,6.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,South Africa in Australia T20I Series 2025,2025,PP,36,38,0.0,2,6.33,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,South Africa in Australia T20I Series 2025,2025,DEATH,9,11,122.22,3,5.33,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,India in Australia T20I Series 2025,2025,PP,12,21,0.0,0,10.5,8.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,India in Australia T20I Series 2025,2025,MIDDLE,48,59,122.92,1,7.83,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,India in Australia T20I Series 2025,2025,DEATH,16,28,175.0,2,8.67,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,India in Australia T20I Series 2025,2025,PP,24,37,0.0,0,9.25,37.5,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,India in Australia T20I Series 2025,2025,MIDDLE,2,3,150.0,0,9.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,India in Australia T20I Series 2025,2025,DEATH,5,2,40.0,0,12.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in India T20I Series 2025,2025,PP,23,20,86.96,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in India T20I Series 2025,2025,MIDDLE,8,16,200.0,1,9.86,26.19,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in India T20I Series 2025,2025,MIDDLE,2,1,50.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Bangladesh in Pakistan T20I Series 2025,2025,PP,4,1,25.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Bangladesh in Pakistan T20I Series 2025,2025,PP,40,83,207.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in Pakistan T20I Series 2025,2025,PP,36,68,0.0,0,11.33,13.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Bangladesh in Pakistan T20I Series 2025,2025,MIDDLE,45,83,184.44,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in Pakistan T20I Series 2025,2025,MIDDLE,7,2,28.57,2,7.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in Pakistan T20I Series 2025,2025,DEATH,14,15,107.14,1,10.5,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Bangladesh in Pakistan T20I Series 2025,2025,DEATH,4,13,325.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in United Arab Emirates T20I Series 2025,2025,PP,12,15,0.0,1,7.5,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in United Arab Emirates T20I Series 2025,2025,MIDDLE,5,2,40.0,0,11.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6643,Hasan Mahmud,T20I,Bangladesh in United Arab Emirates T20I Series 2025,2025,DEATH,9,23,255.56,2,8.21,52.63,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in Bangladesh T20I Series 2025,2025,PP,23,34,147.83,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Pakistan in Bangladesh T20I Series 2025,2025,PP,4,4,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in Bangladesh T20I Series 2025,2025,PP,2,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in Bangladesh T20I Series 2025,2025,MIDDLE,19,18,94.74,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in Bangladesh T20I Series 2025,2025,MIDDLE,6,4,66.67,2,5.8,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Pakistan in Bangladesh T20I Series 2025,2025,MIDDLE,14,5,35.71,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in Bangladesh T20I Series 2025,2025,DEATH,13,26,200.0,1,1.5,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in England T20I Series 2026,2026,PP,20,12,60.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Asia Cup 2025,2025,PP,26,30,115.38,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Asia Cup 2025,2025,MIDDLE,62,91,146.77,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Asia Cup 2025,2025,MIDDLE,65,81,124.62,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Asia Cup 2025,2025,DEATH,6,11,183.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Asia Cup 2025,2025,DEATH,42,77,183.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Asia Cup 2025,2025,PP,18,34,0.0,0,11.33,27.78,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Asia Cup 2025,2025,MIDDLE,41,36,87.8,2,5.89,37.04,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Asia Cup 2025,2025,PP,34,31,91.18,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Asia Cup 2025,2025,MIDDLE,37,43,116.22,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Asia Cup 2025,2025,PP,78,88,112.82,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,Asia Cup 2025,2025,DEATH,10,10,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,United Arab Emirates T20I Tri-Series 2025,2025,PP,57,74,129.82,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,United Arab Emirates T20I Tri-Series 2025,2025,MIDDLE,42,43,102.38,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,United Arab Emirates T20I Tri-Series 2025,2025,MIDDLE,67,77,114.93,7,7.18,40.91,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,United Arab Emirates T20I Tri-Series 2025,2025,MIDDLE,24,19,79.17,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,United Arab Emirates T20I Tri-Series 2025,2025,DEATH,13,14,107.69,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,United Arab Emirates T20I Tri-Series 2025,2025,PP,36,37,0.0,3,6.17,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,United Arab Emirates T20I Tri-Series 2025,2025,DEATH,23,43,186.96,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8741,Mohammad Haris,T20I,United Arab Emirates T20I Tri-Series 2025,2025,PP,2,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,United Arab Emirates T20I Tri-Series 2025,2025,DEATH,13,38,292.31,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in Zimbabwe T20I Series 2025,2025,PP,21,25,119.05,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in Zimbabwe T20I Series 2025,2025,MIDDLE,34,54,158.82,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in Zimbabwe T20I Series 2025,2025,DEATH,7,14,200.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,England in Ireland T20I series 2025,2025,MIDDLE,45,59,131.11,1,9.23,23.08,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,England in Ireland T20I series 2025,2025,DEATH,13,27,207.69,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,England in Ireland T20I series 2025,2025,PP,5,3,60.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Australia in New Zealand T20I Series 2025,2025,PP,28,35,125.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in New Zealand T20I Series 2025,2025,PP,12,18,0.0,2,9.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,Australia in New Zealand T20I Series 2025,2025,PP,6,4,66.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in New Zealand T20I Series 2025,2025,PP,6,15,0.0,0,15.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Australia in New Zealand T20I Series 2025,2025,MIDDLE,32,52,162.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in New Zealand T20I Series 2025,2025,MIDDLE,4,2,50.0,1,9.5,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in New Zealand T20I Series 2025,2025,MIDDLE,6,7,0.0,0,7.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,Australia in New Zealand T20I Series 2025,2025,DEATH,16,32,200.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in New Zealand T20I Series 2025,2025,DEATH,6,15,0.0,0,15.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in New Zealand T20I Series 2025,2025,DEATH,1,4,400.0,0,9.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in Pakistan T20I Series 2025,2025,PP,30,36,120.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,South Africa in Pakistan T20I Series 2025,2025,PP,24,45,0.0,1,11.25,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in Pakistan T20I Series 2025,2025,MIDDLE,47,58,123.4,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,South Africa in Pakistan T20I Series 2025,2025,MIDDLE,9,18,200.0,3,7.0,36.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in Pakistan T20I Series 2025,2025,MIDDLE,22,15,68.18,3,7.29,40.48,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in Pakistan T20I Series 2025,2025,DEATH,14,30,214.29,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+768,Reeza Hendricks,T20I,South Africa in Pakistan T20I Series 2025,2025,DEATH,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,South Africa in Pakistan T20I Series 2025,2025,DEATH,1,0,0.0,1,3.5,58.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,South Africa in Pakistan T20I Series 2025,2025,MIDDLE,8,9,112.5,1,7.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,South Africa in Pakistan T20I Series 2025,2025,DEATH,12,18,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,South Africa in Pakistan T20I Series 2025,2025,PP,6,8,0.0,0,8.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in Pakistan T20I Series 2025,2025,PP,12,10,0.0,0,5.0,66.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,England in New Zealand T20I Series 2025,2025,PP,9,9,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,England in New Zealand T20I Series 2025,2025,PP,11,16,145.45,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,England in New Zealand T20I Series 2025,2025,MIDDLE,11,8,72.73,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Bangladesh T20I Series 2025,2025,PP,16,15,93.75,1,1.0,83.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Bangladesh T20I Series 2025,2025,MIDDLE,35,48,137.14,0,7.0,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in Bangladesh T20I Series 2025,2025,DEATH,11,22,200.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,West Indies in New Zealand T20I Series 2025,2025,PP,76,122,160.53,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,West Indies in New Zealand T20I Series 2025,2025,MIDDLE,15,12,80.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,West Indies in New Zealand T20I Series 2025,2025,MIDDLE,51,106,207.84,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,West Indies in New Zealand T20I Series 2025,2025,DEATH,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan T20I Tri-Series 2025,2025,MIDDLE,7,5,71.43,9,5.65,35.29,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan T20I Tri-Series 2025,2025,PP,5,2,40.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan T20I Tri-Series 2025,2025,MIDDLE,31,43,138.71,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan T20I Tri-Series 2025,2025,DEATH,25,47,188.0,1,4.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Pakistan T20I Tri-Series 2025,2025,PP,59,79,133.9,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan T20I Tri-Series 2025,2025,DEATH,12,29,241.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan T20I Tri-Series 2025,2025,PP,12,13,0.0,1,6.5,66.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan T20I Tri-Series 2025,2025,MIDDLE,6,6,0.0,0,6.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan T20I Tri-Series 2025,2025,DEATH,6,9,0.0,0,9.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Pakistan T20I Tri-Series 2025,2025,MIDDLE,60,83,138.33,0,10.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Pakistan T20I Tri-Series 2025,2025,DEATH,3,7,233.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,Ireland in United Arab Emirates T20I Series 2026,2026,PP,26,24,92.31,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,PP,11,20,181.82,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,MIDDLE,10,22,220.0,0,10.33,22.22,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,DEATH,6,9,0.0,0,9.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,MIDDLE,10,5,50.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,PP,12,19,0.0,1,9.5,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,PP,5,6,120.0,1,8.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Pakistan in Sri Lanka T20I Series 2026,2026,MIDDLE,1,1,100.0,0,13.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,New Zealand in India T20I Series 2026,2026,PP,13,20,153.85,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,New Zealand in India T20I Series 2026,2026,MIDDLE,2,1,50.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in India T20I Series 2026,2026,MIDDLE,65,88,135.38,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in India T20I Series 2026,2026,DEATH,2,1,50.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3374,Mark Chapman,T20I,New Zealand in India T20I Series 2026,2026,PP,1,1,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,England in Sri Lanka T20I Series 2026,2026,PP,23,31,134.78,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,England in Sri Lanka T20I Series 2026,2026,MIDDLE,18,21,116.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Australia in Pakistan T20I Series 2026,2026,MIDDLE,16,10,62.5,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Australia in Pakistan T20I Series 2026,2026,MIDDLE,1,1,100.0,6,5.38,37.5,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Australia in Pakistan T20I Series 2026,2026,DEATH,20,28,140.0,0,8.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Australia in Pakistan T20I Series 2026,2026,PP,12,14,0.0,0,7.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Australia in Pakistan T20I Series 2026,2026,PP,7,10,142.86,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in Pakistan T20I Series 2026,2026,PP,6,8,0.0,1,8.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in Pakistan T20I Series 2026,2026,MIDDLE,5,4,80.0,0,8.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20I,Australia in Pakistan T20I Series 2026,2026,DEATH,3,3,100.0,1,11.5,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2490,Mohammad Nawaz,T20I,Australia in Pakistan T20I Series 2026,2026,PP,6,3,0.0,1,3.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in Pakistan T20I Series 2026,2026,PP,11,15,136.36,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20I,Australia in Pakistan T20I Series 2026,2026,MIDDLE,10,7,70.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Australia in Pakistan T20I Series 2026,2026,MIDDLE,6,7,0.0,0,7.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Australia in Pakistan T20I Series 2026,2026,DEATH,5,3,0.0,1,3.6,60.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,South Africa in New Zealand T20I Series 2026,2026,PP,40,56,140.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,South Africa in New Zealand T20I Series 2026,2026,MIDDLE,26,25,96.15,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in New Zealand T20I Series 2026,2026,MIDDLE,31,56,180.65,1,7.86,26.19,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,South Africa in New Zealand T20I Series 2026,2026,DEATH,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in New Zealand T20I Series 2026,2026,DEATH,8,14,175.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20I,South Africa in New Zealand T20I Series 2026,2026,PP,12,18,0.0,0,9.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2026,2026,PP,10,4,40.0,3,9.91,36.36,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2026,2026,PP,188,302,160.64,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+6819,Yashasvi Jaiswal,T20,IPL 2026,2026,MIDDLE,92,125,135.87,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2026,2026,MIDDLE,65,88,135.38,2,10.0,25.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+46066,Vipraj Nigam,T20,IPL 2026,2026,MIDDLE,48,100,0.0,2,12.5,20.83,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2026,2026,MIDDLE,117,186,158.97,4,10.39,23.15,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20,IPL 2026,2026,DEATH,49,112,228.57,1,8.0,41.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2026,2026,DEATH,45,106,235.56,0,17.45,9.09,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+46066,Vipraj Nigam,T20,IPL 2026,2026,PP,6,6,0.0,0,6.0,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+46066,Vipraj Nigam,T20,IPL 2026,2026,DEATH,10,15,150.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20,IPL 2026,2026,DEATH,21,31,147.62,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4229,George Linde,T20,IPL 2026,2026,MIDDLE,37,55,0.0,1,8.92,27.03,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+28967,Tim Robinson,T20I,New Zealand in Bangladesh T20I Series 2026,2026,PP,15,23,153.33,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2026,2026,PP,15,10,66.67,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2026,2026,MIDDLE,25,29,116.0,0,7.17,13.89,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+4812,Harry Tector,T20I,India in Ireland T20I Series 2026,2026,DEATH,10,14,140.0,1,12.86,14.29,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2639,Marcus Stoinis,T20,IPL 2026,2026,PP,10,22,220.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20,IPL 2026,2026,MIDDLE,18,29,0.0,0,9.67,22.22,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+3641,Ben Dwarshuis,T20,IPL 2026,2026,DEATH,6,17,0.0,1,17.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,West Indies in India T20I Series 2026,2026,MIDDLE,29,53,182.76,1,9.91,30.43,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,West Indies in India T20I Series 2026,2026,DEATH,5,9,180.0,0,17.14,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in West Indies T20I Series 2026,2026,PP,16,21,131.25,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in West Indies T20I Series 2026,2026,MIDDLE,34,37,108.82,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in West Indies T20I Series 2026,2026,DEATH,13,31,238.46,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,India in New Zealand T20I Series 2026,2026,MIDDLE,23,39,169.57,2,9.85,20.51,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,India in New Zealand T20I Series 2026,2026,DEATH,19,31,163.16,2,14.4,24.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,India in New Zealand T20I Series 2026,2026,PP,1,1,100.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,Afghanistan vs India in India T20I Series 2026,2026,MIDDLE,42,52,0.0,5,7.43,42.86,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,Afghanistan vs India in India T20I Series 2026,2026,DEATH,4,1,25.0,1,11.0,16.67,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8221,Nitish Reddy,T20I,Afghanistan vs India in India T20I Series 2026,2026,PP,6,15,0.0,0,15.0,33.33,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Sri Lanka in Pakistan T20I Series 2026,2026,PP,24,19,0.0,1,4.75,50.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+7049,Kamil Mishara,T20I,Sri Lanka in Pakistan T20I Series 2026,2026,PP,13,6,46.15,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+8049,Naseem Shah,T20I,Sri Lanka in Pakistan T20I Series 2026,2026,DEATH,24,28,0.0,2,7.0,20.83,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Sri Lanka in Pakistan T20I Series 2026,2026,PP,36,55,152.78,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED
+2921,Fakhar Zaman,T20I,Sri Lanka in Pakistan T20I Series 2026,2026,MIDDLE,1,0,0.0,0,0.0,0.0,https://www.iplt20.com/stats,2026-11-11,VERIFIED

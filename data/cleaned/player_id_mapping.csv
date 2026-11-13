@@ -1,0 +1,1218 @@
+player_id,original_name,canonical_name,verification_status,conflict_flag,related_player_ids,evidence_notes
+8,Mahendra Singh Dhoni,MS Dhoni,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+23,Piyush Chawla,Piyush Chawla,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+28,Ishant Sharma,Ishant Sharma,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+35,Nathan Bracken,Nathan Bracken,Verified,False,,Verified across official match logs in IPL 2022.
+47,Virat Kohli,Virat Kohli,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Australia in India T20I Series 2022, IPL 2022."
+88,Faf du Plessis,Faf du Plessis,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+109,Wriddhiman Saha,Wriddhiman Saha,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+126,Rohit Sharma,Rohit Sharma,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Australia in India T20I Series 2022, IPL 2022."
+142,Shikhar Dhawan,Shikhar Dhawan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+143,Dinesh Karthik,Dinesh Karthik,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+147,Pradeep Sangwan,Pradeep Sangwan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+152,Ravindra Jadeja,Ravindra Jadeja,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+158,Amit Mishra,Amit Mishra,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+161,Dwayne Bravo,Dwayne Bravo,Verified,False,,Verified across official match logs in IPL 2022.
+167,Ajinkya Rahane,Ajinkya Rahane,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+169,Robin Uthappa,Robin Uthappa,Verified,False,,Verified across official match logs in IPL 2022.
+198,Manish Pandey,Manish Pandey,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+220,David Warner,David Warner,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2023, Australia in New Zealand T20I Series 2024, Australia in Sri Lanka T20I Series 2022."
+223,Steven Smith,Steven Smith,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in India T20I Series 2022, Australia in India T20I Series 2023."
+224,Moises Henriques,Moises Henriques,Verified,False,,Verified across official match logs in Sri Lanka in Australia T20I Series 2022.
+232,Tom Cooper,Tom Cooper,Verified,False,,Verified across official match logs in New Zealand in Netherlands T20I Series 2022.
+250,Aaron Finch,Aaron Finch,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, Australia in Sri Lanka T20I Series 2022, England in Australia T20I Series 2022."
+274,Martin Guptill,Martin Guptill,Verified,False,,"Verified across official match logs in New Zealand T20I Tri Series 2022/23, New Zealand in Ireland T20I Series 2022, New Zealand in Netherlands T20I Series 2022."
+278,Tim Southee,Tim Southee,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, IPL 2022."
+286,Kane Richardson,Kane Richardson,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, Australia in India T20I Series 2023, Australia in Sri Lanka T20I Series 2022."
+295,Wayne Parnell,Wayne Parnell,Verified,False,,"Verified across official match logs in IPL 2023, South Africa in England T20I Series 2022, South Africa in India T20I Series 2022."
+305,Ravichandran Ashwin,Ravichandran Ashwin,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+332,Angelo Mathews,Angelo Mathews,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Sri Lanka in Bangladesh T20I Series 2024, Zimbabwe in Sri Lanka T20I Series 2024."
+344,Sheldon Jackson,Sheldon Jackson,Verified,False,,Verified across official match logs in IPL 2022.
+360,Bhuvneshwar Kumar,Bhuvneshwar Kumar,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+393,Kedar Jadhav,Kedar Jadhav,Verified,False,,Verified across official match logs in IPL 2023.
+395,Karn Sharma,Karn Sharma,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+403,Umesh Yadav,Umesh Yadav,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+418,Richard Berrington,Richard Berrington,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+443,Paul Stirling,Paul Stirling,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+456,Pieter Seelaar,Pieter Seelaar,Verified,False,,Verified across official match logs in New Zealand in Netherlands T20I Series 2022.
+470,Mohammad Amir,Mohammad Amir,Verified,False,,"Verified across official match logs in New Zealand in Pakistan T20I Series 2024, Pakistan in England T20I Series 2024, Pakistan in Ireland T20I series 2024."
+478,Eoin Morgan,Eoin Morgan,Verified,False,,Verified across official match logs in England in West Indies T20I Series 2022.
+479,Adil Rashid,Adil Rashid,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023."
+492,Andre Fletcher,Andre Fletcher,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2024, South Africa in West Indies T20I Series [May 2024] 2024, West Indies in Sri Lanka T20I Series 2024."
+494,Kieron Pollard,Kieron Pollard,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, IPL 2022, West Indies in India T20I Series 2022."
+499,Shakib Al Hasan,Shakib Al Hasan,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Bangladesh in United Arab Emirates T20I Series 2022, Bangladesh in West Indies T20I Series 2022."
+505,Mushfiqur Rahim,Mushfiqur Rahim,Verified,False,,Verified across official match logs in Mens Twenty20 Asia Cup 2022.
+507,Mohammad Mahmudullah,Mohammad Mahmudullah,Verified,False,,"Verified across official match logs in Bangladesh in India T20I Series 2024, Bangladesh in West Indies T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022."
+535,Ambati Rayudu,Ambati Rayudu,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+722,Liam Dawson,Liam Dawson,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, England in New Zealand T20I Series 2025, England in Pakistan T20I Series 2022."
+728,Dawid Malan,Dawid Malan,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023, England in Pakistan T20I Series 2022."
+741,Garry Park,Garry Park,Verified,False,,Verified across official match logs in England in Bangladesh T20I Series 2023.
+757,Sybrand Engelbrecht,Sybrand Engelbrecht,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series 2024.
+768,Reeza Hendricks,Reeza Hendricks,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, India in South Africa T20I Series 2023, India in South Africa T20I Series 2024."
+772,Rilee Rossouw,Rilee Rossouw,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, South Africa in England T20I Series 2022."
+773,Shadley Van Schalkwyk,Shadley van Schalkwyk,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+778,Darren Bravo,Darren Bravo,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, West Indies in India T20I Series 2022."
+781,Sunil Narine,Sunil Narine,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+786,Chris Jordan,Chris Jordan,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023, England in West Indies T20I Series 2022."
+796,Matthew Wade,Matthew Wade,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, Australia in India T20I Series 2023, Australia in New Zealand T20I Series 2024."
+813,Jos Buttler,Jos Buttler,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023."
+818,Mitchell Marsh,Mitchell Marsh,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in New Zealand T20I Series 2024."
+820,Nathan Coulter Nile,Nathan Coulter-Nile,Verified,False,,Verified across official match logs in IPL 2022.
+829,Mitchell Starc,Mitchell Starc,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in New Zealand T20I Series 2024, Australia in Sri Lanka T20I Series 2022."
+830,Josh Hazlewood,Josh Hazlewood,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in India T20I Series 2022, Australia in New Zealand T20I Series 2024."
+838,Glenn Maxwell,Glenn Maxwell,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in India T20I Series 2022, Australia in India T20I Series 2023."
+914,Krishnappa Gowtham,Krishnappa Gowtham,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+930,Karun Nair,Karun Nair,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2025."
+953,Lokesh Rahul,Lokesh Rahul,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+985,Brendan Taylor,Brendan Taylor,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2025, Bangladesh in Zimbabwe T20I Series 2022."
+988,Graeme Cremer,Graeme Cremer,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2025, Pakistan T20I Tri-Series 2025."
+992,Mayank Agarwal,Mayank Agarwal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+1028,Varun Aaron,Varun Aaron,Verified,False,,Verified across official match logs in IPL 2022.
+1039,Mandeep Singh,Mandeep Singh,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+1040,Harpreet Bhatia,Harpreet Bhatia,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, United Arab Emirates in Nepal T20I Series 2026."
+1045,David Wiese,David Wiese,Verified,False,,Verified across official match logs in IPL 2023.
+1071,Jaydev Unadkat,Jaydev Unadkat,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+1077,David Miller,David Miller,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+1100,Dinesh Chandimal,Dinesh Chandimal,Verified,False,,"Verified across official match logs in Bangladesh in Sri Lanka T20I Series 2025, India in Sri Lanka T20I Series 2024, Mens Twenty20 Asia Cup 2022."
+1101,George Dockrell,George Dockrell,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+1102,Noor Ali Zadran,Noor Ali Zadran,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+1104,Mohammad Shahzad,Mohammad Shahzad,Verified,False,,Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023.
+1107,Mohammad Nabi,Mohammad Nabi,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+1109,Samiullah Shinwari,Samiullah Shinwari,Verified,False,,Verified across official match logs in Mens Twenty20 Asia Cup 2022.
+1116,Craig Ervine,Craig Ervine,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Bangladesh in Zimbabwe T20I Series 2022."
+1159,Tendai Chatara,Tendai Chatara,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, India in Zimbabwe T20I Series 2024."
+1171,Chris Woakes,Chris Woakes,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023, England in Pakistan T20I Series 2022."
+1183,Alex Hales,Alex Hales,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Pakistan T20I Series 2022, IPL 2022."
+1187,Jason Roy,Jason Roy,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, IPL 2022, IPL 2023."
+1195,Ben Stokes,Ben Stokes,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, IPL 2023."
+1205,Jonny Bairstow,Jonny Bairstow,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+1210,James Vince,James Vince,Verified,False,,Verified across official match logs in England in West Indies T20I Series 2022.
+1219,David Willey,David Willey,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Pakistan T20I Series 2022, IPL 2022."
+1233,Gary Ballance,Gary Ballance,Verified,False,,Verified across official match logs in Ireland in Zimbabwe T20I Series 2023.
+1318,Andre Russell,Andre Russell,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2023, England in West Indies T20I Series 2024."
+1327,Johnson Charles,Johnson Charles,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Bangladesh in West Indies T20I Series 2024, England in West Indies T20I Series 2023."
+1389,Sean Abbott,Sean Abbott,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in India T20I Series 2022, Australia in India T20I Series 2023."
+1440,Rahul Tripathi,Rahul Tripathi,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+1481,Kusal Perera,Kusal Perera,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Bangladesh in Sri Lanka T20I Series 2025."
+1487,Adam Milne,Adam Milne,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, IPL 2022."
+1541,Sean Williams,Sean Williams,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Bangladesh in Zimbabwe T20I Series 2022."
+1556,David Payne,David Payne,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, IPL 2026."
+1566,Mohammed Shami,Mohammed Shami,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, England in India T20I Series 2025, IPL 2022."
+1568,Kane Williamson,Kane Williamson,Verified,False,,"Verified across official match logs in Bangladesh in New Zealand T20I Series 2023, IPL 2022, IPL 2023."
+1596,Moeen Ali,Moeen Ali,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023, England in Pakistan T20I Series 2022."
+1600,Benny Howell,Benny Howell,Verified,False,,Verified across official match logs in IPL 2022.
+1612,Yuzvendra Chahal,Yuzvendra Chahal,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+1617,Rishi Dhawan,Rishi Dhawan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+1649,Regis Chakabva,Regis Chakabva,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, Ireland in Zimbabwe T20I Series 2023."
+1699,Suryakumar Yadav,Suryakumar Yadav,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in India T20I Series 2022, Australia in India T20I Series 2023."
+1701,Swapnil Singh,Swapnil Singh,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+1758,Patrick Cummins,Patrick Cummins,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, Australia in New Zealand T20I Series 2024, England in Australia T20I Series 2022."
+1772,Sheldon Cottrell,Sheldon Cottrell,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, West Indies in Australia T20I Series 2022, West Indies in India T20I Series 2022."
+1791,Wesley Barresi,Wesley Barresi,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024."
+1801,Nitish Kumar,Nitish Kumar,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+1810,Devon Thomas,Devon Thomas,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, India in West Indies T20I Series 2022, New Zealand in West Indies T20I Series 2022."
+1813,Deepak Chahar,Deepak Chahar,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, Australia in India T20I Series 2023, IPL 2022."
+1829,Shahbaz Nadeem,Shahbaz Nadeem,Verified,False,,Verified across official match logs in IPL 2022.
+1924,Sam Billings,Sam Billings,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, IPL 2022."
+1941,Devon Conway,Devon Conway,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, England in New Zealand T20I Series 2025."
+1944,Keshav Maharaj,Keshav Maharaj,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2024, IPL 2026."
+2001,Yashodha Lanka,Yashodha Lanka,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+2003,Bhanuka Rajapaksa,Bhanuka Rajapaksa,Verified,False,,"Verified across official match logs in Australia in Sri Lanka T20I Series 2022, IPL 2022, IPL 2023."
+2054,Jason Behrendorff,Jason Behrendorff,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2023, Australia in South Africa T20I Series 2023, IPL 2022."
+2101,Quinton de Kock,Quinton de Kock,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+2210,Sabbir Rahman,Sabbir Rahman,Verified,False,,"Verified across official match logs in Bangladesh in United Arab Emirates T20I Series 2022, Mens Twenty20 Asia Cup 2022, New Zealand T20I Tri Series 2022/23."
+2213,Soumya Sarkar,Soumya Sarkar,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+2214,Gulbadin Naib,Gulbadin Naib,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan in Sri Lanka T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2024."
+2218,Anamul Haque,Anamul Haque,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, Mens Twenty20 Asia Cup 2022."
+2246,Tom Latham,Tom Latham,Verified,False,,"Verified across official match logs in Bangladesh in New Zealand T20I Series 2023, New Zealand in Bangladesh T20I Series 2026, New Zealand in Pakistan T20I Series 2023."
+2249,Taijul Islam,Taijul Islam,Verified,False,,Verified across official match logs in Sri Lanka in Bangladesh T20I Series 2024.
+2258,Sanju Samson,Sanju Samson,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Asia Cup 2025."
+2261,Harshal Patel,Harshal Patel,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+2293,Junaid Siddiqui,Junaid Siddiqui,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+2296,Safyaan Sharif,Safyaan Sharif,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+2299,Gurkeerat Singh Mann,Gurkeerat Mann,Verified,False,,Verified across official match logs in IPL 2022.
+2304,Tymal Mills,Tymal Mills,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, England in West Indies T20I Series 2023, IPL 2022."
+2315,Reece Topley,Reece Topley,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023."
+2320,Trent Boult,Trent Boult,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, IPL 2022, IPL 2023."
+2321,Olly Stone,Olly Stone,Verified,False,,Verified across official match logs in England in Pakistan T20I Series 2022.
+2334,Dwaine Pretorius,Dwaine Pretorius,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, South Africa in India T20I Series 2022."
+2343,Beuran Hendricks,Beuran Hendricks,Verified,False,,Verified across official match logs in India in South Africa T20I Series 2023.
+2351,Danushka Gunathilaka,Danushka Gunathilaka,Verified,False,,"Verified across official match logs in Australia in Sri Lanka T20I Series 2022, Mens Twenty20 Asia Cup 2022, Sri Lanka in Australia T20I Series 2022."
+2359,Prenelan Subrayen,Prenelan Subrayen,Verified,False,,"Verified across official match logs in South Africa in Australia T20I Series 2025, South Africa in New Zealand T20I Series 2026."
+2361,Temba Bavuma,Temba Bavuma,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, South Africa in Australia T20I Series 2025, South Africa in India T20I Series 2022."
+2364,Ashton Agar,Ashton Agar,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, Australia in Sri Lanka T20I Series 2022, England in Australia T20I Series 2022."
+2367,Travis Head,Travis Head,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2023."
+2373,Ashton Turner,Ashton Turner,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2024."
+2379,Ben Duckett,Ben Duckett,Verified,False,,"Verified across official match logs in England in Bangladesh T20I Series 2023, England in India T20I Series 2025, England in Pakistan T20I Series 2022."
+2382,Jamie Overton,Jamie Overton,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in India T20I Series 2025, England in Ireland T20I series 2025."
+2386,Niroshan Dickwella,Niroshan Dickwella,Verified,False,,Verified across official match logs in Sri Lanka in Bangladesh T20I Series 2024.
+2399,Dushmantha Chameera,Dushmantha Chameera,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+2407,Dhananjaya de Silva,Dhananjaya de Silva,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, England in Sri Lanka T20I Series 2026, Mens Twenty20 Asia Cup 2022."
+2410,Akshdeep Nath,Akshdeep Nath,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+2411,Sandeep Sharma,Sandeep Sharma,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+2412,Smit Patel,Smit Patel,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+2416,Kyle Mayers,Kyle Mayers,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, England in West Indies T20I Series 2022, England in West Indies T20I Series 2023."
+2417,Akeal Hosein,Akeal Hosein,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2022, Bangladesh in West Indies T20I Series 2024."
+2418,Justin Greaves,Justin Greaves,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Bangladesh in West Indies T20I Series 2024."
+2436,Dasun Shanaka,Dasun Shanaka,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+2439,Akila Dananjaya,Akila Dananjaya,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Sri Lanka in Bangladesh T20I Series 2024, Zimbabwe in Sri Lanka T20I Series 2024."
+2442,Lahiru Madushanka,Lahiru Madushanka,Verified,False,,Verified across official match logs in Australia in Sri Lanka T20I Series 2022.
+2463,Ryan Burl,Ryan Burl,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+2467,NP Mayavo,NP Mayavo,Verified,False,,Verified across official match logs in Ireland in Zimbabwe T20I Series 2025.
+2483,Lizaad Williams,Lizaad Williams,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2024, IPL 2025."
+2485,Babar Azam,Babar Azam,Verified,False,,"Verified across official match logs in Australia in Pakistan T20I Series 2026, England in Pakistan T20I Series 2022, Mens Twenty20 Asia Cup 2022."
+2490,Mohammad Nawaz,Mohammad Nawaz,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Asia Cup 2025, Australia in Pakistan T20I Series 2026."
+2523,Will Young,Will Young,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, New Zealand in England T20I Series 2023."
+2526,Ish Sodhi,Ish Sodhi,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023."
+2531,Joe Root,Joe Root,Verified,False,,Verified across official match logs in IPL 2023.
+2533,Najibullah Zadran,Najibullah Zadran,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+2534,Rahmat Shah,Rahmat Shah,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan v Bangladesh T20I Series 2025, Afghanistan v Ireland T20I Series 2024."
+2573,Evin Lewis,Evin Lewis,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2024."
+2633,Jason Holder,Jason Holder,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2022, England in West Indies T20I Series 2023."
+2636,Adam Zampa,Adam Zampa,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2022."
+2639,Marcus Stoinis,Marcus Stoinis,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in India T20I Series 2023, Australia in New Zealand T20I Series 2025."
+2650,Raymon Reifer,Raymon Reifer,Verified,False,,"Verified across official match logs in West Indies in Australia T20I Series 2022, West Indies in South Africa T20I Series 2023."
+2661,Shamarh Brooks,Shamarh Brooks,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, India in West Indies T20I Series 2022, New Zealand in West Indies T20I Series 2022."
+2671,Liton Das,Liton Das,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+2680,Nurul Hasan,Nurul Hasan,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+2681,Taskin Ahmed,Taskin Ahmed,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+2687,Roston Chase,Roston Chase,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2024, England in West Indies T20I Series 2022."
+2750,Alex Carey,Alex Carey,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in New Zealand T20I Series 2025, South Africa in Australia T20I Series 2025."
+2756,Shashank Singh,Shashank Singh,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2024, IPL 2025."
+2781,Ravikumar Samarth,Ravikumar Samarth,Verified,False,,Verified across official match logs in IPL 2022.
+2790,Praveen Dubey,Praveen Dubey,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+2847,Shardul Thakur,Shardul Thakur,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+2852,Jagadeesha Suchith,Jagadeesha Suchith,Verified,False,,Verified across official match logs in IPL 2022.
+2860,KS Bharat,KS Bharat,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+2862,Sachin Baby,Sachin Baby,Verified,False,,Verified across official match logs in IPL 2025.
+2863,Sandeep Warrier,Sandeep Warrier,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+2869,Ankit Rajpoot,Ankit Rajpoot,Verified,False,,Verified across official match logs in IPL 2022.
+2872,Siddarth Kaul,Siddarth Kaul,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+2876,Axar Patel,Axar Patel,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Asia Cup 2025."
+2877,Vijay Shankar,Vijay Shankar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+2878,Mohit Sharma,Mohit Sharma,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+2884,Manan Vohra,Manan Vohra,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+2887,Harmeet Singh,Harmeet Singh,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+2892,Asif Ali,Asif Ali,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, Mens Twenty20 Asia Cup 2022, New Zealand T20I Tri Series 2022/23."
+2921,Fakhar Zaman,Fakhar Zaman,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Pakistan T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+2930,Rassie van der Dussen,Rassie van der Dussen,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2022, Pakistan in South Africa T20I Series 2024."
+2933,Jasprit Bumrah,Jasprit Bumrah,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Asia Cup 2025, Australia in India T20I Series 2022."
+2972,Yasim Murtaza,Yasim Murtaza,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+2983,Richmond Mutumbami,Richmond Mutumbami,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022."
+2984,Sikandar Raza,Sikandar Raza,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+2985,Mark Wood,Mark Wood,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023, England in India T20I Series 2025."
+2996,Stephanus Myburgh,Stephanus Myburgh,Verified,False,,Verified across official match logs in New Zealand in Netherlands T20I Series 2022.
+2997,Paul van Meekeren,Paul van Meekeren,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+3024,Mohammad Rizwan,Mohammad Rizwan,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, Mens Twenty20 Asia Cup 2022, New Zealand T20I Tri Series 2022/23."
+3033,Usman Qadir,Usman Qadir,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, Mens Twenty20 Asia Cup 2022, New Zealand T20I Tri Series 2022/23."
+3038,Hussain Talat,Hussain Talat,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025, Pakistan in Bangladesh T20I Series 2025."
+3040,Kashif Daud,Kashif Daud,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+3056,Iftikhar Ahmed,Iftikhar Ahmed,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, England in Pakistan T20I Series 2022, Mens Twenty20 Asia Cup 2022."
+3077,Usama Mir,Usama Mir,Verified,False,,"Verified across official match logs in New Zealand in Pakistan T20I Series 2024, Pakistan in England T20I Series 2024, Pakistan in New Zealand T20I series 2024."
+3083,Mohammad Ali,Mohammad Ali,Possible alias,True,20229,Pakistan in NZ series 2024 squad list. Zero balls recorded under ID 3083. Probable duplicate internal feed ID for ID 20229.
+3091,Sahibzada Farhan,Sahibzada Farhan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Pakistan T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+3097,Shan Masood,Shan Masood,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, England in Pakistan T20I Series 2022, New Zealand T20I Tri Series 2022/23."
+3125,Nicholas Pooran,Nicholas Pooran,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, Bangladesh in West Indies T20I Series 2024, England in West Indies T20I Series 2022."
+3135,Yannic Cariah,Yannic Cariah,Verified,False,,"Verified across official match logs in West Indies in Australia T20I Series 2022, West Indies in South Africa T20I Series 2023."
+3144,Thomas Curran,Thomas Curran,Verified,False,,Verified across official match logs in IPL 2024.
+3174,Matt Henry,Matt Henry,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, England in New Zealand T20I Series 2025."
+3238,Milind Kumar,Milind Kumar,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+3253,Rohan Mustafa,Rohan Mustafa,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+3255,Ahmed Raza 1,Ahmed Raza,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+3260,Hashmatullah Shahidi,Hashmatullah Shahidi,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, Mens Twenty20 Asia Cup 2022."
+3272,Fabian Allen,Fabian Allen,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2022, England in West Indies T20I Series 2024, IPL 2022."
+3275,Alzarri Joseph,Alzarri Joseph,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2022, Bangladesh in West Indies T20I Series 2024."
+3276,Gudakesh Motie,Gudakesh Motie,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2024."
+3280,Nazmul Hossain Shanto,Najmul Hossain Shanto,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+3281,Mosaddek Hossain,Mosaddek Hossain,Verified,False,,"Verified across official match logs in Bangladesh in United Arab Emirates T20I Series 2022, Bangladesh in West Indies T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022."
+3282,Mehidy Hasan Miraz,Mehidy Hasan Miraz,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+3285,Abu Haider,Abu Haider,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+3297,Shimron Hetmyer,Shimron Hetmyer,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2023."
+3298,Jofra Archer,Jofra Archer,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Bangladesh T20I Series 2023, England in India T20I Series 2025."
+3299,Andrew Tye,Andrew Tye,Verified,False,,Verified across official match logs in IPL 2022.
+3304,Munim Shahriar,Munim Shahriar,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022."
+3306,Afsar Zazai,Afsar Zazai,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2022, Afghanistan v Pakistan T20I Series 2023."
+3320,Jayant Yadav,Jayant Yadav,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+3323,Jimmy Neesham,Jimmy Neesham,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023, England in New Zealand T20I Series 2025."
+3330,Hardik Pandya,Hardik Pandya,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in India T20I Series 2022, Bangladesh in India T20I Series 2024."
+3337,Jeremy Gordon,Jeremy Gordon,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+3361,Michael Leask,Michael Leask,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+3371,Jamie Atkinson,Jamie Atkinson,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+3373,Aizaz Khan,Aizaz Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+3374,Mark Chapman,Mark Chapman,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023."
+3377,Babar Hayat,Babar Hayat,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+3382,Nizakat Khan,Nizakat Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+3383,Kinchit Shah,Kinchit Shah,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+3415,Matthew Cross,Matthew Cross,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+3445,Khalid Kail,Khalid Kail,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+3451,Baba Indrajith,Baba Indrajith,Verified,False,,Verified across official match logs in IPL 2022.
+3462,Writtick Chatterjee,Writtick Chatterjee,Verified,False,,Verified across official match logs in IPL 2022.
+3469,Shreyas Gopal,Shreyas Gopal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2024, IPL 2025."
+3479,Chama Milind,Chama Milind,Verified,False,,Verified across official match logs in IPL 2022.
+3489,Salman Agha,Salman Agha,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Pakistan T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+3539,Ben McDermott,Ben McDermott,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2023, India in Australia T20I Series 2025, Sri Lanka in Australia T20I Series 2022."
+3543,Shahidullah Kamal,Shahidullah Kamal,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2025, Afghanistan v Ireland T20I Series 2024, Afghanistan v Sri Lanka T20I Series 2026."
+3544,Usman Ghani,Usman Ghani,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2022, Afghanistan v Pakistan T20I Series 2023."
+3545,Ihsanullah Janat,Ihsanullah Janat,Verified,False,,Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022.
+3546,Nasir Jamal,Nasir Jamal,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+3550,Sharafuddin Ashraf,Sharafuddin Ashraf,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022, Afghanistan in Sri Lanka T20I Series 2024."
+3562,Zia-ur-Rehman Akbar,Zia-ur-Rehman Akbar,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+3563,Zahir Khan,Zahir Khan,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+3578,Imad Wasim,Imad Wasim,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, New Zealand in Pakistan T20I Series 2023, New Zealand in Pakistan T20I Series 2024."
+3595,Andy McBrine,Andy McBrine,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, India in Ireland T20I Series 2022."
+3605,Aiden Markram,Aiden Markram,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2022, IPL 2023."
+3613,Shakeel Ahmed,Shakeel Ahmed,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+3622,Hayden Walsh,Hayden Walsh,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, England in West Indies T20I Series 2022, England in West Indies T20I Series 2024."
+3623,Hasan Ali,Hasan Ali,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025, Mens Twenty20 Asia Cup 2022."
+3627,Andile Phehlukwayo,Andile Phehlukwayo,Verified,False,,"Verified across official match logs in India in South Africa T20I Series 2023, South Africa in England T20I Series 2022, South Africa in India T20I Series 2022/23."
+3628,Kagiso Rabada,Kagiso Rabada,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+3629,Corbin Bosch,Corbin Bosch,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2025, IPL 2026."
+3635,Jason Smith,Jason Smith,Verified,False,,"Verified across official match logs in Ireland v South Africa T20I Series 2024, South Africa in New Zealand T20I Series 2026, South Africa in West Indies T20I Series 2024."
+3637,Dayyaan Galiem,Dayyaan Galiem,Verified,False,,Verified across official match logs in Pakistan in South Africa T20I Series 2024.
+3639,Brandon King,Brandon King,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2022."
+3641,Ben Dwarshuis,Ben Dwarshuis,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2023, Australia in New Zealand T20I Series 2025, Australia in Pakistan T20I Series 2026."
+3644,Kuldeep Yadav,Kuldeep Yadav,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Asia Cup 2025, IPL 2022."
+3645,Sarfaraz Khan,Sarfaraz Khan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2026."
+3647,Shreyas Iyer,Shreyas Iyer,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Australia in India T20I Series 2023, IPL 2022."
+3648,Deepak Hooda,Deepak Hooda,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+3651,Ricky Bhui,Ricky Bhui,Verified,False,,Verified across official match logs in IPL 2024.
+3653,Avesh Khan,Avesh Khan,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Australia in India T20I Series 2023, IPL 2022."
+3660,Luke Wood,Luke Wood,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, England in New Zealand T20I Series 2025, England in Pakistan T20I Series 2022."
+3664,Binura Fernando,Binura Fernando,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Bangladesh in Sri Lanka T20I Series 2025."
+3669,Sadeera Samarawickrama,Sadeera Samarawickrama,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Sri Lanka in Bangladesh T20I Series 2024, Sri Lanka in India T20I Series 2023."
+3672,Kusal Mendis,Kusal Mendis,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+3673,Ramesh Mendis,Ramesh Mendis,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Australia in Sri Lanka T20I Series 2022, India in Sri Lanka T20I Series 2024."
+3683,Gavin Main,Gavin Main,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series 2024.
+3686,CB Sole,CB Sole,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+3689,Mark Watt,Mark Watt,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+3697,Kyle Jamieson,Kyle Jamieson,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023, England in New Zealand T20I Series 2025."
+3700,Tim Seifert,Tim Seifert,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023."
+3720,Craig Young,Craig Young,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+3727,Matthew Short,Matthew Short,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in India T20I Series 2023, Australia in New Zealand T20I Series 2024."
+3771,Vivian Kingma,Vivian Kingma,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, New Zealand in Netherlands T20I Series 2022."
+3772,Logan van Beek,Logan van Beek,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, New Zealand in Netherlands T20I Series 2022."
+3775,Sompal Kami,Sompal Kami,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+3782,M Shahrukh Khan,Shahrukh Khan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+3802,Anshuman Rath,Anshuman Rath,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+3831,Arjun Mutreja,Arjun Mutreja,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+3832,Rezza Gaznavi,Rezza Gaznavi,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+3835,Anish Param,Anish Param,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+3839,Amjad Mahboob,Amjad Mahboob,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+3849,Ali Zaheer,Ali Zaheer,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+3856,Zeeshan Maqsood,Zeeshan Maqsood,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+3858,Jatinder Singh,Jatinder Singh,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+3871,Aamir Kaleem,Aamir Kaleem,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+3876,Sufyan Mehmood,Sufyan Mehmood,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+3882,Steven Taylor,Steven Taylor,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+3916,Jitesh Sharma,Jitesh Sharma,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Asia Cup 2025, Asia Cup Rising Stars 2025."
+3926,Rahul Tewatia,Rahul Tewatia,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+3954,Andrew Balbirnie,Andrew Balbirnie,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, India in Ireland T20I Series 2022."
+3955,Tom Helm,Tom Helm,Verified,False,,Verified across official match logs in England in Pakistan T20I Series 2022.
+3967,Tom Kohler,Tom Kohler,Verified,False,,Verified across official match logs in IPL 2024.
+3986,Matthew Renshaw,Matthew Renshaw,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in Pakistan T20I Series 2026."
+3995,Donald Tiripano,Donald Tiripano,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022."
+4007,Ryan Rickelton,Ryan Rickelton,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026, India in South Africa T20I Series 2024."
+4077,KL Shrijith,KL Shrijith,Verified,False,,Verified across official match logs in IPL 2025.
+4080,KC Cariappa,KC Cariappa,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+4101,Mitchell Santner,Mitchell Santner,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, England in New Zealand T20I Series 2025."
+4102,George Munsey,George Munsey,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+4106,Daryl Mitchell,Daryl Mitchell,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023, England in New Zealand T20I Series 2025."
+4111,Khushdil Shah,Khushdil Shah,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025, England in Pakistan T20I Series 2022."
+4117,Ishan Kishan,Ishan Kishan,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Australia in India T20I Series 2023, IPL 2022."
+4201,Fareed Malik,Fareed Malik,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+4211,Vishnu Vinod,Vishnu Vinod,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4219,Krunal Pandya,Krunal Pandya,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4221,Chris Green,Chris Green,Verified,False,,Verified across official match logs in Australia in India T20I Series 2023.
+4227,Marnus Labuschagne,Marnus Labuschagne,Verified,False,,Verified across official match logs in Australia in England T20I Series 2024.
+4229,George Linde,George Linde,Verified,False,,"Verified across official match logs in IPL 2026, Pakistan in South Africa T20I Series 2024, South Africa in Australia T20I Series 2025."
+4235,Sisanda Magala,Sisanda Magala,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2023, West Indies in South Africa T20I Series 2023."
+4237,Tabraiz Shamsi,Tabraiz Shamsi,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, India in South Africa T20I Series 2023, Pakistan in South Africa T20I Series 2024."
+4246,Nitish Rana,Nitish Rana,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4248,Pargat Singh,Pargat Singh,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+4250,Baltej Singh,Baltej Singh,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+4251,Peter Moor,Peter Moor,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+4260,Heinrich Klaasen,Heinrich Klaasen,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+4265,T Natarajan,T Natarajan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4276,Basil Thampi,Basil Thampi,Verified,False,,Verified across official match logs in IPL 2022.
+4288,Navdeep Saini,Navdeep Saini,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4325,Ashwin Hebbar,Ashwin Hebbar,Verified,False,,Verified across official match logs in IPL 2022.
+4369,Shai Hope,Shai Hope,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2022, England in West Indies T20I Series 2023."
+4372,Rony Talukder,Rony Talukder,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Bangladesh in New Zealand T20I Series 2023, England in Bangladesh T20I Series 2023."
+4373,Mustafizur Rahman,Mustafizur Rahman,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+4391,Liam Livingstone,Liam Livingstone,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Australia T20I Series 2022, England in India T20I Series 2025."
+4409,Sam Curran,Sam Curran,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023."
+4412,Max ODowd,Max ODowd,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+4417,Karan KC,Karan KC,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+4438,Jasdeep Singh,Jasdeep Singh,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+4450,Mehran Khan,Mehran Khan,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+4458,AHT Donald,Aneurin Donald,Verified,False,,Verified across official match logs in Sri Lanka in England T20I Series 2026.
+4460,Jeffrey Vandersay,Jeffrey Vandersay,Verified,False,,"Verified across official match logs in Bangladesh in Sri Lanka T20I Series 2025, Mens Twenty20 Asia Cup 2022, New Zealand in Sri Lanka T20I Series 2024."
+4486,BR Sharath,BR Sharath,Verified,False,,Verified across official match logs in IPL 2024.
+4487,Vyshak Kumar,Vyshak Kumar,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+4489,Prasidh Krishna,Prasidh Krishna,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in India T20I Series 2023, IPL 2022."
+4494,Abhinav Manohar,Abhinav Manohar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4499,Saqib Mahmood,Saqib Mahmood,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in India T20I Series 2025, England in Ireland T20I series 2025."
+4505,Jhye Richardson,Jhye Richardson,Verified,False,,"Verified across official match logs in Australia in Sri Lanka T20I Series 2022, IPL 2023, IPL 2024."
+4588,Navneet Dhaliwal,Navneet Dhaliwal,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+4604,Mitchell Swepson,Mitchell Swepson,Verified,False,,"Verified across official match logs in Australia in Sri Lanka T20I Series 2022, England in Australia T20I Series 2022."
+4636,Bjorn Fortuin,Bjorn Fortuin,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, Ireland v South Africa T20I Series 2024, South Africa in England T20I Series 2025."
+4639,Wellington Masakadza,Wellington Masakadza,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+4641,Lungi Ngidi,Lungi Ngidi,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2022, IPL 2023."
+4658,Nasum Ahmed,Nasum Ahmed,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+4662,Cole McConchie,Cole McConchie,Verified,False,,"Verified across official match logs in New Zealand in England T20I Series 2023, New Zealand in Pakistan T20I Series 2023, New Zealand in Pakistan T20I Series 2024."
+4663,Henry Nicholls,Henry Nicholls,Verified,False,,"Verified across official match logs in Bangladesh in New Zealand T20I Series 2023, New Zealand in Sri Lanka T20I Series 2024."
+4665,Tom Blundell,Tom Blundell,Verified,False,,"Verified across official match logs in Bangladesh in New Zealand T20I Series 2023, New Zealand in Pakistan T20I Series 2024."
+4684,Dane Cleaver,Dane Cleaver,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, New Zealand in England T20I Series 2023, New Zealand in India T20I Series 2023."
+4686,Joshua Clarkson,Joshua Clarkson,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, India in New Zealand T20I Series 2026."
+4692,Lockie Ferguson,Lockie Ferguson,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, IPL 2022, IPL 2023."
+4695,Nick Kelly,Nick Kelly,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, South Africa in New Zealand T20I Series 2026."
+4703,Rishabh Pant,Rishabh Pant,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, IPL 2022, IPL 2023."
+4708,Rinku Singh,Rinku Singh,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Asia Cup 2025, Australia in India T20I Series 2023."
+4716,Mayank Dagar,Mayank Dagar,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+4722,Rashid Khan,Rashid Khan,Verified,False,20172 (Nepal player),Afghanistan national team & Gujarat Titans (IPL 2022-2026). Elite leg-spin all-rounder.
+4730,Ali Khan,Ali Khan,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+4736,Josh Inglis,Josh Inglis,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2022."
+4755,Shivam Dube,Shivam Dube,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Asia Cup 2025."
+4773,Jaker Ali Anik,Jaker Ali,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+4779,Pieter Willem Mulder,Wiaan Mulder,Verified,False,,"Verified across official match logs in IPL 2025, Ireland v South Africa T20I Series 2024, South Africa in Australia T20I Series 2025."
+4780,Mohammad Saif Hassan,Saif Hassan,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+4784,Tony de Zorzi,Tony de Zorzi,Verified,False,,"Verified across official match logs in South Africa in Australia T20I Series 2025, South Africa in India T20I Series 2025, South Africa in New Zealand T20I Series 2026."
+4790,Lutho Sipamla,Lutho Sipamla,Verified,False,,"Verified across official match logs in India in South Africa T20I Series 2024, South Africa in India T20I Series 2025, South Africa in New Zealand T20I Series 2026."
+4793,Dean Foxcroft,Dean Foxcroft,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, New Zealand in England T20I Series 2023, New Zealand in Pakistan T20I Series 2024."
+4802,Stephen Doheny,Stephen Doheny,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, India in Ireland T20I Series 2022, India in Ireland T20I Series 2026."
+4807,Joshua Little,Joshua Little,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, IPL 2023."
+4812,Harry Tector,Harry Tector,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+4814,Lorcan Tucker,Lorcan Tucker,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+4815,Benjamin White,Benjamin White,Verified,False,,"Verified across official match logs in Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025, India in Ireland T20I Series 2023."
+4816,Khaleel Ahmed,Khaleel Ahmed,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4817,Anmolpreet Singh,Anmolpreet Singh,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4821,Mahipal Lomror,Mahipal Lomror,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+4823,Washington Sundar,Washington Sundar,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Asia Cup 2025."
+4824,Zeeshan Ansari,Zeeshan Ansari,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+4826,George Garton,George Garton,Verified,False,,Verified across official match logs in England in West Indies T20I Series 2022.
+4830,Keacy Carty,Keacy Carty,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2024."
+4833,Jyd Goolie,Jyd Goolie,Verified,False,,Verified across official match logs in West Indies in Ireland T20I Series 2025.
+4837,Obed McCoy,Obed McCoy,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, Bangladesh in West Indies T20I Series 2024, England in West Indies T20I Series 2024."
+4838,Keemo Paul,Keemo Paul,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, India in West Indies T20I Series 2022, New Zealand in West Indies T20I Series 2022."
+4840,Odean Smith,Odean Smith,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, England in West Indies T20I Series 2022, IPL 2022."
+4842,Shamar Springer,Shamar Springer,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, England in West Indies T20I Series 2024, Nepal v West Indies T20I Series 2025."
+4847,Finn Allen,Finn Allen,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, IPL 2022."
+4853,Glenn Phillips,Glenn Phillips,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Bangladesh in New Zealand T20I Series 2023, IPL 2022."
+4854,Rachin Ravindra,Rachin Ravindra,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023."
+4856,Benjamin Sears,Benjamin Sears,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023."
+4857,Nathan Smith,Nathan Smith,Verified,False,,"Verified across official match logs in India in New Zealand T20I Series 2026, New Zealand in Bangladesh T20I Series 2026, New Zealand in Sri Lanka T20I Series 2024."
+4867,Wesley Madhevere,Wesley Madhevere,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan v Zimbabwe T20I Series 2026."
+4870,Kundai Matigimu,Kundai Matigimu,Verified,False,,Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026.
+4871,Brandon Mavuta,Brandon Mavuta,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Bangladesh in Zimbabwe T20I Series 2022."
+4874,Richard Ngarava,Richard Ngarava,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+4876,Milton Shumba,Milton Shumba,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2026."
+4880,Aarif Sheikh,Aarif Sheikh,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+4881,Dipendra Airee,Dipendra Airee,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+4882,Kushal Bhurtel,Kushal Bhurtel,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+4887,Sandeep Lamichhane,Sandeep Lamichhane,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+4895,Charith Asalanka,Charith Asalanka,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+4900,Wanindu Hasaranga,Wanindu Hasaranga,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+4901,Asitha Fernando,Asitha Fernando,Verified,False,,"Verified across official match logs in India in Sri Lanka T20I Series 2024, Mens Twenty20 Asia Cup 2022, New Zealand in Sri Lanka T20I Series 2024."
+4902,Avishka Fernando,Avishka Fernando,Verified,False,,"Verified across official match logs in Bangladesh in Sri Lanka T20I Series 2025, India in Sri Lanka T20I Series 2024, New Zealand in Sri Lanka T20I Series 2024."
+4903,Lahiru Kumara,Lahiru Kumara,Verified,False,,"Verified across official match logs in Sri Lanka in Australia T20I Series 2022, Sri Lanka in India T20I Series 2023, Sri Lanka in New Zealand T20I Series 2023."
+4904,Kamindu Mendis,Kamindu Mendis,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Bangladesh in Sri Lanka T20I Series 2025."
+4926,Shadab Khan,Shadab Khan,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Australia in Pakistan T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+4947,Kasun Rajitha,Kasun Rajitha,Verified,False,,"Verified across official match logs in Australia in Sri Lanka T20I Series 2022, Mens Twenty20 Asia Cup 2022, Sri Lanka in India T20I Series 2023."
+4970,Adil Mehmood,Adil Mehmood,Verified,False,,Verified across official match logs in Asia Cup 2025.
+4974,Mohammad Nadeem,Mohammad Nadeem,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+4983,Sikander Zulfiqar,Sikander Zulfiqar,Verified,False,,Verified across official match logs in Netherlands in Bangladesh T20I Series 2025.
+4986,Rovman Powell,Rovman Powell,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2022, Bangladesh in West Indies T20I Series 2024."
+5029,Prerak Mankad,Prerak Mankad,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+5034,Murugan Ashwin,Murugan Ashwin,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+5039,Rajat Patidar,Rajat Patidar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+5041,Mukesh Kumar,Mukesh Kumar,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Australia in India T20I Series 2023, IPL 2023."
+5071,Akash Vasisht,Akash Vasisht,Verified,False,,Verified across official match logs in IPL 2023.
+5189,Faheem Ashraf,Faheem Ashraf,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Asia Cup 2025, Australia in Pakistan T20I Series 2026."
+5231,Oshane Thomas,Oshane Thomas,Verified,False,,"Verified across official match logs in England in West Indies T20I Series 2023, India in West Indies T20I Series 2023, West Indies in Australia T20I Series 2024."
+5379,Mark Adair,Mark Adair,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, India in Ireland T20I Series 2022."
+5441,Barry McCarthy,Barry McCarthy,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+5547,Nosthush Kenjige,Nosthush Kenjige,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+5553,Phil Salt,Phil Salt,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Australia T20I Series 2022, England in Bangladesh T20I Series 2023."
+5561,Brad Wheal,Brad Wheal,Verified,False,,Verified across official match logs in Australia in Scotland T20I Series 2024.
+5562,Richard Gleeson,Richard Gleeson,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, IPL 2024, IPL 2025."
+5566,Tom Abell,Tom Abell,Verified,False,,Verified across official match logs in England in Bangladesh T20I Series 2023.
+5577,Sai Kishore,Sai Kishore,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+5608,Narayan Jagadeesan,Narayan Jagadeesan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+5665,Sanjay Yadav,Sanjay Yadav,Verified,False,,Verified across official match logs in IPL 2022.
+5668,Hari Nishaanth,Hari Nishaanth,Verified,False,,Verified across official match logs in IPL 2022.
+5680,R Sonu Yadav,Sonu Yadav,Verified,False,,Verified across official match logs in IPL 2023.
+5738,Xavier Bartlett,Xavier Bartlett,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in New Zealand T20I Series 2025."
+5749,Shahid Wasif,Shahid Wasif,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup T20 Qualifiers 2022."
+5750,Ehsan Khan,Ehsan Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+5808,Karim Janat,Karim Janat,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+5809,Naveen ul Haq,Naveen-ul-Haq,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+5827,Wes Agar,Wes Agar,Verified,False,,Verified across official match logs in West Indies in Australia T20I Series 2024.
+5835,Carl Mumba,Carl Mumba,Verified,False,,"Verified across official match logs in Ireland in Zimbabwe T20I Series 2023/24, Zimbabwe in Sri Lanka T20I Series 2024."
+5837,Mahedi Hasan,Mahedi Hasan,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+5838,Shohidul Islam,Shohidul Islam,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022."
+5839,Yasir Ali Chowdhury,Yasir Ali Chowdhury,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Bangladesh in United Arab Emirates T20I Series 2022, Bangladesh in West Indies T20I Series 2022."
+5844,Ebadot Hossain,Ebadot Hossain,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Bangladesh in United Arab Emirates T20I Series 2022, Mens Twenty20 Asia Cup 2022."
+5866,Patrick Kruger,Patrick Kruger,Verified,False,,"Verified across official match logs in India in South Africa T20I Series 2024, Ireland v South Africa T20I Series 2024, Pakistan in South Africa T20I Series 2024."
+5872,Habibur Rahman,Habibur Rahman,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+5877,Andries Gous,Andries Gous,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+5882,Afif Hossain,Afif Hossain,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Bangladesh in New Zealand T20I Series 2023, Bangladesh in United Arab Emirates T20I Series 2022."
+5892,Blair Tickner,Blair Tickner,Verified,False,,"Verified across official match logs in India in New Zealand T20I Series 2022/23, India in New Zealand T20I Series 2026, New Zealand T20I Tri Series 2022/23."
+5928,Prithvi Shaw,Prithvi Shaw,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+5939,Cameron Green,Cameron Green,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2022."
+5940,Riley Meredith,Riley Meredith,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in Scotland T20I Series 2024."
+5944,Mohammed Siraj,Mohammed Siraj,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+5953,Lakshan Sandakan,Lakshan Sandakan,Verified,False,,Verified across official match logs in Australia in Sri Lanka T20I Series 2022.
+5977,Khary Pierre,Khary Pierre,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, West Indies in Bangladesh T20I Series 2025, West Indies in New Zealand T20I Series 2025."
+5979,Abrar Ahmed,Abrar Ahmed,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Pakistan T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+6025,Henry Shipley,Henry Shipley,Verified,False,,"Verified across official match logs in New Zealand in India T20I Series 2023, New Zealand in Pakistan T20I Series 2023, Sri Lanka in New Zealand T20I Series 2023."
+6034,Shane Snater,Shane Snater,Verified,False,,Verified across official match logs in New Zealand in Netherlands T20I Series 2022.
+6035,Chirag Suri,Chirag Suri,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+6036,Tejas Baroka,Tejas Baroka,Verified,False,,Verified across official match logs in IPL 2022.
+6038,Pratham Sing,Pratham Sing,Verified,False,,Verified across official match logs in IPL 2022.
+6048,Ishan Porel,Ishan Porel,Verified,False,,Verified across official match logs in IPL 2022.
+6059,Ruturaj Gaikwad,Ruturaj Gaikwad,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2023, IPL 2022, IPL 2023."
+6085,Dan Pascoe,Dan Pascoe,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+6097,Brydon Carse,Brydon Carse,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in India T20I Series 2025, England in New Zealand T20I Series 2025."
+6101,Devang Bulsara,Devang Bulsara,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+6160,Chamika Karunaratne,Chamika Karunaratne,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Sri Lanka T20I Series 2022, Bangladesh in Sri Lanka T20I Series 2025."
+6161,Rahul Chahar,Rahul Chahar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6162,Kulwant Khejroliya,Kulwant Khejroliya,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2025, IPL 2026."
+6166,Jack Edwards,Jack Edwards,Verified,False,,"Verified across official match logs in Australia in Pakistan T20I Series 2026, IPL 2026."
+6172,Lasith Croospulle,Lasith Croospulle,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024, Sri Lanka in New Zealand T20I Series 2023."
+6176,Ashen Bandara,Ashen Bandara,Verified,False,,"Verified across official match logs in Mens Twenty20 Asia Cup 2022, Sri Lanka in India T20I Series 2023."
+6179,Nipun Ransika,Nipun Ransika,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+6180,Praveen Jayawickrama,Praveen Jayawickrama,Verified,False,,"Verified across official match logs in Australia in Sri Lanka T20I Series 2022, Mens Twenty20 Asia Cup 2022, Sri Lanka in Australia T20I Series 2022."
+6188,Simi Singh,Simi Singh,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, South Africa vs Ireland T20I Series 2022."
+6196,Josh Tongue,Josh Tongue,Verified,False,,"Verified across official match logs in England in Sri Lanka T20I Series 2026, India in England T20I Series 2026, New Zealand in England T20I Series 2023."
+6199,Navin Param,Navin Param,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+6202,Anantha Krishna,Anantha Krishna,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+6203,Surendran Chandramohan,Surendran Chandramohan,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+6226,Fred Klaassen,Fred Klaassen,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands in Bangladesh T20I Series 2025, New Zealand in Netherlands T20I Series 2022."
+6237,Manimaran Siddharth,Manimaran Siddharth,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+6256,Varun Chakravarthy,Varun Chakravarthy,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+6263,Aaditya AVaradarajan,Aaditya AVaradarajan,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+6272,William Jacks,William Jacks,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Bangladesh T20I Series 2023, England in Ireland T20I series 2025."
+6273,Tom Banton,Tom Banton,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, England in New Zealand T20I Series 2025, England in Sri Lanka T20I Series 2026."
+6280,Harry Brook,Harry Brook,Verified,False,,"Verified across official match logs in England in Australia T20I Series 2022, England in India T20I Series 2025, England in New Zealand T20I Series 2025."
+6281,Abhishek Sharma,Abhishek Sharma,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+6284,Anukul Roy,Anukul Roy,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6285,Kamlesh Nagarkoti,Kamlesh Nagarkoti,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2025."
+6286,Shivam Mavi,Shivam Mavi,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6287,Yash Thakur,Yash Thakur,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Asia Cup Rising Stars 2025, IPL 2023."
+6288,Shubman Gill,Shubman Gill,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Asia Cup 2025, IPL 2022."
+6297,Matthew Parkinson,Matthew Parkinson,Verified,False,,Verified across official match logs in India in England T20I Series 2022.
+6314,Devdutt Padikkal,Devdutt Padikkal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6342,Matthew Breetzke,Matthew Breetzke,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2025, IPL 2026."
+6350,Matthew Kuhnemann,Matthew Kuhnemann,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in New Zealand T20I Series 2025, Australia in Pakistan T20I Series 2026."
+6351,Yarra Prithviraj,Yarra Prithviraj,Verified,False,,Verified across official match logs in IPL 2026.
+6354,Spencer Johnson,Spencer Johnson,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2023."
+6355,Shaheen Afridi,Shaheen Afridi,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Pakistan T20I Series 2026, Mens Twenty20 Asia Cup 2022."
+6356,Khaled Ahmed,Khaled Ahmed,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025."
+6359,Raghu Sharma,Raghu Sharma,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+6389,Tanvir Islam,Tanvir Islam,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in New Zealand T20I Series 2023, Bangladesh in Pakistan T20I Series 2025."
+6395,Josh Philippe,Josh Philippe,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in India T20I Series 2023, Australia in New Zealand T20I Series 2025."
+6396,Tim David,Tim David,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2022."
+6398,Aaron Hardie,Aaron Hardie,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2023."
+6402,Eathan Bosch,Eathan Bosch,Verified,False,,Verified across official match logs in South Africa in New Zealand T20I Series 2026.
+6408,Subhranshu Senapati,Subhranshu Senapati,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+6423,Riyan Parag,Riyan Parag,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in India T20I Series 2024, IPL 2022."
+6428,Upendra Yadav,Upendra Yadav,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+6432,Ikram Khil,Ikram Khil,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan v Ireland T20I Series 2024."
+6433,Darwish Rasooli,Darwish Rasooli,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024."
+6436,Qais Ahmad,Qais Ahmad,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan in Sri Lanka T20I Series 2024, Afghanistan v Ireland T20I Series 2024."
+6440,Omair Yousuf,Omair Yousuf,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, Pakistan in Australia T20I Series 2024, Pakistan in New Zealand T20I Series 2025."
+6441,Abdullah Shafique,Abdullah Shafique,Verified,False,,Verified across official match logs in Afghanistan v Pakistan T20I Series 2023.
+6443,Rohail Nazir,Rohail Nazir,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+6448,Ibrahim Zadran,Ibrahim Zadran,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+6449,Wafadar Momand,Wafadar Momand,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in Sri Lanka T20I Series 2024, Afghanistan v Ireland T20I Series 2024."
+6450,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+6457,Urvil Patel,Urvil Patel,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2025, IPL 2026."
+6460,Ayush Badoni,Ayush Badoni,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6461,Mayank Rawat,Mayank Rawat,Verified,False,,Verified across official match logs in IPL 2026.
+6464,Arshdeep Singh,Arshdeep Singh,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Asia Cup 2025."
+6466,Atharwa Taide,Atharwa Taide,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6467,Anuj Rawat,Anuj Rawat,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6473,Nuwanidu Fernando,Nuwanidu Fernando,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Australia in Sri Lanka T20I Series 2022."
+6483,Nishan Madushka,Nishan Madushka,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+6486,Tanush Kotian,Tanush Kotian,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2024."
+6487,Priyam Garg,Priyam Garg,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+6488,Harvik Desai,Harvik Desai,Verified,False,,Verified across official match logs in IPL 2024.
+6489,Darshan Nalkande,Darshan Nalkande,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6492,Aryan Juyal,Aryan Juyal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2025."
+6494,Manoj Bhandage,Manoj Bhandage,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+6497,Muhammad Usman,Muhammad Usman,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+6502,Mohammad Boota,Mohammad Boota,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+6503,Zahoor Khan,Zahoor Khan,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022, New Zealand in United Arab Emirates T20I Series 2023."
+6506,Mohammad Imran Randhawa,Mohammad Imran Randhawa,Verified,False,,Verified across official match logs in Sri Lanka in Pakistan T20I Series 2026.
+6512,Michael Bracewell,Michael Bracewell,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, England in New Zealand T20I Series 2025, IPL 2023."
+6514,Anil Nidamanuru,Anil Nidamanuru,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands in Bangladesh T20I Series 2025, New Zealand in Netherlands T20I Series 2022."
+6515,Benjamin Lister,Benjamin Lister,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, New Zealand in England T20I Series 2023, New Zealand in India T20I Series 2023."
+6518,Daniel Sams,Daniel Sams,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2022, England in Australia T20I Series 2022, IPL 2022."
+6523,Blessing Muzarabani,Blessing Muzarabani,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+6526,Himmat Singh,Himmat Singh,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+6565,Katene Clarke,Katene Clarke,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, South Africa in New Zealand T20I Series 2026."
+6566,Matthew John Fisher,Matthew John Fisher,Verified,False,,"Verified across official match logs in India in New Zealand T20I Series 2026, New Zealand in Bangladesh T20I Series 2026."
+6574,Alick Athanaze,Alick Athanaze,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Pakistan in West Indies T20I Series 2025, South Africa in West Indies T20I Series 2024."
+6591,KM Asif,KM Asif,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+6628,Gerald Coetzee,Gerald Coetzee,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2024, IPL 2025."
+6643,Hasan Mahmud,Hasan Mahmud,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Asia Cup 2025, Bangladesh in New Zealand T20I Series 2023."
+6644,Mahidul Ankon,Mahidul Ankon,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Ireland in Bangladesh T20I Series 2025."
+6645,Mohammad Sheikh,Mohammad Sheikh,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Sri Lanka T20I Series 2025, Mens T20 Emerging Teams Asia Cup 2024."
+6651,Towhid Hridoy,Towhid Hridoy,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+6654,Tanay Thyagarajan,Tanay Thyagarajan,Verified,False,,Verified across official match logs in IPL 2024.
+6664,Dion Myers,Dion Myers,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+6669,Mohsin Khan,Mohsin Khan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6671,Lalit Yadav,Lalit Yadav,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6674,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+6675,Bahir Mehboob,Bahir Mehboob,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+6676,Azmatullah Omarzai,Azmatullah Omarzai,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+6677,Mohammad Hasnain,Mohammad Hasnain,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, Mens Twenty20 Asia Cup 2022, New Zealand T20I Tri Series 2022/23."
+6683,Mayank Markande,Mayank Markande,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6697,Shams Mulani,Shams Mulani,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+6705,Scott McKechnie,Scott McKechnie,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+6712,Hamed Khan,Hamed Khan,Verified,False,,Verified across official match logs in Mens Twenty20 Asia Cup 2022.
+6725,Sherfane Rutherford,Sherfane Rutherford,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2023, England in West Indies T20I Series 2024."
+6726,Romario Shepherd,Romario Shepherd,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, Bangladesh in West Indies T20I Series 2022, Bangladesh in West Indies T20I Series 2024."
+6727,Zak Crawley,Zak Crawley,Verified,False,,Verified across official match logs in England in New Zealand T20I Series 2025.
+6739,Amir Jangoo,Amir Jangoo,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Nepal v West Indies T20I Series 2025, West Indies in Bangladesh T20I Series 2025."
+6764,Bukkapatnam Siddharth,Bukkapatnam Siddharth,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+6772,Chetan Sakariya,Chetan Sakariya,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6774,Samarth Vyas,Samarth Vyas,Verified,False,,Verified across official match logs in IPL 2023.
+6783,Azam Khan,Azam Khan,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, New Zealand in Pakistan T20I Series 2024, Pakistan in England T20I Series 2024."
+6784,Hassan Mohammad,Hassan Mohammad,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens Twenty20 Asia Cup 2022."
+6795,Terrance Hinds,Terrance Hinds,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2024, England in West Indies T20I Series 2024, West Indies in Sri Lanka T20I Series 2024."
+6797,Dominic Drakes,Dominic Drakes,Verified,False,,"Verified across official match logs in Bangladesh in West Indies T20I Series 2022, England in West Indies T20I Series 2022, IPL 2022."
+6806,Tushar Deshpande,Tushar Deshpande,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+6819,Yashasvi Jaiswal,Yashasvi Jaiswal,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Asia Cup 2025, Australia in India T20I Series 2023."
+6881,Scott Edwards,Scott Edwards,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+6900,Michael Jones,Michael Jones,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+6919,Tyrone Kane,Tyrone Kane,Verified,False,,Verified across official match logs in Ireland in Zimbabwe T20I Series 2023.
+6922,Abdul Samad,Abdul Samad,Verified,False,7446 (India/IPL player),Pakistan national team & Pakistan A in Mens T20 Emerging Teams Asia Cup 2024. Distinct Pakistani international.
+6926,Matty Potts,Matty Potts,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, England in West Indies T20I Series 2023, West Indies in England T20I Series 2025."
+6931,Pathum Nissanka,Pathum Nissanka,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+6932,Pramod Madushan,Pramod Madushan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, England in Sri Lanka T20I Series 2026, Mens T20 Emerging Teams Asia Cup 2024."
+6984,Saqib Zulfiqar,Saqib Zulfiqar,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+6985,Bas de Leede,Bas de Leede,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, New Zealand in Netherlands T20I Series 2022."
+6995,Saad Zafar,Saad Zafar,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7001,Dilon Heyliger,Dilon Heyliger,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7002,Nicholas Kirton,Nicholas Kirton,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7003,Rayyan Pathan,Rayyan Pathan,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7008,Gus Atkinson,Gus Atkinson,Verified,False,,"Verified across official match logs in England in India T20I Series 2025, England in West Indies T20I Series 2023, IPL 2024."
+7044,Jamie Smith,Jamie Smith,Verified,False,,"Verified across official match logs in England in India T20I Series 2025, South Africa in England T20I Series 2025, West Indies in England T20I Series 2025."
+7046,Tinashe Kamunhukamwe,Tinashe Kamunhukamwe,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, Ireland in Zimbabwe T20I Series 2023/24."
+7049,Kamil Mishara,Kamil Mishara,Verified,False,,"Verified across official match logs in Asia Cup 2025, England in Sri Lanka T20I Series 2026, Pakistan T20I Tri-Series 2025."
+7052,Dunith Wellalage,Dunith Wellalage,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Bangladesh in Sri Lanka T20I Series 2025."
+7059,Nehal Wadhera,Nehal Wadhera,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+7060,Arjun Tendulkar,Arjun Tendulkar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7094,Curtis Campher,Curtis Campher,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+7095,Gideon Peters,Gideon Peters,Verified,False,,Verified across official match logs in IPL 2026.
+7120,Rohit Paudel,Rohit Paudel,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+7134,Luvnith Sisodia,Luvnith Sisodia,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2025, IPL 2026."
+7140,Senuran Muthusamy,Senuran Muthusamy,Verified,False,,"Verified across official match logs in South Africa in Australia T20I Series 2025, South Africa in England T20I Series 2025."
+7152,Hazratullah Zazai,Hazratullah Zazai,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+7155,Sahan Arachchige,Sahan Arachchige,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024, Sri Lanka in Pakistan T20I Series 2026."
+7194,Rahul Bhatia,Rahul Bhatia,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+7195,Fahad Nawaz,Fahad Nawaz,Verified,False,,Verified across official match logs in Bangladesh in United Arab Emirates T20I Series 2022.
+7197,Jhatavedh Subramanyan,Jhatavedh Subramanyan,Verified,False,,Verified across official match logs in IPL 2024.
+7200,Aftab Hussain,Aftab Hussain,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+7201,Haroon Arshad,Haroon Arshad,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+7216,Prabhsimran Singh,Prabhsimran Singh,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7227,Nijat Masood,Nijat Masood,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in Zimbabwe T20I Series 2022, Afghanistan v Ireland T20I Series 2024."
+7240,FazalHaq Farooqi,FazalHaq Farooqi,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+7241,Ziaur Rahman,Ziaur Rahman,Verified,False,,"Verified across official match logs in Afghanistan v Sri Lanka T20I Series 2026, Afghanistan v West Indies T20I Series 2026."
+7250,Mukesh Choudhary,Mukesh Choudhary,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7260,Dhruv Jurel,Dhruv Jurel,Verified,False,,"Verified across official match logs in Asia Cup 2025, England in India T20I Series 2025, IPL 2022."
+7269,Sushant Mishra,Sushant Mishra,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2024, IPL 2026."
+7270,Anrich Nortje,Anrich Nortje,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7279,Atharva Ankolekar,Atharva Ankolekar,Verified,False,,Verified across official match logs in IPL 2026.
+7304,Sanvir Singh,Sanvir Singh,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+7312,Nandre Burger,Nandre Burger,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+7322,Yash Dayal,Yash Dayal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7325,Harpreet Brar,Harpreet Brar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7327,Rasikh Salam,Rasikh Salam,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2024, IPL 2025."
+7338,Haider Ali,Haider Ali,Verified,False,28756 (UAE player),Pakistan senior national team & Pakistan A (Emerging Teams Asia Cup 2024).
+7341,Jake McGurk,Jake McGurk,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, Australia in Scotland T20I Series 2024, Australia in West Indies T20I Series 2025."
+7344,Shoriful Islam,Shoriful Islam,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+7354,Al Alis,Al Alis,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, Sri Lanka in Bangladesh T20I Series 2024."
+7355,Tayyab Tahir,Tayyab Tahir,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Pakistan in South Africa T20I Series 2024, Pakistan in Zimbabwe T20I Series 2024."
+7364,Haris Rauf,Haris Rauf,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025, England in Pakistan T20I Series 2022."
+7403,Lalit Rajbanshi,Lalit Rajbanshi,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+7406,Rizwan CP,Rizwan CP,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+7409,Sundeep Jora,Sundeep Jora,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+7446,Abdul Samad,Abdul Samad,Verified,False,6922 (Pakistan player),"Sunrisers Hyderabad (IPL 2022-2024), Lucknow Super Giants (IPL 2025-2026). Indian domestic uncapped power batter."
+7456,James McCollum,James McCollum,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+7472,Shahbaz Ahmed,Shahbaz Ahmed,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7473,Akash Deep,Akash Deep,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7498,Abhijeet Tomar,Abhijeet Tomar,Verified,False,,Verified across official match logs in IPL 2022.
+7503,Ravi Bishnoi,Ravi Bishnoi,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Australia in India T20I Series 2023."
+7533,Simarjeet Singh,Simarjeet Singh,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7534,Sarthak Ranjan,Sarthak Ranjan,Verified,False,,Verified across official match logs in IPL 2026.
+7544,Venkatesh Iyer,Venkatesh Iyer,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7545,Kuldeep Sen,Kuldeep Sen,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7548,Shivalik Sharma,Shivalik Sharma,Verified,False,,Verified across official match logs in IPL 2024.
+7553,Ajay Mandal,Ajay Mandal,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+7566,Ben Curran,Ben Curran,Verified,False,,"Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026, Bangladesh in Zimbabwe T20I Series 2026, India in Zimbabwe T20I Series 2026."
+7574,Kumar Kartikeya Singh,Kumar Kartikeya,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+7575,Arpit Guleria,Arpit Guleria,Verified,False,,Verified across official match logs in IPL 2023.
+7625,Suryansh Shedge,Suryansh Shedge,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2025."
+7634,Aaron Jones,Aaron Jones,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7689,Dilshan Madushanka,Dilshan Madushanka,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, IPL 2024, IPL 2026."
+7690,Saim Ayub,Saim Ayub,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Asia Cup 2025, Australia in Pakistan T20I Series 2026."
+7692,Qasim Akram,Qasim Akram,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, Pakistan in Zimbabwe T20I Series 2024."
+7696,Mohammad Wasim,Mohammad Wasim,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Asia Cup 2025, Australia in Pakistan T20I Series 2026."
+7699,Abbas Afridi,Abbas Afridi,Verified,False,,"Verified across official match logs in Bangladesh in Pakistan T20I Series 2025, Mens T20 Emerging Teams Asia Cup 2024, New Zealand in Pakistan T20I Series 2024."
+7702,Chamindu Wickramasinghe,Chamindu Wickramasinghe,Verified,False,,"Verified across official match logs in India in Sri Lanka T20I Series 2024, New Zealand in Sri Lanka T20I Series 2024, Sri Lanka in New Zealand T20I Series 2024/25."
+7704,Pavan Rathnayake,Pavan Rathnayake,Verified,False,,"Verified across official match logs in England in Sri Lanka T20I Series 2026, Mens T20 Emerging Teams Asia Cup 2024, Pakistan T20I Tri-Series 2025."
+7708,Kavindu Nadeeshan,Kavindu Nadeeshan,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+7709,Ainsley Ndlovu,Ainsley Ndlovu,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, Zimbabwe in Bangladesh T20I Series 2024."
+7710,Brandon Glover,Brandon Glover,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, New Zealand in Netherlands T20I Series 2022."
+7741,Gareth Delany,Gareth Delany,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+7744,Jordan Cox,Jordan Cox,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in Ireland T20I series 2025, England in New Zealand T20I Series 2025."
+7755,Harsh Thaker,Harsh Thaker,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7756,Kaleem Sana,Kaleem Sana,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7761,Ravinderpal Singh,Ravinderpal Singh,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7808,Marco Jansen,Marco Jansen,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2022, IPL 2023."
+7894,Tony Munyonga,Tony Munyonga,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2025, Bangladesh in Zimbabwe T20I Series 2022."
+7896,Akash Singh,Akash Singh,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+7897,Namboori Tilak Varma,Tilak Varma,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Afghanistan vs India in India T20I Series 2026, Asia Cup 2025."
+7900,Tanzid Hasan,Tanzid Hasan,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+7901,Parvez Emon,Parvez Emon,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Australia in Bangladesh T20I Series 2026."
+7903,Shamim Hossain,Shamim Hossain,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+7904,Mohammad Chowdhury,Mohammad Chowdhury,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+7905,Tanzim Sakib,Tanzim Sakib,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+7906,Rakibul Hasan,Rakibul Hasan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Bangladesh in India T20I Series 2024, Mens T20 Emerging Teams Asia Cup 2024."
+7908,Mohammad Akbar Ali,Akbar Ali,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+7909,Philippe Boissevain,Philippe Boissevain,Verified,False,,Verified across official match logs in New Zealand in Netherlands T20I Series 2022.
+7910,Antonius Staal,Antonius Staal,Verified,False,,Verified across official match logs in New Zealand in Netherlands T20I Series 2022.
+7911,Oliver Hairs,Oliver Hairs,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+7912,Vikramjit Singh,Vikramjit Singh,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+7914,Clayton Floyd,Clayton Floyd,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, New Zealand in Netherlands T20I Series 2022."
+7915,Monank Patel,Monank Patel,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+7916,Karima Gore,Karima Gore,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+7920,Nathan Ellis,Nathan Ellis,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in India T20I Series 2022."
+7924,Kushal Malla,Kushal Malla,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+7925,Rohan Rangarajan,Rohan Rangarajan,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+7926,Manpreet Singh,Manpreet Singh,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+7927,Janak Prakash,Janak Prakash,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+7928,Vinoth Baskaran,Vinoth Baskaran,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+7929,Aryaman Sunil Uchil,Aryaman Sunil Uchil,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+7931,Aritra Dutta,Aritra Dutta,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+7935,Mohammad Ghazanfar,Mohammad Ghazanfar,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+7937,Wasim Ali,Wasim Ali,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+7938,Sandeep Goud 1,Sandeep Goud,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+7940,Aqib Ilyas,Aqib Ilyas,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+7942,Jay Odedara,Jay Odedara,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+7945,Nasrulla Rana,Nasrulla Rana,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+7966,Farmanullah Safi,Farmanullah Safi,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+7967,Noor Ahmad,Noor Ahmad,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in India T20I Series 2024, Afghanistan in Ireland T20I Series 2022."
+7978,Johnathan Campbell,Johnathan Campbell,Verified,False,,"Verified across official match logs in India in Zimbabwe T20I Series 2024, Ireland in Zimbabwe T20I Series 2025, Zimbabwe in Bangladesh T20I Series 2024."
+7981,Imran Mir,Imran Mir,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+8005,Zawar Farid,Zawar Farid,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8007,Waheed Ahmed,Waheed Ahmed,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8009,Junaid Siddique,Junaid Siddique,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8010,Darius D Silva,Darius D Silva,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8014,Avi Dixit,Avi Dixit,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+8015,Kaleemullah,Kaleemullah,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+8029,Sadiqullah Pacha,Sadiqullah Pacha,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+8032,Abdul Malik,Abdul Malik,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+8033,Abdul Rahmani,Abdul Rahmani,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+8040,Ripal Patel,Ripal Patel,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+8049,Naseem Shah,Naseem Shah,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Australia in Pakistan T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+8085,Suyash Prabhudessai,Suyash Prabhudessai,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+8093,Nikhil Chaudhary,Nikhil Chaudhary,Verified,False,,Verified across official match logs in Australia in Bangladesh T20I Series 2026.
+8101,Ashutosh Sharma,Ashutosh Sharma,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2024, IPL 2025."
+8140,Abid Mangnoo,Abid Mangnoo,Verified,False,,Verified across official match logs in IPL 2024.
+8141,Auqib Nabi,Auqib Nabi,Verified,False,,Verified across official match logs in IPL 2026.
+8177,Akash Madhwal,Akash Madhwal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+8182,Donovan Ferreira,Donovan Ferreira,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2023, IPL 2024."
+8217,Ansh Tandon,Ansh Tandon,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, New Zealand in United Arab Emirates T20I Series 2023."
+8221,Nitish Reddy,Nitish Reddy,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Bangladesh in India T20I Series 2024, England in India T20I Series 2025."
+8238,Sameer Rizvi,Sameer Rizvi,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2024, IPL 2025."
+8241,Lokesh Bam,Lokesh Bam,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+8244,Pratish GC,Pratish GC,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+8249,Sher Malla,Sher Malla,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+8251,Kumar Kushagra,Kumar Kushagra,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2024, IPL 2025."
+8266,Sumit Kumar 1,Sumit Kumar,Verified,False,,Verified across official match logs in IPL 2024.
+8295,Matthew Forde,Matthew Forde,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2023."
+8298,Ramon Simmonds,Ramon Simmonds,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Nepal v West Indies T20I Series 2025, West Indies in Bangladesh T20I Series 2025."
+8301,Asif Khan,Asif Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8311,Dan Mousley,Dan Mousley,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in West Indies T20I Series 2024."
+8326,Jayden Seales,Jayden Seales,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, Bangladesh in West Indies T20I Series 2024, England in West Indies T20I Series 2024."
+8329,Scott Currie,Scott Currie,Verified,False,,Verified across official match logs in England in Ireland T20I series 2025.
+8380,Mohammad Rishad Hossain,Rishad Hossain,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025."
+8388,Ahan Wickramasinghe,Ahan Wickramasinghe,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+8389,Jayden Lennox,Jayden Lennox,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, South Africa in New Zealand T20I Series 2026."
+8405,Kanwarpal Tathgur,Kanwarpal Tathgur,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+8408,Shreyas Movva,Shreyas Movva,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+8424,Tanveer Sangha,Tanveer Sangha,Verified,False,,"Verified across official match logs in Australia in India T20I Series 2023, Australia in South Africa T20I Series 2023, India in Australia T20I Series 2025."
+8530,Kartik Tyagi,Kartik Tyagi,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+8580,Yudhvir Singh,Yudhvir Singh,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+8600,Tadiwanashe Marumani,Tadiwanashe Marumani,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+8611,Adithya Ashok,Adithya Ashok,Verified,False,,"Verified across official match logs in Bangladesh in New Zealand T20I Series 2023, New Zealand in England T20I Series 2023, New Zealand in United Arab Emirates T20I Series 2023."
+8614,William ORourke,William ORourke,Verified,False,,"Verified across official match logs in Bangladesh in New Zealand T20I Series 2023, IPL 2025, New Zealand in Pakistan T20I Series 2024."
+8623,Kristian Clarke,Kristian Clarke,Verified,False,,"Verified across official match logs in New Zealand in Bangladesh T20I Series 2026, New Zealand in India T20I Series 2026."
+8632,Aaqib Khan,Aaqib Khan,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+8634,Ashwani Kumar,Ashwani Kumar,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+8637,Vriitya Aravind,Vriitya Aravind,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022, New Zealand in United Arab Emirates T20I Series 2023."
+8638,Basil Hameed,Basil Hameed,Verified,True,39444,UAE senior national team regular. 286 balls recorded across multiple bilateral T20I tournaments.
+8639,Kartik Meiyappan,Kartik Meiyappan,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8647,Sediqullah Atal,Sediqullah Atal,Verified,False,,"Verified across official match logs in Afghanistan in Bangladesh T20I Series 2023, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+8652,Mohammad Ishaq,Mohammad Ishaq,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan v Bangladesh T20I Series 2025."
+8653,Rahmanullah Zadran,Rahmanullah Zadran,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+8654,Cooper Connolly,Cooper Connolly,Verified,False,,"Verified across official match logs in Australia in Bangladesh T20I Series 2026, Australia in England T20I Series 2024, Australia in Pakistan T20I Series 2026."
+8661,Matheesha Pathirana,Matheesha Pathirana,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+8662,Kevin Kasuza,Kevin Kasuza,Verified,False,,Verified across official match logs in Ireland in Zimbabwe T20I Series 2023.
+8664,Victor Nyauchi,Victor Nyauchi,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, Ireland in Zimbabwe T20I Series 2023."
+8719,Aryan Lakra,Aryan Lakra,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+8723,Mohammed Faraazuddin,Mohammed Faraazuddin,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, New Zealand in United Arab Emirates T20I Series 2023."
+8726,Alishan Sharafu,Alishan Sharafu,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+8727,Sanchit Sharma,Sanchit Sharma,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022, Bangladesh in United Arab Emirates T20I Series 2025."
+8729,Haider Shah,Haider Shah,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+8739,Muhammad Irfan,Muhammad Irfan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Bangladesh in Pakistan T20I Series 2025, New Zealand in Pakistan T20I Series 2024."
+8741,Mohammad Haris,Mohammad Haris,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025."
+8743,Muhammad Shehzad,Muhammad Shehzad,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+8746,Vaibhav Arora,Vaibhav Arora,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+8763,Duan Jansen,Duan Jansen,Verified,False,,Verified across official match logs in IPL 2023.
+8771,Rubin Hermann,Rubin Hermann,Verified,False,,"Verified across official match logs in South Africa in New Zealand T20I Series 2026, West Indies in South Africa T20I Series 2026."
+8805,Ottneil Baartman,Ottneil Baartman,Verified,False,,"Verified across official match logs in India in South Africa T20I Series 2023, India in South Africa T20I Series 2024, Ireland v South Africa T20I Series 2024."
+8852,Mihlal Mpongwana,Mihlal Mpongwana,Verified,False,,Verified across official match logs in India in South Africa T20I Series 2024.
+15269,Mohammed Aslam,Mohammed Aslam,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15271,Usmangani Ibrahim Patel,Usmangani Ibrahim Patel,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15274,Ravija Sandaruwan,Ravija Sandaruwan,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15275,Mohammad Amin,Mohammad Amin,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15278,Muhammad Kashif,Muhammad Kashif,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15279,Shiraz Khan,Shiraz Khan,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15280,Sayed Monib,Sayed Monib,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15303,Bilal Tahir,Bilal Tahir,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+15551,Ackeem Auguste,Ackeem Auguste,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, Sri Lanka in West Indies T20I Series 2026, West Indies in Bangladesh T20I Series 2025."
+15629,Shayan Jahangir,Shayan Jahangir,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+16284,Habibur Rahman Sohan,Habibur Rahman Sohan,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+16498,Sultan Ahmad,Sultan Ahmad,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+16536,Makoto Taniyama,Makoto Taniyama,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+16559,Alexander Patmore,Alexander Patmore,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+16565,Kohei Kubota,Kohei Kubota,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+16606,Tsuyoshi Takada,Tsuyoshi Takada,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+17315,Lovepreet bajwa,Lovepreet bajwa,Verified,False,,Verified across official match logs in New Zealand in United Arab Emirates T20I Series 2023.
+17413,Neil Rock,Neil Rock,Verified,False,,"Verified across official match logs in Afghanistan v Ireland T20I Series 2024, Ireland in Zimbabwe T20I Series 2023, Ireland in Zimbabwe T20I Series 2023/24."
+17418,Matthew Foster,Matthew Foster,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+17419,Tim Tector,Tim Tector,Verified,False,,"Verified across official match logs in India in Ireland T20I Series 2026, Ireland in Bangladesh T20I Series 2025, Ireland in United Arab Emirates T20I Series 2026."
+17424,Graham Hume,Graham Hume,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025."
+17430,Conor Olphert,Conor Olphert,Verified,False,,"Verified across official match logs in India in Ireland T20I Series 2022, Ireland in Bangladesh T20I Series 2023, New Zealand in Ireland T20I Series 2022."
+17432,Ross Adair,Ross Adair,Verified,False,,"Verified across official match logs in Afghanistan v Ireland T20I Series 2024, England in Ireland T20I series 2025, India in Ireland T20I Series 2023."
+17898,Bilal Sami,Bilal Sami,Verified,False,,"Verified across official match logs in Afghanistan v Ireland T20I Series 2024, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+17909,Riaz Hassan,Riaz Hassan,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+17910,Mohammad Akram,Mohammad Akram,Verified,False,,Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026.
+17911,Nangeyalia Kharote,Nangeyalia Kharote,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Afghanistan v Ireland T20I Series 2024, Afghanistan v West Indies T20I Series 2026."
+17918,Abdullah Tarakhail,Abdullah Tarakhail,Verified,False,,Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026.
+17919,Mohammad Saleem Safi,Saleem Safi,Verified,False,,"Verified across official match logs in Afghanistan in India T20I Series 2024, Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+17937,Zubaid Akbari,Zubaid Akbari,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Afghanistan v West Indies T20I Series 2026, Asia Cup Rising Stars 2025."
+18206,Tom Hartley,Tom Hartley,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, Pakistan in England T20I Series 2024."
+18592,Ijaz Ahmad Mehri,Ijaz Ahmad Mehri,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+18824,Faran Afzal,Faran Afzal,Verified,False,,Verified across official match logs in England in Bangladesh T20I Series 2023.
+19012,Zeeshan Ali,Zeeshan Ali,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+19016,Aliyaan Zahir Mohammad,Aliyaan Zahir Mohammad,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+19020,Ateeq Iqbal,Ateeq Iqbal,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+19043,Dhananjay Rao,Dhananjay Rao,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+19050,Adit Gorawara,Adit Gorawara,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+19098,Pyla Avinash,Pyla Avinash,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+19124,Anas Khan,Anas Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+19125,Ayush Shukla,Ayush Shukla,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup T20 Qualifiers 2022, Mens T20 Emerging Teams Asia Cup 2024."
+19132,Khurram Shehzad,Khurram Shehzad,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+19145,Aamer Jamal,Aamer Jamal,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, Pakistan in New Zealand T20I series 2024."
+19147,Faraz Akram,Faraz Akram,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, India in Zimbabwe T20I Series 2024, Pakistan in Zimbabwe T20I Series 2024."
+19307,Tharindu Rathnayake,Tharindu Rathnayake,Verified,False,,Verified across official match logs in Sri Lanka in England T20I Series 2026.
+19309,Lahiru Udara,Lahiru Udara,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, Sri Lanka in England T20I Series 2026, Sri Lanka in Pakistan T20I Series 2026."
+19312,Nuwan Thushara,Nuwan Thushara,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+19315,Vijayakanth Viyaskanth,Vijayakanth Viyaskanth,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2024, Pakistan T20I Tri-Series 2025."
+19316,Maheesh Theekshana,Maheesh Theekshana,Verified,False,,"Verified across official match logs in Afghanistan in Sri Lanka T20I Series 2024, Asia Cup 2025, Australia in Sri Lanka T20I Series 2022."
+19530,Shahnawaz Dhani,Shahnawaz Dhani,Verified,False,,"Verified across official match logs in England in Pakistan T20I Series 2022, Mens T20 Emerging Teams Asia Cup 2024, Mens Twenty20 Asia Cup 2022."
+19535,Rejaur Rahman Raja,Rejaur Rahman,Verified,False,,"Verified across official match logs in England in Bangladesh T20I Series 2023, Mens T20 Emerging Teams Asia Cup 2024."
+19714,Abishek Porel,Abishek Porel,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+19754,Raja Khan,Raja Khan,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022, Bangladesh in United Arab Emirates T20I Series 2025."
+19781,Mitchell Owen,Mitchell Owen,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, Australia in Pakistan T20I Series 2026, Australia in West Indies T20I Series 2025."
+19892,Theo van Woerkom,Theo van Woerkom,Verified,False,,"Verified across official match logs in Afghanistan v Ireland T20I Series 2024, India in Ireland T20I Series 2023, Ireland in Zimbabwe T20I Series 2023/24."
+19894,Mitchell Hay,Mitchell Hay,Verified,False,,"Verified across official match logs in New Zealand in Sri Lanka T20I Series 2024, Pakistan in New Zealand T20I Series 2025, Sri Lanka in New Zealand T20I Series 2024/25."
+19902,Tim Pringle,Tim Pringle,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands in Bangladesh T20I Series 2025, New Zealand in Netherlands T20I Series 2022."
+19969,Mubasir Khan,Mubasir Khan,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+19998,Rajvardhan Hangargekar,Rajvardhan Hangargekar,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+20005,Arshad Khan,Arshad Khan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+20006,Ramandeep Singh,Ramandeep Singh,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, England in India T20I Series 2025, IPL 2022."
+20023,Karan Sharma,Karan Sharma,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+20029,Rahul Buddhi,Rahul Buddhi,Verified,False,,Verified across official match logs in IPL 2022.
+20077,Yuvraj Chaudhary,Yuvraj Chaudhary,Verified,False,,Verified across official match logs in IPL 2025.
+20114,Ansh Patel,Ansh Patel,Verified,False,,Verified across official match logs in IPL 2022.
+20163,Aasif Sheikh,Aasif Sheikh,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+20172,Rashid Khan,Rashid Khan,Verified,False,4722 (Afghanistan/IPL player),Nepal national team in UAE in Nepal T20I Series 2026. Nepalese domestic/international player.
+20175,Nandan Yadav,Nandan Yadav,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+20187,Narayan Joshi,Narayan Joshi,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+20192,Hemanta Dhami,Hemanta Dhami,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+20229,Mohammad Ali,Mohammad Ali,Verified,True,3083,Pakistan pace bowler in England 2024 & NZ 2025 series. 45 balls recorded in ball_by_ball under this ID.
+20310,Ahmed Daniyal,Ahmed Daniyal,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024, Pakistan in Bangladesh T20I Series 2025."
+20316,Shahab Alam,Shahab Alam,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+20327,Usman Khan,Usman Khan,Verified,False,,"Verified across official match logs in Australia in Pakistan T20I Series 2026, New Zealand in Pakistan T20I Series 2024, Pakistan T20I Tri-Series 2025."
+20693,Kuldip Yadav,Kuldip Yadav,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2026."
+20694,Bhagath Varma,Bhagath Varma,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023."
+20702,Tristan Stubbs,Tristan Stubbs,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2022, IPL 2023."
+20704,Salman Mirza,Salman Mirza,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Australia in Pakistan T20I Series 2026."
+20802,Abdul Basith,Abdul Basith,Verified,False,,Verified across official match logs in IPL 2023.
+20894,Aman Khan,Aman Khan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2026."
+20989,Vivrant Sharma,Vivrant Sharma,Verified,False,,Verified across official match logs in IPL 2023.
+21182,Utkarsh Srivastava,Utkarsh Srivastava,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+21192,Ahan Trivedi,Ahan Trivedi,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+21194,Bilal Akhtar,Bilal Akhtar,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+21196,Mohammad Waheed,Mohammad Waheed,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022."
+21197,Wajid Shah,Wajid Shah,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Mens Twenty20 Asia Cup 2022."
+21283,Vikas Sharma,Vikas Sharma,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+21388,Martin Coetzee,Martin Coetzee,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+21777,Tafadzwa Tsiga,Tafadzwa Tsiga,Verified,False,,"Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026, India in Zimbabwe T20I Series 2026."
+21780,Ernest Masuku,Ernest Masuku,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan v Zimbabwe T20I Series 2026, Bangladesh in Zimbabwe T20I Series 2022."
+21781,Clive Madande,Clive Madande,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025."
+21784,Brad Evans,Brad Evans,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2025, Afghanistan v Zimbabwe T20I Series 2026."
+21786,Tanaka Chivanga,Tanaka Chivanga,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, India in Zimbabwe T20I Series 2026."
+21787,Takudzwanashe Kaitano,Takudzwanashe Kaitano,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan in Zimbabwe T20I Series 2024, Bangladesh in Zimbabwe T20I Series 2022."
+21790,Tashinga Musekiwa,Tashinga Musekiwa,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025, Bangladesh in Zimbabwe T20I Series 2026."
+21791,J Gumbie,Joylord Gumbie,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Zimbabwe in Bangladesh T20I Series 2024, Zimbabwe in Sri Lanka T20I Series 2024."
+21978,Amir Naqvi,Amir Naqvi,Verified,False,,Verified across official match logs in India in Zimbabwe T20I Series 2024.
+22134,Luke Jongwe,Luke Jongwe,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Bangladesh in Zimbabwe T20I Series 2022, India in Zimbabwe T20I Series 2024."
+22137,Fionn Hand,Fionn Hand,Verified,False,,"Verified across official match logs in Afghanistan in Ireland T20I Series 2022, India in Ireland T20I Series 2023, Ireland in Bangladesh T20I Series 2023."
+22187,Ryan Klein,Ryan Klein,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025, New Zealand in Netherlands T20I Series 2022."
+22188,Aryan Dutt,Aryan Dutt,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+22189,Musa Ahmad,Musa Ahmad,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, New Zealand in Netherlands T20I Series 2022."
+22471,Matthew Humphreys,Matthew Humphreys,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, India in Ireland T20I Series 2026, Ireland in Bangladesh T20I Series 2023."
+22515,Shiran Fernando,Shiran Fernando,Verified,False,,Verified across official match logs in Sri Lanka in Australia T20I Series 2022.
+22565,Muhammad Waseem,Muhammad Waseem,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+22870,Abdul Gaffar,Abdul Gaffar,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+22920,Jacob Duffy,Jacob Duffy,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, Australia in New Zealand T20I Series 2025, Bangladesh in New Zealand T20I Series 2023."
+23195,Gavin Hoey,Gavin Hoey,Verified,False,,"Verified across official match logs in India in Ireland T20I Series 2026, Ireland v South Africa T20I Series 2024, West Indies in Ireland T20I Series 2025."
+23311,Jacob Bethell,Jacob Bethell,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in India T20I Series 2025, England in Ireland T20I series 2025."
+23408,Amit Kumar,Amit Kumar,Verified,False,,Verified across official match logs in IPL 2026.
+23450,Sai Sudharsan,Sai Sudharsan,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+23467,Gurjapneet Singh,Gurjapneet Singh,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2025, IPL 2026."
+24017,Brian Bennett,Brian Bennett,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025, Afghanistan v Zimbabwe T20I Series 2026."
+24217,Sebastiaan Braat,Sebastiaan Braat,Verified,False,,Verified across official match logs in Netherlands in Bangladesh T20I Series 2025.
+24239,Rafiullah,Rafiullah,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+24243,Ubaid Ullah,Ubaid Ullah,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+24245,Shoaib Khan,Shoaib Khan,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+24346,Mohamed Shafeeq,Mohamed Shafeeq,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+24366,Kashyap Prajapati,Kashyap Prajapati,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+24370,Pruthvikumar Damubhai,Pruthvikumar Damubhai,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+24372,Muzahir Raza,Muzahir Raza,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+24381,Shariz Ahmad,Shariz Ahmad,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025, New Zealand in Netherlands T20I Series 2022."
+24473,Sonny Baker,Sonny Baker,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, England in New Zealand T20I Series 2025, India in England T20I Series 2026."
+24475,Rehan Ahmed,Rehan Ahmed,Verified,False,,"Verified across official match logs in England in Bangladesh T20I Series 2023, England in India T20I Series 2025, England in Ireland T20I series 2025."
+24479,James Coles,James Coles,Verified,False,,"Verified across official match logs in India in England T20I Series 2026, Sri Lanka in England T20I Series 2026."
+24489,Abhishek Paradkar,Abhishek Paradkar,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+24754,Atif Mehmood,Atif Mehmood,Verified,False,,Verified across official match logs in England in Bangladesh T20I Series 2023.
+24767,Ripon Mondol,Ripon Mondol,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Bangladesh in West Indies T20I Series 2024, Mens T20 Emerging Teams Asia Cup 2024."
+24772,Suliman Safi,Suliman Safi,Verified,False,,Verified across official match logs in Asia Cup 2025.
+24773,Bilal Ahmad Tarin,Bilal Ahmad Tarin,Verified,False,,Verified across official match logs in Asia Cup 2025.
+24775,M.Naveed Zadran,M.Naveed Zadran,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+24779,Ijaz Ahmadzai,Ijaz Ahmadzai,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2025, Afghanistan v Ireland T20I Series 2024, Afghanistan v West Indies T20I Series 2026."
+24780,Yama Arab,Yama Arab,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+24803,Gulshan Jha,Gulshan Jha,Verified,False,,"Verified across official match logs in Nepal v West Indies T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+24812,Chris Greaves,Chris Greaves,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+24887,Innocent Kaia,Innocent Kaia,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2022, Afghanistan v Zimbabwe T20I Series 2026, Bangladesh in Zimbabwe T20I Series 2022."
+24978,Jack Jarvis,Jack Jarvis,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+24982,Charlie Tear,Charlie Tear,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+25011,Liam Mccarthy,Liam Mccarthy,Verified,False,,"Verified across official match logs in India in Ireland T20I Series 2026, West Indies in Ireland T20I Series 2025."
+25017,Olivier Elenbaas,Olivier Elenbaas,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+25030,Zaman Khan,Zaman Khan,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, Mens T20 Emerging Teams Asia Cup 2024, New Zealand in Pakistan T20I Series 2023."
+25048,Umran Malik,Umran Malik,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+25063,Santosh Yadav,Santosh Yadav,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+25091,Ayan Khan,Ayan Khan,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+25128,Nqabayomzi Peter,Nqabayomzi Peter,Verified,False,,"Verified across official match logs in India in South Africa T20I Series 2024, Ireland v South Africa T20I Series 2024, Pakistan in South Africa T20I Series 2024."
+25132,Praful Hinge,Praful Hinge,Verified,False,,Verified across official match logs in IPL 2026.
+25138,Harsh Dubey,Harsh Dubey,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2025, IPL 2026."
+25139,Shubham Dubey,Shubham Dubey,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+25213,Dewald Brevis,Dewald Brevis,Verified,False,,"Verified across official match logs in Australia in South Africa T20I Series 2023, IPL 2022, IPL 2023."
+25216,Andile Simelane,Andile Simelane,Verified,False,,"Verified across official match logs in India in South Africa T20I Series 2024, Ireland v South Africa T20I Series 2024, Pakistan in South Africa T20I Series 2024."
+25231,Samay Shrivastava,Samay Shrivastava,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+25341,Mahfuzur Rabby,Mahfuzur Rabby,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+25353,Numan Shah,Numan Shah,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+25369,Hashim Khalil Gurbaz,Hashim Khalil Gurbaz,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+25501,Meet Bhavsar,Meet Bhavsar,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+25502,Adnan Idrees,Adnan Idrees,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+25503,Nawaf Ahmed,Nawaf Ahmed,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+25507,Edson Silva,Edson Silva,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+25534,Chad Bowes,Chad Bowes,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2024, New Zealand in England T20I Series 2023, New Zealand in Pakistan T20I Series 2023."
+25541,Michael Rippon,Michael Rippon,Verified,False,,"Verified across official match logs in New Zealand in India T20I Series 2023, New Zealand in Ireland T20I Series 2022, New Zealand in Netherlands T20I Series 2022."
+25554,Darren Walker,Darren Walker,Verified,False,,Verified across official match logs in England in Bangladesh T20I Series 2023.
+25667,Anunay Singh,Anunay Singh,Verified,False,,Verified across official match logs in IPL 2022.
+25669,Priyansh Arya,Priyansh Arya,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2025, IPL 2026."
+25679,Salil Arora,Salil Arora,Verified,False,,Verified across official match logs in IPL 2026.
+25787,Khuzaima Tanvir,Khuzaima Tanvir,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+25809,Juanoy Drysdale,Juanoy Drysdale,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+26197,Avinash Singh,Avinash Singh,Verified,False,,Verified across official match logs in IPL 2023.
+26514,Nimesh Vimukthi,Nimesh Vimukthi,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+26519,Janith Liyanage,Janith Liyanage,Verified,False,,"Verified across official match logs in Asia Cup 2025, England in Sri Lanka T20I Series 2026, Pakistan T20I Tri-Series 2025."
+26530,Treveen Mathew,Treveen Mathew,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Pakistan in Sri Lanka T20I Series 2026."
+26646,Rahul Chopra,Rahul Chopra,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025, Ireland in United Arab Emirates T20I Series 2026."
+26663,Kwena Maphaka,Kwena Maphaka,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+26728,Jordan Hermann,Jordan Hermann,Verified,False,,Verified across official match logs in South Africa in New Zealand T20I Series 2026.
+26795,Joel Davies,Joel Davies,Verified,False,,Verified across official match logs in Australia in Bangladesh T20I Series 2026.
+26830,Nishant Kumar Sindhu,Nishant Sindhu,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+26832,Aneeshwar Gautam Narendra,Aneeshwar Gautam,Verified,False,,Verified across official match logs in IPL 2022.
+26834,Raj Bawa,Raj Bawa,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2025."
+26836,Vicky Ostwal,Vicky Ostwal,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+26839,Haseebullah Khan,Haseebullah Khan,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, New Zealand in Pakistan T20I Series 2024, Pakistan in Australia T20I Series 2024."
+26843,Maaz Sadaqat,Maaz Sadaqat,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Sri Lanka in Pakistan T20I Series 2026."
+26845,Mehran Mumtaz,Mehran Mumtaz,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+26848,Ghazi Ghouri,Ghazi Ghouri,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+26854,SM Meherob Hasan,Meherob Hasan,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+26858,Ariful Islam,Ariful Islam,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+26861,Reuben Wilson,Reuben Wilson,Verified,False,,Verified across official match logs in India in Ireland T20I Series 2026.
+26906,Angkrish Raghuvanshi,Angkrish Raghuvanshi,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+26909,Yash Dhull,Yash Dhull,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+26911,Harnoor Pannu,Harnoor Pannu,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+26913,Shaik Rasheed,Shaik Rasheed,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+26916,Yasir Mohammad,Yasir Mohammad,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+26922,Ashish Odedra,Ashish Odedra,Verified,False,,Verified across official match logs in Asia Cup 2025.
+26988,Jitenkumar Ramanandi,Jitenkumar Ramanandi,Verified,False,,Verified across official match logs in Asia Cup 2025.
+27004,Hassnain Shah,Hassnain Shah,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025."
+27057,Pratik Athavale,Pratik Athavale,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+27059,Karan Sonavale,Karan Sonavale,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+27071,Vinayak Shukla,Vinayak Shukla,Verified,False,,Verified across official match logs in Asia Cup 2025.
+27137,Hammad Mirza,Hammad Mirza,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+27146,Imran Muhammad,Imran Muhammad,Verified,False,,Verified across official match logs in Asia Cup 2025.
+27259,Jishan Alam,Jishan Alam,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+27364,Simranjeet Kang,Simranjeet Kang,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025, Ireland in United Arab Emirates T20I Series 2026."
+27373,Muhammad Farooq,Muhammad Farooq,Verified,True,28978,UAE international leg-spin bowling all-rounder. 134 balls recorded in ball_by_ball across 2024-2026.
+27380,Harshit Kaushik,Harshit Kaushik,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, IPL 2022."
+27390,Matiullah Khan,Matiullah Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025."
+27391,Vishnu Sukumaran,Vishnu Sukumaran,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022, Mens T20 Emerging Teams Asia Cup 2024."
+27460,Ali Naseer,Ali Naseer,Verified,False,,Verified across official match logs in New Zealand in United Arab Emirates T20I Series 2023.
+27462,Adhitya Shetty,Adhitya Shetty,Verified,False,,Verified across official match logs in Bangladesh in United Arab Emirates T20I Series 2022.
+27464,Aayan Afzal Khan,Aayan Afzal Khan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+27465,Nilansh Keswani,Nilansh Keswani,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, United Arab Emirates in Nepal T20I Series 2026."
+27466,Dhruv Parashar,Dhruv Parashar,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025, Ireland in United Arab Emirates T20I Series 2026."
+27469,Aryansh Sharma,Aryansh Sharma,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025, Ireland in United Arab Emirates T20I Series 2026."
+27471,Jash Giyanani,Jash Giyanani,Verified,False,,"Verified across official match logs in New Zealand in United Arab Emirates T20I Series 2023, United Arab Emirates in Nepal T20I Series 2026."
+27504,Dushan Hemantha,Dushan Hemantha,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, Pakistan T20I Tri-Series 2025, Sri Lanka in Zimbabwe T20I Series 2025."
+27516,Ihsanullah Ihsanullah,Ihsanullah Ihsanullah,Verified,False,,"Verified across official match logs in Afghanistan v Pakistan T20I Series 2023, New Zealand in Pakistan T20I Series 2023."
+27517,Yasir Khan,Yasir Khan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+27743,DT Doram,DT Doram,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+27956,Prashant Solanki,Prashant Solanki,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, IPL 2024."
+27959,Hrithik Shokeen,Hrithik Shokeen,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2023, Mens T20 Emerging Teams Asia Cup 2024."
+27960,Mayank Yadav,Mayank Yadav,Verified,False,,"Verified across official match logs in Bangladesh in India T20I Series 2024, IPL 2022, IPL 2023."
+27962,Saurav Chauhan,Saurav Chauhan,Verified,False,,Verified across official match logs in IPL 2024.
+27964,Anshul Kamboj,Anshul Kamboj,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+27970,Gurnoor Brar,Gurnoor Brar,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+27987,Rishiv Joshi,Rishiv Joshi,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+28018,Ashok Sharma,Ashok Sharma,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2025, IPL 2026."
+28019,Ramesh Kumar,Ramesh Kumar,Verified,False,,Verified across official match logs in IPL 2022.
+28020,Shubham Garhwal,Shubham Garhwal,Verified,False,,Verified across official match logs in IPL 2022.
+28021,Saurabh Dubey,Saurabh Dubey,Verified,False,,"Verified across official match logs in IPL 2022, IPL 2026."
+28185,Kamil Pooran,Kamil Pooran,Verified,False,,Verified across official match logs in West Indies in India T20I Series 2026.
+28655,Muhammad Rohid,Muhammad Rohid,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Ireland in United Arab Emirates T20I Series 2026."
+28664,Zahid Ali,Zahid Ali,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+28756,Haider Ali,Haider Ali,Verified,False,7338 (Pakistan player),"United Arab Emirates national team (Asia Cup 2025, T20I Tri-Series 2025-2026)."
+28788,Tanish Suri,Tanish Suri,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+28908,Vincent Masekesa,Vincent Masekesa,Verified,False,,Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026.
+28911,John Masara,John Masara,Verified,False,,Verified across official match logs in Bangladesh in Zimbabwe T20I Series 2022.
+28915,Trevor Gwandu,Trevor Gwandu,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Ireland in Zimbabwe T20I Series 2023/24, Ireland in Zimbabwe T20I Series 2025."
+28967,Tim Robinson,Tim Robinson,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, England in New Zealand T20I Series 2025, New Zealand in Bangladesh T20I Series 2026."
+28970,Connor Esterhuizen,Connor Esterhuizen,Verified,False,,"Verified across official match logs in IPL 2026, South Africa in New Zealand T20I Series 2026."
+28978,Muhammad Farooq,Muhammad Farooq,Possible alias,True,27373,Zero balls recorded in ball_by_ball. Squad duplicate in Emerging Teams Asia Cup 2024.
+29066,Zakary Foulkes,Zakary Foulkes,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, England in New Zealand T20I Series 2025, IPL 2026."
+29075,Aadil Ansari,Aadil Ansari,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+29080,Muhammad Khan,Muhammad Khan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025, United Arab Emirates T20I Tri-Series 2025."
+29558,Muhammad Arfan,Muhammad Arfan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Ireland in United Arab Emirates T20I Series 2026, United Arab Emirates in Nepal T20I Series 2026."
+29699,Ibrahim Takahashi,Ibrahim Takahashi,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+29706,Wataru Miyauchi,Wataru Miyauchi,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+29709,Reo Sakurano,Reo Sakurano,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+29833,Bashir Ahmad,Bashir Ahmad,Verified,True,39479,Afghanistan senior national team in Asia Cup 2025 and Zimbabwe series. Active in ball_by_ball.
+29834,Basir Ahamad,Basir Ahamad,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+29862,Ali Hassan,Ali Hassan,Verified,False,,"Verified across official match logs in Asia Cup 2025, Mens T20 Emerging Teams Asia Cup 2024."
+29888,Harshit Rana,Harshit Rana,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Asia Cup 2025, Bangladesh in India T20I Series 2024."
+30925,Bradley Currie,Bradley Currie,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+30927,Saiteja Mukkamalla,Saiteja Mukkamalla,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+31107,Yasin Patel,Yasin Patel,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+31156,Shahrukh Quddus,Shahrukh Quddus,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+31205,Ruchit Ahir,Ruchit Ahir,Verified,False,,Verified across official match logs in IPL 2026.
+31227,Vidhwath Kaverappa,Vidhwath Kaverappa,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+31513,Ethan Dsouza,Ethan Dsouza,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Bangladesh in United Arab Emirates T20I Series 2025."
+31518,Akshat Raghuwanshi,Akshat Raghuwanshi,Verified,False,,Verified across official match logs in IPL 2026.
+31529,Robin Minz,Robin Minz,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+31834,Neil Anant Karnik,Neil Anant Karnik,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+31835,Akshay Roopak Puri,Akshay Roopak Puri,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+31836,Aman Desai,Aman Desai,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+32244,Tripurana Vijay,Tripurana Vijay,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+32399,Aaron Johnson,Aaron Johnson,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+32401,Akhil Kumar,Akhil Kumar,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+32705,Faridoon Dawoodzai,Faridoon Dawoodzai,Verified,False,,"Verified across official match logs in Afghanistan v Zimbabwe T20I Series 2026, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+32862,Allah Ghazanfar,Allah Ghazanfar,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Afghanistan v Ireland T20I Series 2024, Afghanistan v West Indies T20I Series 2026."
+33009,John Turner,John Turner,Verified,False,,"Verified across official match logs in Australia in England T20I Series 2024, England in West Indies T20I Series 2023, England in West Indies T20I Series 2024."
+33067,Ravichandran Smaran,Ravichandran Smaran,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+33095,Macneil Noronha,Macneil Noronha,Verified,False,,Verified across official match logs in IPL 2026.
+33114,Milan Rathnayake,Milan Rathnayake,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Sri Lanka in West Indies T20I Series 2026."
+33351,Vikas Puri,Vikas Puri,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33437,Jeevan Santhanam,Jeevan Santhanam,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33438,Vihaan Maheshwar,Vihaan Maheshwar,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33439,Aryaveer Chaudhry,Aryaveer Chaudhry,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33440,Adwitya Bhargava,Adwitya Bhargava,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33441,Abdul Rahman Bhadelia,Abdul Rahman Bhadelia,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33442,Fahad Choudhary,Fahad Choudhary,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+33443,Sabir Ali,Sabir Ali,Verified,False,,"Verified across official match logs in Asia Cup T20 Qualifiers 2022, Bangladesh in United Arab Emirates T20I Series 2022."
+33523,Arjun Saud,Arjun Saud,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+33675,Mohammad Naeem,Mohammad Naeem,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+33969,Tinotenda Maposa,Tinotenda Maposa,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Afghanistan in Zimbabwe T20I Series 2025, Bangladesh in Zimbabwe T20I Series 2026."
+34118,Irfan Taufiq,Irfan Taufiq,Verified,False,,Verified across official match logs in IPL 2022.
+34466,Arafat Minhas,Arafat Minhas,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024, Pakistan in Australia T20I Series 2024."
+34485,Sufiyan Muqeem,Sufiyan Muqeem,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+34522,Brandon McMullen,Brandon McMullen,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+34527,Jasper John Davidson,Jasper John Davidson,Verified,False,,"Verified across official match logs in Australia in Scotland T20I Series 2024, Netherlands Tri-Nation T20I Series 2024."
+34543,Darsh Vora,Darsh Vora,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+34546,Aryan Bisht,Aryan Bisht,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025."
+34694,Haroon Shahid,Haroon Shahid,Verified,False,,Verified across official match logs in Asia Cup T20 Qualifiers 2022.
+34880,Saad Masood,Saad Masood,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+34910,Hassan Eisakhil,Hassan Eisakhil,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+34928,Kendel Fleming,Kendel Fleming,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+34929,Lachlan Lake,Lachlan Lake,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+34957,Jafer Chohan,Jafer Chohan,Verified,False,,Verified across official match logs in England in West Indies T20I Series 2024.
+34969,Manav Suthar,Manav Suthar,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+34991,Rajan Kumar,Rajan Kumar,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+35071,Kunal Rathore,Kunal Rathore,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024, IPL 2025."
+35072,Ramakrishna Ghosh,Ramakrishna Ghosh,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+35102,Zikria Islam,Zikria Islam,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025."
+35120,Narayan Saishiv,Narayan Saishiv,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+35122,Shah Faisal,Shah Faisal,Verified,False,,Verified across official match logs in Asia Cup 2025.
+35133,Sufyan Yousuf,Sufyan Yousuf,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025."
+35318,Sakib Hussain,Sakib Hussain,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2026."
+35506,Quentin Sampson,Quentin Sampson,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, West Indies in India T20I Series 2026, West Indies in South Africa T20I Series 2026."
+36033,Muhammad Shahdad,Muhammad Shahdad,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+36153,Syed Haider,Syed Haider,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+36328,Mangesh Yadav,Mangesh Yadav,Verified,False,,Verified across official match logs in IPL 2026.
+36551,Zishan Motara,Zishan Motara,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+36553,Jediah Blades,Jediah Blades,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, Nepal v West Indies T20I Series 2025, Pakistan in West Indies T20I Series 2025."
+36981,Himanshu Sharma,Himanshu Sharma,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+36982,Suyash Sharma,Suyash Sharma,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2023, IPL 2024."
+36983,Mohit Rathee,Mohit Rathee,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2025."
+36984,Raghav Goyal,Raghav Goyal,Verified,False,,Verified across official match logs in IPL 2023.
+37052,Naman Dhir,Naman Dhir,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, IPL 2024, IPL 2025."
+37201,Jewel Andrew,Jewel Andrew,Verified,False,,"Verified across official match logs in Australia in West Indies T20I Series 2025, England in West Indies T20I Series 2024, Nepal v West Indies T20I Series 2025."
+37311,Shiv Mathur,Shiv Mathur,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+37559,Nadeem Khan,Nadeem Khan,Verified,False,,Verified across official match logs in Asia Cup 2025.
+37572,Shafiq Jan,Shafiq Jan,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+37621,Rajab Hussain,Rajab Hussain,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+37731,Musheer Khan,Musheer Khan,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+37879,Khawaja Nafay,Khawaja Nafay,Verified,False,,"Verified across official match logs in Australia in Pakistan T20I Series 2026, Pakistan in Sri Lanka T20I Series 2026, Sri Lanka in Pakistan T20I Series 2026."
+37939,Nahid Rana,Nahid Rana,Verified,False,,"Verified across official match logs in Asia Cup 2025, Australia in Bangladesh T20I Series 2026, Bangladesh in Pakistan T20I Series 2025."
+38044,Mahli Beardman,Mahli Beardman,Verified,False,,"Verified across official match logs in Australia in Pakistan T20I Series 2026, India in Australia T20I Series 2025."
+38050,Isitha Wijesundera,Isitha Wijesundera,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Mens T20 Emerging Teams Asia Cup 2024."
+38855,Mohammad Saifuddin,Mohammad Saifuddin,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Asia Cup 2025, Bangladesh in Sri Lanka T20I Series 2025."
+39374,Muhammad Zohaib,Muhammad Zohaib,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in United Arab Emirates T20I Series 2025, Ireland in United Arab Emirates T20I Series 2026."
+39444,Basil Hameed,Basil Hameed,Possible alias,True,8638,"Duplicate UAE registration in Mens T20 Emerging Teams Asia Cup 2024. Active in ball_by_ball for matches 37087, 37092, 37095."
+39455,Maruf Mridha,Maruf Mridha,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+39461,Wasi Sddiquee,Wasi Sddiquee,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+39479,Bashir Ahmad,Bashir Ahmad,"Internally consistent, externally unverified",True,29833,Zero balls recorded in ball_by_ball. Listed for Afghanistan A in Emerging Teams Asia Cup 2024.
+39630,Dinura Kalupahana,Dinura Kalupahana,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+39637,Garuka Sanketh,Garuka Sanketh,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+39638,Vishen Halambage,Vishen Halambage,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Sri Lanka in Zimbabwe T20I Series 2025."
+39640,Sineth Jayawardena,Sineth Jayawardena,Verified,False,,Verified across official match logs in Sri Lanka in Pakistan T20I Series 2026.
+39648,Sohan de Livera,Sohan de Livera,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+39657,Eshan Malinga,Eshan Malinga,Verified,False,,"Verified across official match logs in Bangladesh in Sri Lanka T20I Series 2025, England in Sri Lanka T20I Series 2026, IPL 2025."
+39672,Aarya Desai,Aarya Desai,Verified,False,,Verified across official match logs in IPL 2023.
+39991,Parveen Kumar,Parveen Kumar,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+40391,Mohammad Faraz Jafri,Mohammad Faraz Jafri,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+41110,Mayank Kumar,Mayank Kumar,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Ireland in United Arab Emirates T20I Series 2026, Mens T20 Emerging Teams Asia Cup 2024."
+41503,Yash Punja,Yash Punja,Verified,False,,Verified across official match logs in IPL 2026.
+41509,Yayin Rai,Yayin Rai,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+41541,Declan Suzuki,Declan Suzuki,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+41863,Josh Hull,Josh Hull,Verified,False,,Verified across official match logs in Australia in England T20I Series 2024.
+42548,Muhammad Jawadullah,Muhammad Jawadullah,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025, Bangladesh in United Arab Emirates T20I Series 2025."
+42810,Noah Croes,Noah Croes,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+42811,Michael Levitt,Michael Levitt,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024."
+42845,Arshin Kulkarni,Arshin Kulkarni,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025, IPL 2026."
+43250,Dilpreet Singh Bajwa,Dilpreet Bajwa,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+43774,Shivam Singh,Shivam Singh,Verified,False,,"Verified across official match logs in IPL 2023, IPL 2024."
+43798,Lhuan Pretorius,Lhuan Pretorius,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026, South Africa in Australia T20I Series 2025."
+43917,Krish Bhagat,Krish Bhagat,Verified,False,,Verified across official match logs in IPL 2026.
+43965,Emanjot Singh Chahal,Emanjot Chahal,Verified,False,,Verified across official match logs in IPL 2026.
+43967,Vishwanath Singh,Vishwanath Singh,Verified,False,,Verified across official match logs in IPL 2024.
+43996,Vihaan Malhotra,Vihaan Malhotra,Verified,False,,Verified across official match logs in IPL 2026.
+44003,Mohammad Ibrahim,Mohammad Ibrahim,Verified,False,,Verified across official match logs in Afghanistan v Ireland T20I Series 2024.
+44293,Jordan Neill,Jordan Neill,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, Ireland in Bangladesh T20I Series 2025."
+44491,L Manvanth Kumar,Manvanth Kumar,Verified,False,,Verified across official match logs in IPL 2025.
+45022,Cedric De Lange,Cedric De Lange,Verified,False,,Verified across official match logs in Netherlands in Bangladesh T20I Series 2025.
+45381,PV Satyanarayan Raju,Satyanarayana Raju,Verified,False,,Verified across official match logs in IPL 2025.
+45457,Zach Lion Cachet,Zach Lion-Cachet,Verified,False,,Verified across official match logs in Netherlands Tri-Nation T20I Series [Aug 2024] 2024.
+45749,Mukul Choudhary,Mukul Choudhary,Verified,False,,Verified across official match logs in IPL 2026.
+45965,Naman Tiwari,Naman Tiwari,Verified,False,,Verified across official match logs in IPL 2026.
+45966,Prashant Veer,Prashant Veer,Verified,False,,Verified across official match logs in IPL 2026.
+45989,Swastik Chikara,Swastik Chikara,Verified,False,,"Verified across official match logs in IPL 2024, IPL 2025."
+46066,Vipraj Nigam,Vipraj Nigam,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026, India in Japan T20I Match 2026."
+46137,Kartik Sharma,Kartik Sharma,Verified,False,,Verified across official match logs in IPL 2026.
+46378,Kyle Klein,Kyle Klein,Verified,False,,"Verified across official match logs in Netherlands Tri-Nation T20I Series 2024, Netherlands Tri-Nation T20I Series [Aug 2024] 2024, Netherlands in Bangladesh T20I Series 2025."
+46929,Dian Forrester,Dian Forrester,Verified,False,,"Verified across official match logs in IPL 2026, South Africa in New Zealand T20I Series 2026."
+46982,Shahid Aziz,Shahid Aziz,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+46996,Mohammad Faiq,Mohammad Faiq,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+47017,Mohammad Jnr,Mohammad Jnr,Verified,False,,"Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024, Sri Lanka in Pakistan T20I Series 2026."
+47050,Shamar Joseph,Shamar Joseph,Verified,False,,"Verified across official match logs in Afghanistan v West Indies T20I Series 2026, England in West Indies T20I Series 2024, IPL 2024."
+47259,Adeeb Usmani,Adeeb Usmani,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+47291,Md Yousuf,Md Yousuf,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+47314,Wafiullah Tarakhil,Wafiullah Tarakhil,Verified,False,,"Verified across official match logs in Afghanistan v Bangladesh T20I Series 2025, Afghanistan v West Indies T20I Series 2026, Asia Cup 2025."
+47370,Aniket Verma,Aniket Verma,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+47371,Zuhaid Zubair,Zuhaid Zubair,Verified,False,,"Verified across official match logs in Bangladesh in United Arab Emirates T20I Series 2025, United Arab Emirates in Nepal T20I Series 2026."
+47403,Newman Nyamhuri,Newman Nyamhuri,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2024, Afghanistan v Zimbabwe T20I Series 2026, Bangladesh in Zimbabwe T20I Series 2026."
+47523,Aman Rao Perala,Aman Rao Perala,Verified,False,,Verified across official match logs in IPL 2026.
+47542,Charles Hinze,Charles Hinze,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+47694,Omid Rahman,Omid Rahman,Verified,False,,Verified across official match logs in Mens T20 Emerging Teams Asia Cup 2024.
+47724,Jahandad Khan,Jahandad Khan,Verified,False,,"Verified across official match logs in Pakistan in Australia T20I Series 2024, Pakistan in New Zealand T20I Series 2025, Pakistan in South Africa T20I Series 2024."
+48278,Ubaid Shah,Ubaid Shah,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+48504,Ayush Mhatre,Ayush Mhatre,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+48551,Aravelly Avanish,Aravelly Avanish,Verified,False,,Verified across official match logs in IPL 2024.
+48555,Andre Siddharth,Andre Siddharth,Verified,False,,Verified across official match logs in IPL 2025.
+48557,Vignesh Puthur,Vignesh Puthur,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+48575,Sahil Parakh,Sahil Parakh,Verified,False,,Verified across official match logs in IPL 2026.
+48616,Abdul Saqlain,Abdul Saqlain,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Australia in Bangladesh T20I Series 2026, Bangladesh in Zimbabwe T20I Series 2026."
+48953,Danish Malewar,Danish Malewar,Verified,False,,Verified across official match logs in IPL 2026.
+49003,Hasan Nawaz,Hasan Nawaz,Verified,False,,"Verified across official match logs in Asia Cup 2025, Bangladesh in Pakistan T20I Series 2025, Pakistan T20I Tri-Series 2025."
+49027,Bevon Jacobs,Bevon Jacobs,Verified,False,,"Verified across official match logs in Australia in New Zealand T20I Series 2025, England in New Zealand T20I Series 2025, IPL 2025."
+49265,Ahmed Tariq,Ahmed Tariq,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+49268,Sohaib Khan,Sohaib Khan,Verified,False,,"Verified across official match logs in Asia Cup Rising Stars 2025, Ireland in United Arab Emirates T20I Series 2026, United Arab Emirates in Nepal T20I Series 2026."
+49665,Prince Choudhary,Prince Choudhary,Verified,False,,Verified across official match logs in IPL 2024.
+49670,Vansh Bedi,Vansh Bedi,Verified,False,,Verified across official match logs in IPL 2025.
+50062,Nqobani Mokoena,Nqobani Mokoena,Verified,False,,Verified across official match logs in South Africa in New Zealand T20I Series 2026.
+50226,Luke Watson,Luke Watson,Verified,False,,Verified across official match logs in Australia in New Zealand T20I Series 2024.
+50284,Vaibhav Sooryavanshi,Vaibhav Sooryavanshi,Verified,False,,"Verified across official match logs in Afghanistan vs India in India T20I Series 2026, Asia Cup Rising Stars 2025, IPL 2025."
+52338,Usman Tariq,Usman Tariq,Verified,False,,"Verified across official match logs in Australia in Pakistan T20I Series 2026, Pakistan T20I Tri-Series 2025, Pakistan in Sri Lanka T20I Series 2026."
+53426,Tofael Ahmed,Tofael Ahmed,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+54404,Benjamin Ito,Benjamin Ito,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+54476,Jake Nairn,Jake Nairn,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+54518,Alester Fleming,Alester Fleming,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+55747,Benjamin Calitz,Benjamin Calitz,Verified,False,,"Verified across official match logs in England in Ireland T20I series 2025, India in Ireland T20I Series 2026, Ireland in Bangladesh T20I Series 2025."
+56685,Abdullah Ahmadzai,Abdullah Ahmadzai,Verified,False,,"Verified across official match logs in Afghanistan in Zimbabwe T20I Series 2025, Afghanistan v Bangladesh T20I Series 2025, Afghanistan v Sri Lanka T20I Series 2026."
+56800,Shivam Shukla,Shivam Shukla,Verified,False,,Verified across official match logs in IPL 2025.
+56817,Shivang Kumar,Shivang Kumar,Verified,False,,Verified across official match logs in IPL 2026.
+56830,Madhav Tiwari,Madhav Tiwari,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+57747,Charlie Cassell,Charlie Cassell,Verified,False,,Verified across official match logs in Australia in Scotland T20I Series 2024.
+58134,Digvesh Rathi,Digvesh Rathi,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+58135,Tejasvi Dahiya,Tejasvi Dahiya,Verified,False,,Verified across official match logs in IPL 2026.
+58246,Prince Yadav,Prince Yadav,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026, India in England T20I Series 2026."
+58727,Abhinandan Singh,Abhinandan Singh,Verified,False,,"Verified across official match logs in IPL 2025, IPL 2026."
+58864,Vishal Nishad,Vishal Nishad,Verified,False,,Verified across official match logs in IPL 2026.
+59045,Jai Moondra,Jai Moondra,Verified,False,,Verified across official match logs in India in Ireland T20I Series 2026.
+59853,Ben Fletcher,Ben Fletcher,Verified,False,,Verified across official match logs in Netherlands in Bangladesh T20I Series 2025.
+60208,Shuaib Balushi,Shuaib Balushi,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+60609,Navin Bidaisee,Navin Bidaisee,Verified,False,,Verified across official match logs in Nepal v West Indies T20I Series 2025.
+60689,Zawad Abrar,Zawad Abrar,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+60700,Ravi Singh,Ravi Singh,Verified,False,,Verified across official match logs in IPL 2026.
+62526,Krains Fuletra,Krains Fuletra,Verified,False,,Verified across official match logs in IPL 2026.
+63136,Shadhin Islam,Shadhin Islam,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+63497,RS Ambrish,RS Ambrish,Verified,False,,Verified across official match logs in IPL 2026.
+63779,Kavindu Dilhara,Kavindu Dilhara,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+64604,Kalhan Challu,Kalhan Challu,Verified,False,,"Verified across official match logs in Asia Cup 2025, Asia Cup Rising Stars 2025."
+65598,Shoma Slater,Shoma Slater,Verified,False,,Verified across official match logs in India in Japan T20I Match 2026.
+66056,Ajay Kumar,Ajay Kumar,Verified,False,,Verified across official match logs in United Arab Emirates in Nepal T20I Series 2026.
+66103,Noor Rahman,Noor Rahman,Verified,False,,"Verified across official match logs in Afghanistan v Sri Lanka T20I Series 2026, Afghanistan v Zimbabwe T20I Series 2026, Afghanistan vs India in India T20I Series 2026."
+66513,Omkar Tarmale,Omkar Tarmale,Verified,False,,Verified across official match logs in IPL 2026.
+66540,Kanishk Chouhan,Kanishk Chouhan,Verified,False,,Verified across official match logs in IPL 2026.
+67036,Brijesh Sharma,Brijesh Sharma,Verified,False,,Verified across official match logs in IPL 2026.
+67864,Matt Hollard,Matt Hollard,Verified,False,,Verified across official match logs in India in Ireland T20I Series 2026.
+68280,Satvik Deswal,Satvik Deswal,Verified,False,,Verified across official match logs in IPL 2026.
+68410,Rahmatullah Zadran,Rahmatullah Zadran,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+69806,Mohammad Salman,Mohammad Salman,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+71016,Daksh Kamra,Daksh Kamra,Verified,False,,Verified across official match logs in IPL 2026.
+71107,Nimnaka Ratnayake,Nimnaka Ratnayake,Verified,False,,Verified across official match logs in Asia Cup Rising Stars 2025.
+71311,Mohd Izhar,Mohd Izhar,Verified,False,,Verified across official match logs in IPL 2026.
+71727,Razaullah Razaullah,Razaullah Razaullah,Verified,False,,Verified across official match logs in Sri Lanka in Pakistan T20I Series 2026.
